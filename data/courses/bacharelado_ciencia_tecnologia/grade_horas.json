@@ -1,0 +1,27 @@
+[
+    {
+        "categoria": "Obrigatórias",
+        "creditos": 90,
+        "horas": 1080
+    },
+    {
+        "categoria": "Opção limitada",
+        "creditos": 57,
+        "horas": 684
+    },
+    {
+        "categoria": "Livres",
+        "creditos": 43,
+        "horas": 516
+    },
+    {
+        "categoria": "Atividades complementares",
+        "creditos": 0,
+        "horas": 120
+    },
+    {
+        "categoria": "Carga horária total do curso",
+        "creditos": 190,
+        "horas": 2400
+    }
+]

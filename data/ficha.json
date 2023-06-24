@@ -1,0 +1,482 @@
+[
+    {
+        "creditos": 3,
+        "conceito": "A",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2019,
+        "periodo": "2",
+        "disciplina": "Base Experimental das Ciências Naturais",
+        "codigo": "BCS0001-15"
+    },
+    {
+        "creditos": 2,
+        "conceito": "A",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2019,
+        "periodo": "2",
+        "disciplina": "Bases Conceituais da Energia",
+        "codigo": "BIJ0207-15"
+    },
+    {
+        "creditos": 3,
+        "conceito": "A",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2019,
+        "periodo": "2",
+        "disciplina": "Estrutura da Matéria",
+        "codigo": "BIK0102-15"
+    },
+    {
+        "creditos": 3,
+        "conceito": "B",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2019,
+        "periodo": "2",
+        "disciplina": "Evolução e Diversificação da Vida na Terra",
+        "codigo": "BIL0304-15"
+    },
+    {
+        "creditos": 4,
+        "conceito": "B",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2019,
+        "periodo": "2",
+        "disciplina": "Bases Matemáticas",
+        "codigo": "BIS0003-15"
+    },
+    {
+        "creditos": 2,
+        "conceito": "A",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2019,
+        "periodo": "2",
+        "disciplina": "Bases Computacionais da Ciência",
+        "codigo": "BIS0005-15"
+    },
+    {
+        "creditos": 5,
+        "conceito": "C",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2019,
+        "periodo": "3",
+        "disciplina": "Fenômenos Mecânicos",
+        "codigo": "BCJ0204-15"
+    },
+    {
+        "creditos": 3,
+        "conceito": "A",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2019,
+        "periodo": "3",
+        "disciplina": "Biodiversidade: Interações entre organismos e ambiente",
+        "codigo": "BCL0306-15"
+    },
+    {
+        "creditos": 3,
+        "conceito": "B",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2019,
+        "periodo": "3",
+        "disciplina": "Natureza da Informação",
+        "codigo": "BCM0504-15"
+    },
+    {
+        "creditos": 4,
+        "conceito": "D",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2019,
+        "periodo": "3",
+        "disciplina": "Funções de Uma Variável",
+        "codigo": "BCN0402-15"
+    },
+    {
+        "creditos": 3,
+        "conceito": "A",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2019,
+        "periodo": "3",
+        "disciplina": "Geometria Analítica",
+        "codigo": "BCN0404-15"
+    },
+    {
+        "creditos": 4,
+        "conceito": "A",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2020,
+        "periodo": "1",
+        "disciplina": "Fenômenos Térmicos",
+        "codigo": "BCJ0205-15"
+    },
+    {
+        "creditos": 5,
+        "conceito": "A",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2020,
+        "periodo": "1",
+        "disciplina": "Transformações Químicas",
+        "codigo": "BCL0307-15"
+    },
+    {
+        "creditos": 5,
+        "conceito": "A",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2020,
+        "periodo": "1",
+        "disciplina": "Processamento da Informação",
+        "codigo": "BCM0505-15"
+    },
+    {
+        "creditos": 4,
+        "conceito": "A",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2020,
+        "periodo": "1",
+        "disciplina": "Funções de Várias Variáveis",
+        "codigo": "BCN0407-15"
+    },
+    {
+        "creditos": 2,
+        "conceito": "C",
+        "categoria": "Livre Escolha",
+        "situacao": "Aprovado",
+        "ano": 2020,
+        "periodo": "1",
+        "disciplina": "Consolidação de Conceitos e Métodos de Fenômenos Térmicos",
+        "codigo": "NHZ3087-15"
+    },
+    {
+        "creditos": 5,
+        "conceito": "C",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2020,
+        "periodo": "2",
+        "disciplina": "Fenômenos Eletromagnéticos",
+        "codigo": "BCJ0203-15"
+    },
+    {
+        "creditos": 5,
+        "conceito": "B",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2020,
+        "periodo": "2",
+        "disciplina": "Bioquímica: Estrutura, Propriedade e Funções de Biomoléculas",
+        "codigo": "BCL0308-15"
+    },
+    {
+        "creditos": 4,
+        "conceito": "C",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2020,
+        "periodo": "2",
+        "disciplina": "Introdução às Equações Diferenciais Ordinárias",
+        "codigo": "BCN0405-15"
+    },
+    {
+        "creditos": 3,
+        "conceito": "C",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2020,
+        "periodo": "2",
+        "disciplina": "Introdução à Probabilidade e à Estatística",
+        "codigo": "BIN0406-15"
+    },
+    {
+        "creditos": 2,
+        "conceito": "A",
+        "categoria": "Opção Limitada",
+        "situacao": "Aprovado",
+        "ano": 2020,
+        "periodo": "2",
+        "disciplina": "Fundamentos de Desenho Técnico",
+        "codigo": "ESTO011-17"
+    },
+    {
+        "creditos": 3,
+        "conceito": "B",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2021,
+        "periodo": "1",
+        "disciplina": "Física Quântica",
+        "codigo": "BCK0103-15"
+    },
+    {
+        "creditos": 3,
+        "conceito": "C",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2021,
+        "periodo": "1",
+        "disciplina": "Comunicação e Redes",
+        "codigo": "BCM0506-15"
+    },
+    {
+        "creditos": 3,
+        "conceito": "A",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2021,
+        "periodo": "1",
+        "disciplina": "Estrutura e Dinâmica Social",
+        "codigo": "BIQ0602-15"
+    },
+    {
+        "creditos": 3,
+        "conceito": "A",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2021,
+        "periodo": "1",
+        "disciplina": "Bases Epistemológicas da Ciência Moderna",
+        "codigo": "BIR0004-15"
+    },
+    {
+        "creditos": 3,
+        "conceito": "B",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2021,
+        "periodo": "1",
+        "disciplina": "Ciência, Tecnologia e Sociedade",
+        "codigo": "BIR0603-15"
+    },
+    {
+        "creditos": 2,
+        "conceito": "C",
+        "categoria": "Opção Limitada",
+        "situacao": "Aprovado",
+        "ano": 2021,
+        "periodo": "1",
+        "disciplina": "Princípios de Administração",
+        "codigo": "ESTO012-17"
+    },
+    {
+        "creditos": 4,
+        "conceito": "B",
+        "categoria": "Opção Limitada",
+        "situacao": "Aprovado",
+        "ano": 2021,
+        "periodo": "1",
+        "disciplina": "Empreendedorismo",
+        "codigo": "ESZG013-17"
+    },
+    {
+        "creditos": 2,
+        "conceito": "C",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2021,
+        "periodo": "2",
+        "disciplina": "Projeto Dirigido",
+        "codigo": "BCS0002-15"
+    },
+    {
+        "creditos": 4,
+        "conceito": "B",
+        "categoria": "Livre Escolha",
+        "situacao": "Aprovado",
+        "ano": 2021,
+        "periodo": "2",
+        "disciplina": "Métodos e Técnicas de Análise de Informação para o Planejamento",
+        "codigo": "ESHT011-17"
+    },
+    {
+        "creditos": 2,
+        "conceito": "A",
+        "categoria": "Opção Limitada",
+        "situacao": "Aprovado",
+        "ano": 2021,
+        "periodo": "2",
+        "disciplina": "Introdução às Engenharias",
+        "codigo": "ESTO005-17"
+    },
+    {
+        "creditos": 4,
+        "conceito": "B",
+        "categoria": "Opção Limitada",
+        "situacao": "Aprovado",
+        "ano": 2021,
+        "periodo": "2",
+        "disciplina": "Cálculo Numérico",
+        "codigo": "MCTB009-17"
+    },
+    {
+        "creditos": 4,
+        "conceito": "C",
+        "categoria": "Opção Limitada",
+        "situacao": "Aprovado",
+        "ano": 2021,
+        "periodo": "3",
+        "disciplina": "Engenharia Econômica",
+        "codigo": "ESTO013-17"
+    },
+    {
+        "creditos": 4,
+        "conceito": "C",
+        "categoria": "Opção Limitada",
+        "situacao": "Aprovado",
+        "ano": 2021,
+        "periodo": "3",
+        "disciplina": "Programação Estruturada",
+        "codigo": "MCTA028-15"
+    },
+    {
+        "creditos": 6,
+        "conceito": "C",
+        "categoria": "Opção Limitada",
+        "situacao": "Aprovado",
+        "ano": 2021,
+        "periodo": "3",
+        "disciplina": "Álgebra Linear",
+        "codigo": "MCTB001-17"
+    },
+    {
+        "creditos": 4,
+        "conceito": "A",
+        "categoria": "Livre Escolha",
+        "situacao": "Aprovado",
+        "ano": 2022,
+        "periodo": "1",
+        "disciplina": "Engenharia Humana",
+        "codigo": "ESZG031-17"
+    },
+    {
+        "creditos": 4,
+        "conceito": "C",
+        "categoria": "Opção Limitada",
+        "situacao": "Aprovado",
+        "ano": 2022,
+        "periodo": "1",
+        "disciplina": "Redes de Computadores",
+        "codigo": "MCTA022-17"
+    },
+    {
+        "creditos": 4,
+        "conceito": "A",
+        "categoria": "Opção Limitada",
+        "situacao": "Aprovado",
+        "ano": 2022,
+        "periodo": "1",
+        "disciplina": "Engenharia de Software",
+        "codigo": "MCTA033-15"
+    },
+    {
+        "creditos": 4,
+        "conceito": "C",
+        "categoria": "Opção Limitada",
+        "situacao": "Aprovado",
+        "ano": 2022,
+        "periodo": "1",
+        "disciplina": "Matemática Discreta",
+        "codigo": "MCTB019-17"
+    },
+    {
+        "creditos": 3,
+        "conceito": "B",
+        "categoria": "Obrigatória",
+        "situacao": "Aprovado",
+        "ano": 2022,
+        "periodo": "2",
+        "disciplina": "Interações Atômicas e Moleculares",
+        "codigo": "BCK0104-15"
+    },
+    {
+        "creditos": 2,
+        "conceito": "B",
+        "categoria": "Opção Limitada",
+        "situacao": "Aprovado",
+        "ano": 2022,
+        "periodo": "2",
+        "disciplina": "Computadores, Ética e Sociedade",
+        "codigo": "MCTA009-13"
+    },
+    {
+        "creditos": 4,
+        "conceito": "B",
+        "categoria": "Opção Limitada",
+        "situacao": "Aprovado",
+        "ano": 2022,
+        "periodo": "2",
+        "disciplina": "Programação Orientada a Objetos",
+        "codigo": "MCTA018-13"
+    },
+    {
+        "creditos": 4,
+        "conceito": "B",
+        "categoria": "Livre Escolha",
+        "situacao": "Aprovado",
+        "ano": 2022,
+        "periodo": "3",
+        "disciplina": "Sociedade Civil Organizada Global",
+        "codigo": "ESHR018-13"
+    },
+    {
+        "creditos": 4,
+        "conceito": "B",
+        "categoria": "Opção Limitada",
+        "situacao": "Aprovado",
+        "ano": 2022,
+        "periodo": "3",
+        "disciplina": "Urbanização Brasileira",
+        "codigo": "ESZT016-17"
+    },
+    {
+        "creditos": 2,
+        "conceito": "B",
+        "categoria": "Opção Limitada",
+        "situacao": "Aprovado",
+        "ano": 2022,
+        "periodo": "3",
+        "disciplina": "Neuroarte",
+        "codigo": "MCZC008-13"
+    },
+    {
+        "creditos": 4,
+        "conceito": "F",
+        "categoria": "Opção Limitada",
+        "situacao": "Reprovado",
+        "ano": 2022,
+        "periodo": "3",
+        "disciplina": "Lógica Básica",
+        "codigo": "NHI2049-13"
+    },
+    {
+        "creditos": 6,
+        "conceito": "B",
+        "categoria": "Opção Limitada",
+        "situacao": "Aprovado",
+        "ano": 2022,
+        "periodo": "3",
+        "disciplina": "Bioquímica Experimental",
+        "codigo": "NHT4002-13"
+    },
+    {
+        "creditos": 0,
+        "conceito": "-",
+        "categoria": "-",
+        "situacao": "Apr.S.Nota",
+        "ano": 2023,
+        "periodo": "1",
+        "disciplina": "Atividades Complementares",
+        "codigo": "ATC-BCT"
+    }
+]

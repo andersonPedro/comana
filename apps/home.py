@@ -1,18 +1,25 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from data.create_data import create_table
+from data.create_data import create_df_grade_horas, create_df_bacharelado_ciencia_tecnologia
 
 def app():
-    st.title('Home')
+    st.write("## Projeto Comana")
+    st.write("Veja o quanto ainda falta para você se formar")
+   
+    st.divider()
+    st.write("##### Grade de Horas do Bacharelado em Ciencia e Tecnologia")
+    df_grade_horas = create_df_grade_horas()
+    st.write(df_grade_horas)
+    st.divider()
 
-    st.write("This is a sample home page in the mutliapp.")
-    st.write("See `apps/home.py` to know how to use it.")
+    st.write("##### Matérias do Bacharelado em Ciencia e Tecnologia")
+    df_bacharelado_ciencia_tecnologia = create_df_bacharelado_ciencia_tecnologia()
+    st.write(df_bacharelado_ciencia_tecnologia)
+    st.divider()
 
-    st.markdown("### Sample Data")
-    df = create_table()
-    st.write(df)
 
-    st.write('Navigate to `Data Stats` page to visualize the data')
+
+    st.write('Engenharia Unificada')
 
 
