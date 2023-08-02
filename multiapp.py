@@ -1,6 +1,7 @@
 """Frameworks for running multiple Streamlit applications as a single app.
 """
 import streamlit as st
+from data.create_data import create_ufabc_logo
 
 class MultiApp:
     """Framework for combining multiple streamlit applications.
@@ -23,6 +24,7 @@ class MultiApp:
     """
     def __init__(self):
         self.apps = []
+        st.sidebar.image(create_ufabc_logo(), width=140)
 
     def add_app(self, title, func):
         """Adds a new application.
@@ -40,7 +42,7 @@ class MultiApp:
 
     def run(self):
         app = st.sidebar.radio(
-            'Go To',
+            'Páginas',
             self.apps,
             format_func=lambda app: app['title'])
 
