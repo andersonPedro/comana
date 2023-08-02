@@ -1,0 +1,524 @@
+[
+   {
+      "creditos": 6,
+      "categoria": "Obrigatória",
+      "disciplina": "Álgebra Linear",
+      "codigo": "MCTB001-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Cálculo Numérico",
+      "codigo": "MCTB009-17"
+   },
+   {
+      "creditos": 6,
+      "categoria": "Obrigatória",
+      "disciplina": "Custos",
+      "codigo": "ESTG001-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Desenvolvimento Integrado do Produto",
+      "codigo": "ESTG002-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Obrigatória",
+      "disciplina": "Economia de Empresas",
+      "codigo": "ESTG003-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Elaboração, Análise e Avaliação de Projetos",
+      "codigo": "ESTG004-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Engenharia Econômica",
+      "codigo": "ESTO013-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Engenharia Econômica Aplicada a Sistemas de Gestão",
+      "codigo": "ESTG005-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Engenharia Laboral",
+      "codigo": "ESTG006-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Engenharia Logística",
+      "codigo": "ESTG007-17"
+   },
+   {
+      "creditos": 14,
+      "categoria": "Obrigatória",
+      "disciplina": "Estágio Curricular em Engenharia de Gestão",
+      "codigo": "ESTG905-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Estatística Aplicada a Sistemas de Gestão",
+      "codigo": "ESTG011-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Fenômenos de Transporte",
+      "codigo": "ESTO016-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Obrigatória",
+      "disciplina": "Fundamentos de Desenho Técnico",
+      "codigo": "ESTO011-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Obrigatória",
+      "disciplina": "Gerência de Ativos",
+      "codigo": "ESTG008-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Gestão de Operações",
+      "codigo": "ESTG009-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Inovação Tecnológica",
+      "codigo": "ESTG010-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Instrumentação e Controle",
+      "codigo": "ESTO004-17"
+   },
+   {
+      "creditos": 6,
+      "categoria": "Obrigatória",
+      "disciplina": "Introdução aos Processos de Fabricação Metal - Mecânico",
+      "codigo": "ESTG017-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Obrigatória",
+      "disciplina": "Introdução às Engenharias",
+      "codigo": "ESTO005-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Materiais e Suas Propriedades",
+      "codigo": "ESTO006-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Mecânica dos Sólidos I",
+      "codigo": "ESTO008-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Obrigatória",
+      "disciplina": "Organização do Trabalho",
+      "codigo": "ESTG023-17"
+   },
+   {
+      "creditos": 6,
+      "categoria": "Obrigatória",
+      "disciplina": "Pesquisa Operacional",
+      "codigo": "ESTG013-17"
+   },
+   {
+      "creditos": 6,
+      "categoria": "Obrigatória",
+      "disciplina": "Planejamento e Controle da Produção",
+      "codigo": "ESTG014-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Obrigatória",
+      "disciplina": "Princípios de Administração",
+      "codigo": "ESTO012-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Propriedade Intelectual",
+      "codigo": "ESTG025-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Qualidade em Sistemas",
+      "codigo": "ESTG016-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Sistemas CAD\/CAE",
+      "codigo": "ESTG021-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Sistemas CAM",
+      "codigo": "ESTG022-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Sistemas de Informação Corporativos",
+      "codigo": "ESTG024-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Sistemas e Processos de Produção",
+      "codigo": "ESTG020-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Tempos, Métodos e Arranjos Físicos",
+      "codigo": "ESTG019-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Obrigatória",
+      "disciplina": "Trabalho de Graduação I em Engenharia de Gestão",
+      "codigo": "ESTG902-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Obrigatória",
+      "disciplina": "Trabalho de Graduação II em Engenharia de Gestão",
+      "codigo": "ESTG903-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Obrigatória",
+      "disciplina": "Trabalho de Graduação III em Engenharia de Gestão",
+      "codigo": "ESTG904-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Obrigatória",
+      "disciplina": "Circuitos Elétricos e Fotônica",
+      "codigo": "ESTO001-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Análise de Redes de Transporte e Distribuição",
+      "codigo": "ESZG001-17"
+   },
+   {
+      "creditos": 3,
+      "categoria": "Opção Limitada",
+      "disciplina": "Análise de Sistemas e Modelagem Ambiental",
+      "codigo": "ESTU024-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Automação de Sistemas Industriais",
+      "codigo": "ESTA011-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Automação em Sistemas de Manufatura",
+      "codigo": "ESZG028-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Opção Limitada",
+      "disciplina": "Clima e Cultura Organizacional",
+      "codigo": "ESZG017-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Opção Limitada",
+      "disciplina": "Conceitos de Marketing",
+      "codigo": "ESZG036-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Confiabilidade Industrial em Sistemas de Gestão",
+      "codigo": "ESZG002-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Contabilidade para Engenharia",
+      "codigo": "ESZG023-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Economia Industrial",
+      "codigo": "ESZC020-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Eficiência Energética Industrial",
+      "codigo": "ESZG038-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Engenharia Humana",
+      "codigo": "ESZG031-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Estratégias de Comunicação Organizacional",
+      "codigo": "ESZG018-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Finanças, Gestão e Administração Financeira",
+      "codigo": "ESZG025-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Gestão da Inovação",
+      "codigo": "ESZG041-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Opção Limitada",
+      "disciplina": "Gestão da Qualidade, Segurança, Saúde e Ambiental Aplicada em Projetos",
+      "codigo": "ESZG009-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Gestão de Custos Avançada",
+      "codigo": "ESZG024-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Opção Limitada",
+      "disciplina": "Gestão Estratégica e Organizacional",
+      "codigo": "ESZG019-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Opção Limitada",
+      "disciplina": "Inovação Estratégica",
+      "codigo": "ESZG037-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Instalações Elétricas I",
+      "codigo": "ESTE019-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Lógica em Sistemas de Gestão",
+      "codigo": "ESZG039-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Macroeconomia I",
+      "codigo": "ESHC022-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Opção Limitada",
+      "disciplina": "Metodologia de Análise de Riscos",
+      "codigo": "ESZG042-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Metrologia",
+      "codigo": "ESZG030-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Microeconomia I",
+      "codigo": "ESHC025-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Microeconomia II",
+      "codigo": "ESHC026-21"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Modelagem de Sistemas Dinâmicos I",
+      "codigo": "ESTB020-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Opção Limitada",
+      "disciplina": "Modelos de Comunicação Nas Organizações",
+      "codigo": "ESZG020-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Opção Limitada",
+      "disciplina": "Modelos de Decisão Multicritério",
+      "codigo": "ESZG040-17"
+   },
+   {
+      "creditos": 3,
+      "categoria": "Opção Limitada",
+      "disciplina": "Modelos e Ferramentas de Gestão Ambiental",
+      "codigo": "ESZG032-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Negociação e Solução de Conflitos Organizacionais",
+      "codigo": "ESZG021-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Pesquisa Operacional Aplicada",
+      "codigo": "ESZG006-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Planejamento e Controle de Projetos",
+      "codigo": "ESZG010-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Planejamento Estratégico em Gestão de Projetos",
+      "codigo": "ESZG011-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Projeto Virtual e Integrado de Manufatura",
+      "codigo": "ESZG043-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Projetos Industriais",
+      "codigo": "ESZG012-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Opção Limitada",
+      "disciplina": "Qualidade em Serviços",
+      "codigo": "ESZG035-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Simulação de Modelos de Gestão",
+      "codigo": "ESZG007-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Técnicas de Análise Estrutural e Projeto",
+      "codigo": "ESTS010-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Técnicas de Tomadas de Decisão Aplicáveis em Modelos de Dependência",
+      "codigo": "ESZG004-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Técnicas de Tomadas de Decisão Aplicáveis em Modelos de Interdependência",
+      "codigo": "ESZG005-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Teoria de Filas e Análise de Desempenho",
+      "codigo": "ESTI020-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Vibrações",
+      "codigo": "ESTS008-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Análise Econômica de Projetos Energéticos",
+      "codigo": "ESTE037-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Cálculo Vetorial e Tensorial",
+      "codigo": "MCTB010-13"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Empreendedorismo",
+      "codigo": "ESZG013-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Opção Limitada",
+      "disciplina": "Engenharia Unificada I",
+      "codigo": "ESTO902-17"
+   },
+   {
+      "creditos": 2,
+      "categoria": "Opção Limitada",
+      "disciplina": "Engenharia Unificada II",
+      "codigo": "ESTO903-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Mecânica dos Fluidos I",
+      "codigo": "ESTO015-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Métodos Experimentais em Engenharia",
+      "codigo": "ESTO017-17"
+   },
+   {
+      "creditos": 4,
+      "categoria": "Opção Limitada",
+      "disciplina": "Termodinâmica Aplicada I",
+      "codigo": "ESTO014-17"
+   }
+]

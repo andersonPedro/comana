@@ -1,0 +1,882 @@
+[
+  {
+    "quad": "2023.01",
+    "periodo": "D",
+    "horario": "8-12h/10-12h",
+    "dia_sem": "2a/4a",
+    "codigo": "ESTG013",
+    "disciplina": "Pesquisa operacional"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "2a",
+    "codigo": "ESZG031",
+    "disciplina": "Engenharia humana"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "D",
+    "horario": "8-12h/10-12h",
+    "dia_sem": "3a/6a",
+    "codigo": "ESTG001",
+    "disciplina": "Custos"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "3a",
+    "codigo": "ESTG016",
+    "disciplina": "Qualidade em sistemas"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "D",
+    "horario": "8-10h",
+    "dia_sem": "4a",
+    "codigo": "ESTG003",
+    "disciplina": "Economia de empresas"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "4a",
+    "codigo": "ESTG002",
+    "disciplina": "Desenvolvimento integrado de produto"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "4a",
+    "codigo": "ESZG006",
+    "disciplina": "Pesquisa operacional aplicada"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "5a",
+    "codigo": "ESTG021",
+    "disciplina": "Sistemas CAD/CAE"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "5a",
+    "codigo": "ESZG013",
+    "disciplina": "Empreendedorismo"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "6a",
+    "codigo": "ESZG010",
+    "disciplina": "Planejamento e controle de projetos"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "6a",
+    "codigo": "ESTG024",
+    "disciplina": "Sistemas de informacoes corporativas"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "D",
+    "horario": "10-12h",
+    "dia_sem": "sab",
+    "codigo": "ESZG020",
+    "disciplina": "Modelos de comunicacao nas organizacoes"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "sab",
+    "codigo": "ESZG011",
+    "disciplina": "Planejamento estrategico em gestao de projetos"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "D",
+    "horario": "14h30-18h30",
+    "dia_sem": "3a",
+    "codigo": "ESZG002",
+    "disciplina": "Confiabilidade industrial em sistemas de gestao"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "D",
+    "horario": "14h30-18h30",
+    "dia_sem": "4a",
+    "codigo": "ESTG021",
+    "disciplina": "Sistemas CAD/CAE"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "D",
+    "horario": "14h30-17h30",
+    "dia_sem": "5a",
+    "codigo": "ESZG032",
+    "disciplina": "Modelos e ferramentas de gestao ambiental"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "D",
+    "horario": "14h30-16h30",
+    "dia_sem": "sab",
+    "codigo": "ESZG020",
+    "disciplina": "Modelos de comunicacao nas organizacoes"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "2a",
+    "codigo": "ESTG0011",
+    "disciplina": "Estatistica aplicada a sistemas de gestao"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "2a",
+    "codigo": "ESTG0007",
+    "disciplina": "Engenharia logistica"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "2a",
+    "codigo": "ESTG010",
+    "disciplina": "Inovacao tecnologica"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "N",
+    "horario": "19-21h",
+    "dia_sem": "3a",
+    "codigo": "ESTG0008",
+    "disciplina": "Gerencia de ativos"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "N",
+    "horario": "19-23h/19-21h (lab 1)/21-23h (lab2)",
+    "dia_sem": "3a/5a/5a",
+    "codigo": "ESTG0017",
+    "disciplina": "Introducao aos processos de fabricacao metal-mecanico"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "3a",
+    "codigo": "ESTG0019",
+    "disciplina": "Tempos, metodos e arranjos fisicos"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "4a",
+    "codigo": "ESTG0009",
+    "disciplina": "Gestao de operacoes"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "4a",
+    "codigo": "ESZG001",
+    "disciplina": "Analise de redes de transporte e distribuicao"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "5a",
+    "codigo": "ESTG010",
+    "disciplina": "Inovacao tecnologica"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "6a",
+    "codigo": "ESZG005",
+    "disciplina": "Tecnicas de tomada de decisao aplicaveis em modelos de interdependencia"
+  },
+  {
+    "quad": "2023.01",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "6a",
+    "codigo": "ESTG0006",
+    "disciplina": "Engenharia laboral"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "2a",
+    "codigo": "ESTG005",
+    "disciplina": "Engenharia economica aplicada aos sistemas de gestao"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "D",
+    "horario": "8-10h",
+    "dia_sem": "2a",
+    "codigo": "ESZG036",
+    "disciplina": "Conceitos de marketing"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "3a",
+    "codigo": "ESZG031",
+    "disciplina": "Engenharia humana"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "3a",
+    "codigo": "ESTG025",
+    "disciplina": "Propriedade intelectual"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "D",
+    "horario": "10-12h/8-10h (lab 1)/10-12h (lab 2)",
+    "dia_sem": "3a/4a/4a",
+    "codigo": "ESTG020",
+    "disciplina": "Sistemas e processos de producao"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "D",
+    "horario": "8-12h/10-12h",
+    "dia_sem": "4a/6a",
+    "codigo": "ESTG014",
+    "disciplina": "Planejamento e controle da producao"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "4a",
+    "codigo": "ESZG043",
+    "disciplina": "Projeto virtual e integrado de manufatura"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "5a",
+    "codigo": "ESTG022",
+    "disciplina": "Sistemas CAD/CAM"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "5a",
+    "codigo": "ESTG004",
+    "disciplina": "Elaboracao, analise e avaliacao de projetos"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "D",
+    "horario": "8-10h",
+    "dia_sem": "6a",
+    "codigo": "ESTG022",
+    "disciplina": "Sistemas CAM"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "6a",
+    "codigo": "ESZG021",
+    "disciplina": "Negociacao e solucao de conflitos"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "D",
+    "horario": "10-12h",
+    "dia_sem": "6a",
+    "codigo": "ESTG023",
+    "disciplina": "Organizacao do trabalho"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "sab",
+    "codigo": "ESZG018",
+    "disciplina": "Estrategias de comunicacao organizacional"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "D",
+    "horario": "14h30-18h30",
+    "dia_sem": "4a",
+    "codigo": "ESG028",
+    "disciplina": "Automacao em sistemas de manufatura"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "D",
+    "horario": "14h30-18h30",
+    "dia_sem": "5a",
+    "codigo": "ESZG023",
+    "disciplina": "Contabilidade para engenharia"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "N",
+    "horario": "19-23h/19-21h",
+    "dia_sem": "2a/4a",
+    "codigo": "ESTG013",
+    "disciplina": "Pesquisa operacional"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "N",
+    "horario": "21-23h",
+    "dia_sem": "2a",
+    "codigo": "ESZG036",
+    "disciplina": "Conceitos de marketing"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "3a",
+    "codigo": "ESTG002",
+    "disciplina": "Desenvolvimento integrado de produto"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "3a",
+    "codigo": "ESTG021",
+    "disciplina": "Sistemas CAD/CAE"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "N",
+    "horario": "21-23h",
+    "dia_sem": "4a",
+    "codigo": "ESTG003",
+    "disciplina": "Economia de empresas"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "N",
+    "horario": "19-23h/19-21h",
+    "dia_sem": "5a/6a",
+    "codigo": "ESTG001",
+    "disciplina": "Custos"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "5a",
+    "codigo": "ESTG016",
+    "disciplina": "Qualidade em sistemas"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "5a",
+    "codigo": "ESZG002",
+    "disciplina": "Confiabilidade industrial em sistemas de gestao"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "6a",
+    "codigo": "ESTG024",
+    "disciplina": "Sistemas de informacoes corporativas"
+  },
+  {
+    "quad": "2023.02",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "6a",
+    "codigo": "ESZG039",
+    "disciplina": "Logica em sistemas de gestao"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "2a",
+    "codigo": "ESTG0009",
+    "disciplina": "Gestao de operacoes"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "3a",
+    "codigo": "ESTG006",
+    "disciplina": "Engenharia laboral"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "3a",
+    "codigo": "ESTG007",
+    "disciplina": "Engenharia Logistica"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "3a",
+    "codigo": "ESZG041",
+    "disciplina": "Gestao da Inovacao"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "D",
+    "horario": "8-12h/8-10h (lab 1)/10-12h (lab2)",
+    "dia_sem": "4a/6a/6a",
+    "codigo": "ESTG017",
+    "disciplina": "Introducao aos Processos de Fabricacao Metal-mecanico"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "4a",
+    "codigo": "ESTG0019",
+    "disciplina": "Tempos, metodos e arranjos fisicos"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "D",
+    "horario": "8-10h",
+    "dia_sem": "5a",
+    "codigo": "ESTG0008",
+    "disciplina": "Gerencia de ativos"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "D",
+    "horario": "8-10h",
+    "dia_sem": "5a",
+    "codigo": "ESZG040",
+    "disciplina": "Modelos de Decisao Multicriterio"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "5a",
+    "codigo": "ESTG0011",
+    "disciplina": "Estatistica aplicada a sistemas de gestao"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "5a",
+    "codigo": "ESTG010",
+    "disciplina": "Inovacao tecnologica"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "6a",
+    "codigo": "ESZG039",
+    "disciplina": "Logica em Sistemas de Gestao"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "D",
+    "horario": "14h30-17h30",
+    "dia_sem": "2a",
+    "codigo": "ESZG032",
+    "disciplina": "Modelos e ferramentas de gestao ambiental"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "D",
+    "horario": "14h30-18h30",
+    "dia_sem": "5a",
+    "codigo": "ESZG013",
+    "disciplina": "Empreendedorismo"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "D",
+    "horario": "14h30-18h30",
+    "dia_sem": "6a",
+    "codigo": "ESZG012",
+    "disciplina": "Projetos Industriais"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "N",
+    "horario": "19-21h",
+    "dia_sem": "2a",
+    "codigo": "ESTG023",
+    "disciplina": "Organizacao do Trabalho"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "N",
+    "horario": "21-23h/21-23h",
+    "dia_sem": "2a/5a",
+    "codigo": "ESTG025",
+    "disciplina": "Propriedade Intelectual"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "N",
+    "horario": "19-21h/19-23h",
+    "dia_sem": "2a/4a",
+    "codigo": "ESTG014",
+    "disciplina": "Planejamento e Controle da Producao"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "N",
+    "horario": "19-21h/19-23h",
+    "dia_sem": "2a/4a",
+    "codigo": "ESTG020",
+    "disciplina": "Sist. E Proc. de Producao"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "3a",
+    "codigo": "ESTO002",
+    "disciplina": "Desenv. Integrado de Produtos"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "3a",
+    "codigo": "ESTG004",
+    "disciplina": "Elaboracao, Analise e Avaliacao de Projetos"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "3a",
+    "codigo": "ESTG005",
+    "disciplina": "Engenharia Economica Aplicada a Sistemas de Gestao"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "3a",
+    "codigo": "ESZG006",
+    "disciplina": "Pesquisa Operacional Aplicada"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "3a",
+    "codigo": "ESZG041",
+    "disciplina": "Gestao da Inovacao"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "5a",
+    "codigo": "ESZG010",
+    "disciplina": "Planejamento e Controle de Projetos"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "5a",
+    "codigo": "ESTG022",
+    "disciplina": "Sistemas CAM Turma A"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "6a",
+    "codigo": "ESTG022",
+    "disciplina": "Sistemas CAM Turma B"
+  },
+  {
+    "quad": "2023.03",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "6a",
+    "codigo": "ESZG021",
+    "disciplina": "Negociacao e Solucao de Conflitos Organizacionais"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "8-12h/10-12h",
+    "dia_sem": "2a/4a",
+    "codigo": "ESTG013",
+    "disciplina": "Pesquisa operacional"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "2a",
+    "codigo": "ESZG031",
+    "disciplina": "Engenharia humana"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "8-12h/10-12h",
+    "dia_sem": "3a/6a",
+    "codigo": "ESTG001",
+    "disciplina": "Custos"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "3a",
+    "codigo": "ESTG016",
+    "disciplina": "Qualidade em sistemas"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "3a",
+    "codigo": "ESTG010",
+    "disciplina": "Inovacao Tecnologica"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "8-10h",
+    "dia_sem": "4a",
+    "codigo": "ESTG003",
+    "disciplina": "Economia de empresas"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "4a",
+    "codigo": "ESTG002",
+    "disciplina": "Desenvolvimento integrado de produto"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "4a",
+    "codigo": "ESZG006",
+    "disciplina": "Pesquisa operacional aplicada"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "5a",
+    "codigo": "ESTG021",
+    "disciplina": "Sistemas CAD/CAE"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "5a",
+    "codigo": "ESZG013",
+    "disciplina": "Empreendedorismo"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "6a",
+    "codigo": "ESZG010",
+    "disciplina": "Planejamento e controle de projetos"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "8-12h",
+    "dia_sem": "6a",
+    "codigo": "ESTG024",
+    "disciplina": "Sistemas de informacoes corporativas"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "10-12h",
+    "dia_sem": "sab",
+    "codigo": "ESZG020",
+    "disciplina": "Modelos de comunicacao nas organizacoes"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "14h30-18h30",
+    "dia_sem": "2a",
+    "codigo": "ESZG038",
+    "disciplina": "Eficiencia Energetica Industrial"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "14h30-18h30",
+    "dia_sem": "3a",
+    "codigo": "ESZG002",
+    "disciplina": "Confiabilidade industrial em sistemas de gestao"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "14h30-18h30",
+    "dia_sem": "3a",
+    "codigo": "ESZG011",
+    "disciplina": "Planejamento Estrategico em Gestao de Projetos"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "14h30-18h30",
+    "dia_sem": "4a",
+    "codigo": "ESTG021",
+    "disciplina": "Sistemas CAD/CAE"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "14h30-17h30",
+    "dia_sem": "5a",
+    "codigo": "ESZG032",
+    "disciplina": "Modelos e ferramentas de gestao ambiental"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "D",
+    "horario": "14h30-16h30",
+    "dia_sem": "sab",
+    "codigo": "ESZG020",
+    "disciplina": "Modelos de comunicacao nas organizacoes"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "2a",
+    "codigo": "ESTG0011",
+    "disciplina": "Estatistica aplicada a sistemas de gestao"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "2a",
+    "codigo": "ESTG0007",
+    "disciplina": "Engenharia logistica"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "2a",
+    "codigo": "ESTG010",
+    "disciplina": "Inovacao tecnologica"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "N",
+    "horario": "19-21h",
+    "dia_sem": "3a",
+    "codigo": "ESTG0008",
+    "disciplina": "Gerencia de ativos"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "N",
+    "horario": "19-23h/19-21h (lab 1)/21-23h (lab2)",
+    "dia_sem": "3a/5a/5a",
+    "codigo": "ESTG0017",
+    "disciplina": "Introducao aos processos de fabricacao metal-mecanico"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "4a",
+    "codigo": "ESTG0019",
+    "disciplina": "Tempos, metodos e arranjos fisicos"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "4a",
+    "codigo": "ESTG0009",
+    "disciplina": "Gestao de operacoes"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "4a",
+    "codigo": "ESZG001",
+    "disciplina": "Analise de redes de transporte e distribuicao"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "5a",
+    "codigo": "ESTG010",
+    "disciplina": "Inovacao tecnologica"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "5a",
+    "codigo": "ESZG005",
+    "disciplina": "Tecnicas de Tomadas de Decisao Aplicaveis em Modelos de Interdependencia"
+  },
+  {
+    "quad": "2024.01",
+    "periodo": "N",
+    "horario": "19-23h",
+    "dia_sem": "6a",
+    "codigo": "ESTG0006",
+    "disciplina": "Eng. Laboral"
+  }
+]
