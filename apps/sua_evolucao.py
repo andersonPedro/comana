@@ -117,8 +117,8 @@ def app():
             '',
             (
                 "",
-                "Engenharia de Gestão"#,
-                # "Bacharelado de Biotecnologia",
+                "Engenharia de Gestão",
+                "Bacharelado de Biotecnologia"#,
                 # "Bacharelado de Ciência da Computação",
                 # "Bacharelado de Ciências Biológicas",
                 # "Bacharelado de Física",
@@ -169,3 +169,6 @@ def app():
                 download_button(df_selected)
         else:
             st.write("Em desenvolvimento")
+
+
+    
