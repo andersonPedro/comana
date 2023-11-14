@@ -1,0 +1,372 @@
+{
+    "codigo": "MCZA002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Aprendizado de Máquina",
+    "creditos": 4
+},
+{
+    "codigo": "MCZC010-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Atenção e Estados de Consciência",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Banco de Dados de Apoio à Tomada de Decisão",
+    "creditos": 4
+},
+{
+    "codigo": "MCZC002-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Bases Neurais da Motricidade",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1002-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Bioética",
+    "creditos": 2
+},
+{
+    "codigo": "NHZ1003-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Biofísica",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC025-20",
+    "categoria": "Obrigatória",
+    "disciplina": "Biofísica de Membranas",
+    "creditos": 6
+},
+{
+    "codigo": "NHT1053-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Biologia Celular",
+    "creditos": 6
+},
+{
+    "codigo": "NHZ1008-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Biologia do Desenvolvimento em Vertebrados",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Computação Evolutiva e Conexionista",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC007-20",
+    "categoria": "Obrigatória",
+    "disciplina": "Comunicação Científica",
+    "creditos": 2
+},
+{
+    "codigo": "MCZC004-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Desenvolvimento e Degeneração do Sistema Nervoso",
+    "creditos": 4
+},
+{
+    "codigo": "MCZC001-20",
+    "categoria": "Obrigatória",
+    "disciplina": "Doenças do Sistema Nervoso",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA007-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Empreendedorismo e Desenvolvimento de Negócios",
+    "creditos": 4
+},
+{
+    "codigo": "MCZC007-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Ergonomia Cognitiva",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC015-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Estágio Supervisionado em Neurociência I",
+    "creditos": 1
+},
+{
+    "codigo": "MCTC016-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Estágio Supervisionado em Neurociência II",
+    "creditos": 1
+},
+{
+    "codigo": "MCTC017-20",
+    "categoria": "Obrigatória",
+    "disciplina": "Estágio Supervisionado em Neurociência III",
+    "creditos": 6
+},
+{
+    "codigo": "NHT1055-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos de Imunologia",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1061-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Genética I",
+    "creditos": 6
+},
+{
+    "codigo": "NHT1054-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Histologia e Embriologia",
+    "creditos": 6
+},
+{
+    "codigo": "MCTA014-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Inteligência Artificial",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Interação Humano-Computador",
+    "creditos": 4
+},
+{
+    "codigo": "MCZC014-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Bioestatística",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB022-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Bioinformática",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Biotecnologia",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC001-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Filosofia da Mente",
+    "creditos": 2
+},
+{
+    "codigo": "MCTC014-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Inferência Estatística",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB018-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Modelagem e Processos Estocásticos",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC002-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Neurociência",
+    "creditos": 4
+},
+{
+    "codigo": "MCZC019-20",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Neuroimunologia",
+    "creditos": 2
+},
+{
+    "codigo": "MCZC020-20",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Neuromodulação Invasiva e Não-invasiva",
+    "creditos": 2
+},
+{
+    "codigo": "MCZC003-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Psicolinguística e Neurociência da Linguagem",
+    "creditos": 4
+},
+{
+    "codigo": "MCZC013-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Memória e Aprendizagem",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA015-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Mineração de Dados",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1066-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Morfofisiologia Animal Comparada",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1058-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Morfofisiologia Humana I",
+    "creditos": 6
+},
+{
+    "codigo": "NHT1059-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Morfofisiologia Humana II",
+    "creditos": 6
+},
+{
+    "codigo": "NHT1060-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Morfofisiologia Humana III",
+    "creditos": 6
+},
+{
+    "codigo": "MCTC023-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Neuroanatomia",
+    "creditos": 4
+},
+{
+    "codigo": "MCZC008-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Neuroarte",
+    "creditos": 2
+},
+{
+    "codigo": "MCTC019-20",
+    "categoria": "Obrigatória",
+    "disciplina": "Neurobiologia Molecular e Celular",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC021-20",
+    "categoria": "Obrigatória",
+    "disciplina": "Neurociência Teórica e Computacional",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC024-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Neuroetologia",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC018-20",
+    "categoria": "Obrigatória",
+    "disciplina": "Neuropsicofarmacologia",
+    "creditos": 4
+},
+{
+    "codigo": "MCZC021-20",
+    "categoria": "Obrigatória",
+    "disciplina": "Neuropsicologia",
+    "creditos": 4
+},
+{
+    "codigo": "MCZC017-20",
+    "categoria": "Obrigatória",
+    "disciplina": "Práticas em Neurobiologia Molecular",
+    "creditos": 2
+},
+{
+    "codigo": "MCZA017-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Processamento de Linguagem Natural",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC022-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Processamento de Sinais Neurais",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA018-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Processamento Digital de Imagens",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC009-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Progressos e Métodos em Neurociência",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC011-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Psicologia Cognitiva",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC020-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Psicologia Experimental",
+    "creditos": 6
+},
+{
+    "codigo": "MCZC022-20",
+    "categoria": "Obrigatória",
+    "disciplina": "Psicometria",
+    "creditos": 4
+},
+{
+    "codigo": "MCZC018-20",
+    "categoria": "Obrigatória",
+    "disciplina": "Psicopatologia",
+    "creditos": 2
+},
+{
+    "codigo": "MCZA044-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Robótica e Sistemas Inteligentes",
+    "creditos": 4
+},
+{
+    "codigo": "MCZC012-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Sensação e Percepção",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA026-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas de Gerenciamento de Banco de Dados",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA028-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas Multiagentes",
+    "creditos": 4
+},
+{
+    "codigo": "MCZC011-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Tomada de Decisões e Neuroeconomia",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA030-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Vida Artificial na Computação",
+    "creditos": 2
+},
+{
+    "codigo": "ESZA019-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Visão Computacional",
+    "creditos": 4
+},

@@ -1,0 +1,732 @@
+{
+    "codigo": "ESZR007-21",
+    "categoria": "Obrigatória",
+    "disciplina": "A questão nuclear nas Relações Internacionais",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Álgebra Linear",
+    "creditos": 6
+},
+{
+    "codigo": "ESTE037-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise Econômica de Projetos Energéticos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE075-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise Estática em Sistemas Elétricos de Potência",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE102-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Aproveitamento Energético de Resíduos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE097-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Armazenamento de Energia Elétrica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE010-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Automação de Sistemas Elétricos de Potência",
+    "creditos": 3
+},
+{
+    "codigo": "ESZE089-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Bombas Hidráulicas",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB009-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Cálculo Numérico",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB010-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Cálculo Vetorial e Tensorial",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE019-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Centrais Termoelétricas",
+    "creditos": 2
+},
+{
+    "codigo": "ESTO001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Circuitos Elétricos e Fotônica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Circuitos Elétricos I",
+    "creditos": 5
+},
+{
+    "codigo": "ESTA004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Circuitos Elétricos II",
+    "creditos": 5
+},
+{
+    "codigo": "ESZE086-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Cogeração",
+    "creditos": 2
+},
+{
+    "codigo": "ESTE036-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Economia da Energia",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE057-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Economia do Petróleo e do Gás Natural",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR004-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Economia Política Internacional da Energia",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE110-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Eletrificação Rural Com Recursos Energéticos Renováveis",
+    "creditos": 4
+},
+{
+    "codigo": "ESZA011-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Eletrônica de Potência I",
+    "creditos": 5
+},
+{
+    "codigo": "ESZA012-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Eletrônica de Potência II",
+    "creditos": 5
+},
+{
+    "codigo": "ESZE105-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Energia dos Oceanos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE104-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Energia Geotérmica",
+    "creditos": 2
+},
+{
+    "codigo": "ESTE004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Energia, Meio Ambiente e Sociedade",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE034-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia de Biocombustíveis",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE029-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia de Combustíveis Fósseis",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE058-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia de Completação",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE059-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia de Perfuração",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE030-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia de Petróleo e Gás",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE031-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia de Recursos Hídricos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE060-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia de Reservatórios I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE061-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia de Reservatórios II",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE093-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia do Biodiesel",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE094-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia do Etanol",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO013-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Econômica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE035-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Eólica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE028-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Nuclear",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE033-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Solar Fotovoltaica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE032-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Solar Térmica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO902-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Unificada I",
+    "creditos": 2
+},
+{
+    "codigo": "ESTO903-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Unificada II",
+    "creditos": 2
+},
+{
+    "codigo": "ESZE101-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Escoamento Multifásico",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE905-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Estágio Curricular em Engenharia de Energia",
+    "creditos": 1
+},
+{
+    "codigo": "ESZE098-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Física de Reatores Nucleares",
+    "creditos": 4
+},
+{
+    "codigo": "NHT4017-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Funções e Reações Orgânicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE015-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos de Conversão de Energia Elétrica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO011-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos de Desenho Técnico",
+    "creditos": 2
+},
+{
+    "codigo": "ESTE025-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos de Máquinas Térmicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE018-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos de Sistemas Dinâmicos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZU035-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Geomorfologia",
+    "creditos": 3
+},
+{
+    "codigo": "ESZR004-21",
+    "categoria": "Obrigatória",
+    "disciplina": "Geopolítica do Petróleo e o Desenvolvimento brasileiro",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE084-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Geração de Vapor",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE052-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Geração Distribuída",
+    "creditos": 2
+},
+{
+    "codigo": "ESZE048-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Hidrogênio e Células a Combustível",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE103-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Iluminação Rural Fotovoltaica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE063-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Impacto Ambiental e Social Na Cadeia de Produção de Petróleo",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE109-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Impactos Econômicos e Socioambientais da Geração Fotovoltaica",
+    "creditos": 2
+},
+{
+    "codigo": "ESTE019-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Instalações Elétricas I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE020-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Instalações Elétricas II",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Instrumentação e Controle",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE025-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Integração e Otimização Energética de Processos",
+    "creditos": 2
+},
+{
+    "codigo": "ESTE016-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução aos Sistemas Elétricos de Potência",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução às Engenharias",
+    "creditos": 2
+},
+{
+    "codigo": "ESTE027-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Laboratório de Calor e Fluidos",
+    "creditos": 2
+},
+{
+    "codigo": "ESTA017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Laboratório de Máquinas Elétricas",
+    "creditos": 2
+},
+{
+    "codigo": "ESTE026-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Laboratório de Máquinas Térmicas e Hidráulicas",
+    "creditos": 2
+},
+{
+    "codigo": "ESTA016-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Máquinas Elétricas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE085-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Máquinas Térmicas de Fluxo",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Materiais e Suas Propriedades",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE108-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Materiais e Tecnologias de Conversão Fotovoltaica",
+    "creditos": 2
+},
+{
+    "codigo": "ESTO015-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecânica dos Fluidos I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE024-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecânica dos Fluidos II",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecânica dos Sólidos I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos Experimentais em Engenharia",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE082-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Motores de Combustão Interna",
+    "creditos": 2
+},
+{
+    "codigo": "ESTE017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Operação de Sistemas Elétricos de Potência",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE095-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Operações e Equipamentos Industriais I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE096-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Operações e Equipamentos Industriais II",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE064-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Petrofísica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE080-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Planejamento da Operação de Sistemas Hidrotérmicos de Potência",
+    "creditos": 2
+},
+{
+    "codigo": "ESZE111-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Política Energética",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO012-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Princípios de Administração",
+    "creditos": 2
+},
+{
+    "codigo": "ESZE031-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Processos Termoquímicos de Conversão Energética",
+    "creditos": 2
+},
+{
+    "codigo": "ESZE113-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Projeto de Geradores Elétricos para Energia Eólica",
+    "creditos": 2
+},
+{
+    "codigo": "ESZE112-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Projeto de Microturbinas Eólicas",
+    "creditos": 2
+},
+{
+    "codigo": "ESZE076-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Proteção de Sistemas Elétricos de Potência",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE073-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Qualidade da Energia Elétrica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE066-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Química do Petróleo",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE038-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Reações Nucleares",
+    "creditos": 3
+},
+{
+    "codigo": "ESZE077-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Redes de Distribuição de Energia Elétrica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE100-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Refino do Petróleo",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE090-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Refrigeração e Condicionamento de Ar",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE078-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Regulação e Mercado de Energia Elétrica",
+    "creditos": 2
+},
+{
+    "codigo": "ESTM015-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Reologia",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE045-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Resíduos Nucleares",
+    "creditos": 3
+},
+{
+    "codigo": "ESZE044-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Segurança de Instalações Nucleares",
+    "creditos": 3
+},
+{
+    "codigo": "ESZE074-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas de Potência I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE009-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas de Potência II",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE106-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas Fotovoltaicos Conectados à Rede Elétrica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE107-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas Fotovoltaicos Isolados",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE014-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas Térmicos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE072-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas Termosolares",
+    "creditos": 2
+},
+{
+    "codigo": "ESZE006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Subestação e Equipamentos",
+    "creditos": 2
+},
+{
+    "codigo": "ESZE081-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Tecnologia da Combustão",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE099-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Termo Hidráulica de Reatores Nucleares",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO014-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Termodinâmica Aplicada I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE021-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Termodinâmica Aplicada II",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE079-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Tópicos de Otimização em Sistemas Elétricos de Potência e Aplicações",
+    "creditos": 2
+},
+{
+    "codigo": "ESTE902-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação I em Engenharia de Energia",
+    "creditos": 2
+},
+{
+    "codigo": "ESTE903-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação II em Engenharia de Energia",
+    "creditos": 2
+},
+{
+    "codigo": "ESTE904-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação III em Engenharia de Energia",
+    "creditos": 2
+},
+{
+    "codigo": "ESZR014-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Trajetória de desenvolvimento de países exportadores de petróleo",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE091-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Transferência de Calor e Mecânica dos Fluidos Computacional I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE092-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Transferência de Calor e Mecânica dos Fluidos Computacional II",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE022-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Transferência de Calor I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE023-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Transferência de Calor II",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE083-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Transferência de Calor Industrial",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU020-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Transferência de Massa",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE065-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Transporte de Petróleo e Gás Natural",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE087-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Turbinas Hidráulicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE026-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Ventilação Industrial e Ar Comprimido",
+    "creditos": 2
+},
+{
+    "codigo": "ESZE088-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Ventiladores Industriais",
+    "creditos": 4
+},

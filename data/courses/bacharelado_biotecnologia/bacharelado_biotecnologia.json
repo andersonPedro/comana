@@ -1,0 +1,223 @@
+{
+    "codigo": "ESTU025-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Avaliação de Impactos Ambientais",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1002-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Bioética",
+    "creditos": 2
+},
+{
+    "codigo": "NHT1053-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Biologia Celular",
+    "creditos": 6
+},
+{
+    "codigo": "NHZ1009-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Biologia Molecular e Biotecnologia",
+    "creditos": 3
+},
+{
+    "codigo": "NHZ6009-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Biologia Sintética",
+    "creditos": 2
+},
+{
+    "codigo": "NHT1013-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Bioquímica Funcional",
+    "creditos": 6
+},
+{
+    "codigo": "NHZ6015-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Biotecnologia Ambiental e Agroindustrial",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ6013-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Biotecnologia Animal",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ1078-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Biotecnologia de Plantas",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ6011-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Biotecnologia Humana",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ1014-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Botânica Econômica",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ6016-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Bromatologia e Análise de Alimentos",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ1016-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Conservação da Biodiversidade",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP015-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Economia da Inovação Tecnológica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZU025-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Educação Ambiental",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ6012-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Empreendedorismo e planejamento de projetos em Biotecnologia",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE034-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia de Biocombustíveis",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ6008-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Metabólica",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ6004-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Enzimologia e Biocatálise",
+    "creditos": 6
+},
+{
+    "codigo": "NHZ1024-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Etnofarmacologia",
+    "creditos": 3
+},
+{
+    "codigo": "NHZ1027-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Farmacologia",
+    "creditos": 6
+},
+{
+    "codigo": "NHZ6001-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos da Biotecnologia",
+    "creditos": 2
+},
+{
+    "codigo": "NHT1055-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos de Imunologia",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1057-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Genética II",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ6010-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Genômica e Pós-Genômica",
+    "creditos": 6
+},
+{
+    "codigo": "ESZB022-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Bioinformática",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC014-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Inferência Estatística",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB015-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Laboratório de Bioinformática",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ6005-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Laboratório de Bioprocessos",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1056-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Microbiologia",
+    "creditos": 6
+},
+{
+    "codigo": "NHZ6017-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Morfofisiologia Vegetal",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ6003-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Nanobiotecnologia",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ6006-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Proteínas Recombinantes",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ6007-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Segurança e Regulamentação em Biotecnologia",
+    "creditos": 2
+},
+{
+    "codigo": "NHZ1081-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Técnicas Aplicadas a Processos Biotecnológicos",
+    "creditos": 6
+},
+{
+    "codigo": "NHZ6002-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Tecnologia de Fermentações",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ6014-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Conclusão de Curso de Biotecnologia",
+    "creditos": 2
+},
+

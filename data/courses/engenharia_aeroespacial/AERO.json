@@ -1,0 +1,432 @@
+{
+    "codigo": "ESTS016-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Aerodinâmica I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS019-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Aerodinâmica II",
+    "creditos": 4
+},
+{
+    "codigo": "ESTS012-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Aeroelasticidade",
+    "creditos": 4
+},
+{
+    "codigo": "ESTS002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Aeronáutica I-A",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Aeronáutica I-B",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Aeronáutica II",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Álgebra Linear",
+    "creditos": 6
+},
+{
+    "codigo": "ESZS016-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise Experimental de Estruturas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS012-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Aplicações de Elementos Finitos para Engenharia",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Aviônica",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB009-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Cálculo Numérico",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB010-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Cálculo Vetorial e Tensorial",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS030-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Cinemática e Dinâmica de Mecanismos",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Circuitos Elétricos e Fotônica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Circuitos Elétricos I",
+    "creditos": 5
+},
+{
+    "codigo": "ESTS015-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Combustão I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS034-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Combustão II",
+    "creditos": 4
+},
+{
+    "codigo": "ESZA007-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Confiabilidade de Componentes e Sistemas",
+    "creditos": 3
+},
+{
+    "codigo": "ESTS004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Desempenho de Aeronaves",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS035-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Dinâmica de Fluidos Computacional",
+    "creditos": 4
+},
+{
+    "codigo": "ESTS019-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Dinâmica de Gases",
+    "creditos": 6
+},
+{
+    "codigo": "ESTS005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Dinâmica e Controle de Veículos Espaciais",
+    "creditos": 4
+},
+{
+    "codigo": "ESTS001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Dinâmica I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Dinâmica II",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS029-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Dinâmica Orbital",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Dispositivos Eletrônicos",
+    "creditos": 5
+},
+{
+    "codigo": "ESTI002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Eletrônica Digital",
+    "creditos": 6
+},
+{
+    "codigo": "ESTO013-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Econômica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO902-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Unificada I",
+    "creditos": 2
+},
+{
+    "codigo": "ESTO903-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Unificada II",
+    "creditos": 2
+},
+{
+    "codigo": "ESTS007-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Estabilidade e Controle de Aeronaves",
+    "creditos": 4
+},
+{
+    "codigo": "ESTS905-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Estágio Curricular em Engenharia Aeroespacial",
+    "creditos": 1
+},
+{
+    "codigo": "ESTO011-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos de Desenho Técnico",
+    "creditos": 2
+},
+{
+    "codigo": "ESTO004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Instrumentação e Controle",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS003-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Instrumentação e Sensores em Veículos Aeroespaciais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS032-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Interação Fluido-Estrutura",
+    "creditos": 4
+},
+{
+    "codigo": "ESTS003-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Astronáutica",
+    "creditos": 2
+},
+{
+    "codigo": "ESTO005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução às Engenharias",
+    "creditos": 2
+},
+{
+    "codigo": "ESZS014-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução às Vibrações Não Lineares",
+    "creditos": 4
+},
+{
+    "codigo": "ESTS006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Laboratório de Guiagem, Navegação e Controle",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS025-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Máquinas de Fluxo",
+    "creditos": 4
+},
+{
+    "codigo": "ESTS009-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Materiais Compósitos e Aplicações Estruturais",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Materiais e Suas Propriedades",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO015-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecânica dos Fluidos I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecânica dos Sólidos I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS018-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecânica dos Sólidos II",
+    "creditos": 4
+},
+{
+    "codigo": "ESTS011-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos Computacionais para Análise Estrutural",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos Experimentais em Engenharia",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA020-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Modelagem e Controle",
+    "creditos": 2
+},
+{
+    "codigo": "ESZS008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Navegação Inercial e GPS",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS010-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Otimização em Projetos de Estruturas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS031-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Placas e Cascas",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO012-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Princípios de Administração",
+    "creditos": 2
+},
+{
+    "codigo": "ESZS028-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Projeto de Aeronaves I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTS013-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Projeto de Elementos Estruturais de Aeronaves I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS015-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Projeto de Elementos Estruturais de Aeronaves II",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS033-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Propulsão Aeroespacial Não-Convencional",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA014-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas CAD/CAM",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA003-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas de Controle I",
+    "creditos": 5
+},
+{
+    "codigo": "ESTA008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas de Controle II",
+    "creditos": 5
+},
+{
+    "codigo": "ESTS017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas de Propulsão I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS021-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas de Propulsão II",
+    "creditos": 4
+},
+{
+    "codigo": "ESTS010-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Técnicas de Análise Estrutural e Projeto",
+    "creditos": 4
+},
+{
+    "codigo": "ESZS011-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria da Elasticidade",
+    "creditos": 4
+},
+{
+    "codigo": "ESZA006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria de Controle Ótimo",
+    "creditos": 3
+},
+{
+    "codigo": "ESTO014-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Termodinâmica Aplicada I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTS902-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação I em Engenharia Aeroespacial",
+    "creditos": 2
+},
+{
+    "codigo": "ESTS903-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação II em Engenharia Aeroespacial",
+    "creditos": 2
+},
+{
+    "codigo": "ESTS904-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação III em Engenharia Aeroespacial",
+    "creditos": 2
+},
+{
+    "codigo": "ESTS018-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Transferência de Calor Aplicada a Sistemas Aeroespaciais",
+    "creditos": 4
+},
+{
+    "codigo": "ESTI003-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Transformadas em Sinais e Sistemas Lineares",
+    "creditos": 4
+},
+{
+    "codigo": "ESTS008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Vibrações",
+    "creditos": 4
+},
