@@ -1,4 +1,4 @@
-{
+[{
     "codigo": "MCTB001-17",
     "categoria": "Obrigatória",
     "disciplina": "Álgebra Linear",
@@ -339,4 +339,4 @@
     "categoria": "Obrigatória",
     "disciplina": "Variáveis Complexas e Aplicações",
     "creditos": 4
-},
+}]

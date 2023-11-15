@@ -50,6 +50,9 @@ def create_df_engenharia_energia():
 def create_df_engenharia_materiais():
     return pd.read_json(os.path.join(os.getcwd(), 'data', 'courses', 'engenharia_materiais', 'materiais.json'))
 
+def create_df_engenharia_iar():
+    return pd.read_json(os.path.join(os.getcwd(), 'data', 'courses', 'engenharia_iar', 'engenharia_iar.json'))
+
 ## Imagens
 def create_ufabc_logo():
     return Image.open(os.path.join(os.getcwd(), 'data', 'images', 'ufabc_logo.png'))
@@ -59,3 +62,7 @@ def create_livro():
 
 def create_aprendendo():
     return Image.open(os.path.join(os.getcwd(), 'data', 'images', 'aprendendo.png'))
+
+def create_pica_pau():
+    return Image.open(os.path.join(os.getcwd(), 'data', 'images', 'pica_pau.png'))
+

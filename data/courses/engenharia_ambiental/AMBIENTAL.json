@@ -1,4 +1,4 @@
-{
+[{
     "codigo": "MCTB001-17",
     "categoria": "Obrigatória",
     "disciplina": "Álgebra Linear",
@@ -501,4 +501,4 @@
     "categoria": "Obrigatória",
     "disciplina": "Unidades de Conservação da Natureza",
     "creditos": 4
-},
+}]

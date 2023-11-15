@@ -1,4 +1,4 @@
-{
+[{
     "codigo": "ESTU025-17",
     "categoria": "Obrigatória",
     "disciplina": "Avaliação de Impactos Ambientais",
@@ -219,5 +219,4 @@
     "categoria": "Obrigatória",
     "disciplina": "Trabalho de Conclusão de Curso de Biotecnologia",
     "creditos": 2
-},
-
+}]
