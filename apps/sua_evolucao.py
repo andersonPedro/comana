@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from data.create_data import create_df_grade_horas, create_df_bacharelado_ciencia_tecnologia, create_df_eng_gestao, create_df_eng_gestao_plano
+from data.create_data import create_df_grade_horas, create_df_bacharelado_ciencia_tecnologia, create_df_grade_horas, create_df_bacharelado_ciencia_tecnologia, create_df_eng_gestao, create_df_eng_gestao_plano, create_df_bacharelado_biologia, create_df_bacharelado_biotecnologia, create_df_bacharelado_fisica, create_df_bacharelado_matematica, create_df_bacharelado_neuro, create_df_bacharelado_quimica, create_df_engenharia_aeroespacial, create_df_engenharia_ambiental, create_df_engenharia_energia, create_df_engenharia_materiais 
 import base64
 
 def download_button(df_selected):
@@ -48,6 +48,37 @@ def download_button(df_selected):
         # Criar o botão utilizando a classe CSS personalizada
         href = f'<a href="data:file/csv;base64,{b64}" download="selected_rows.csv" class="botao-bonito">Download das linhas selecionadas</a>'
         st.markdown(href, unsafe_allow_html=True)
+
+        
+def materias(df_materias,df_materias_aprovadas,df_materias_plano=0):    
+    df_materias_plano["quad"] = df_materias_plano["quad"].astype(str).replace(",", "")
+    df_materias_plano         = df_materias_plano[~df_materias_plano["quad"].isin(["2023.01", "2023.02"])]
+    df_materias_plano         = df_materias_plano[~df_materias_plano["codigo"].isin(df_materias_aprovadas["codigo"])]
+    df_materias_plano         = df_materias_plano.reset_index(drop=True)
+
+    # df_materias_realizadas = df_materias[df_materias['codigo'].isin(df_materias_aprovadas['codigo'])].copy().reset_index(drop=True)
+    df_materias_realizadas = df_materias_aprovadas[df_materias_aprovadas['codigo'].isin(df_materias['codigo'])].copy().reset_index(drop=True)
+
+    df_materias_realizadas_graph = df_materias_realizadas.copy()
+    df_materias_realizadas_graph["quadrimestre"] = df_materias_realizadas["ano"].astype(str) + "." + df_materias_realizadas["periodo"].astype(str).str.zfill(2)
+    df_materias_realizadas_graph = df_materias_realizadas_graph[["quadrimestre", "creditos"]]
+
+    tab1, tab2 = st.tabs(["Créditos x Quadrimestres", "Detalhes"])
+    tab1.bar_chart(df_materias_realizadas_graph, x="quadrimestre", y="creditos")
+    tab2.write(df_materias_realizadas.set_index('codigo'))
+
+    st.write("##### Crie sua própria lista de tarefas")
+    st.write("Selecione suas próximas matérias e tenha em mãos o que lhe ajudará na próxima matrícula")
+    df_with_checkbox = df_materias_plano.copy()
+    df_with_checkbox['Escolhas'] = False
+    df_with_checkbox = df_with_checkbox[['Escolhas', 'quad', 'periodo', 'horario', 'dia_sem', 'codigo', 'disciplina']]
+    df_selected = st.data_editor(
+        df_with_checkbox,
+        hide_index=True
+    )
+
+    download_button(df_selected)
+
 
 def app():
     st.title('Sua evolução')
@@ -137,36 +168,7 @@ def app():
 
         if option in materias_ja_desenvolvidas:
             if option == "Engenharia de Gestão":
-                df_eng_gestao       = create_df_eng_gestao()
-                df_eng_gestao_plano = create_df_eng_gestao_plano()
-                
-                df_eng_gestao_plano["quad"] = df_eng_gestao_plano["quad"].astype(str).replace(",", "")
-                df_eng_gestao_plano         = df_eng_gestao_plano[~df_eng_gestao_plano["quad"].isin(["2023.01", "2023.02"])]
-                df_eng_gestao_plano         = df_eng_gestao_plano[~df_eng_gestao_plano["codigo"].isin(df_materias_aprovadas["codigo"])]
-                df_eng_gestao_plano         = df_eng_gestao_plano.reset_index(drop=True)
-
-                # df_materias_realizadas = df_eng_gestao[df_eng_gestao['codigo'].isin(df_materias_aprovadas['codigo'])].copy().reset_index(drop=True)
-                df_materias_realizadas = df_materias_aprovadas[df_materias_aprovadas['codigo'].isin(df_eng_gestao['codigo'])].copy().reset_index(drop=True)
-
-                df_materias_realizadas_graph = df_materias_realizadas.copy()
-                df_materias_realizadas_graph["quadrimestre"] = df_materias_realizadas["ano"].astype(str) + "." + df_materias_realizadas["periodo"].astype(str).str.zfill(2)
-                df_materias_realizadas_graph = df_materias_realizadas_graph[["quadrimestre", "creditos"]]
-
-                tab1, tab2 = st.tabs(["Créditos x Quadrimestres", "Detalhes"])
-                tab1.bar_chart(df_materias_realizadas_graph, x="quadrimestre", y="creditos")
-                tab2.write(df_materias_realizadas.set_index('codigo'))
-
-                st.write("##### Crie sua própria lista de tarefas")
-                st.write("Selecione suas próximas matérias e tenha em mãos o que lhe ajudará na próxima matrícula")
-                df_with_checkbox = df_eng_gestao_plano.copy()
-                df_with_checkbox['Escolhas'] = False
-                df_with_checkbox = df_with_checkbox[['Escolhas', 'quad', 'periodo', 'horario', 'dia_sem', 'codigo', 'disciplina']]
-                df_selected = st.data_editor(
-                    df_with_checkbox,
-                    hide_index=True
-                )
-
-                download_button(df_selected)
+                materias(create_df_eng_gestao(),df_materias_aprovadas,create_df_eng_gestao_plano()),
         else:
             st.write("Em desenvolvimento")
 
