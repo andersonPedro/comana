@@ -1,0 +1,504 @@
+{
+    "codigo": "MCTB001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Álgebra Linear",
+    "creditos": 6
+},
+{
+    "codigo": "ESTU024-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise de Sistemas e Modelagem Ambiental",
+    "creditos": 3
+},
+{
+    "codigo": "ESZU027-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise e Concepção Estrutural para a Engenharia",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU025-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Avaliação de Impactos Ambientais",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU023-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Biomas Brasileiros",
+    "creditos": 3
+},
+{
+    "codigo": "MCTB009-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Cálculo Numérico",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB010-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Cálculo Vetorial e Tensorial",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU026-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Caracterização de Matrizes Ambientais",
+    "creditos": 3
+},
+{
+    "codigo": "ESTU004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Cartografia e Geoprocessamento",
+    "creditos": 4
+},
+{
+    "codigo": "ESZU022-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Ciências Atmosféricas",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Circuitos Elétricos e Fotônica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZU024-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Clima Urbano",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Climatologia",
+    "creditos": 3
+},
+{
+    "codigo": "ESZU002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Compostagem",
+    "creditos": 2
+},
+{
+    "codigo": "ESZU003-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Contaminação e Remediação de Solos",
+    "creditos": 3
+},
+{
+    "codigo": "ESZU034-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Ecologia do Ambiente Urbano",
+    "creditos": 2
+},
+{
+    "codigo": "ESHT005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Economia do Território",
+    "creditos": 4
+},
+{
+    "codigo": "ESZU006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Economia, Sociedade e Meio Ambiente",
+    "creditos": 3
+},
+{
+    "codigo": "ESZU025-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Educação Ambiental",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO013-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Econômica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO902-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Unificada I",
+    "creditos": 2
+},
+{
+    "codigo": "ESTO903-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Unificada II",
+    "creditos": 2
+},
+{
+    "codigo": "ESTU905-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Estágio Curricular em Engenharia Ambiental e Urbana",
+    "creditos": 1
+},
+{
+    "codigo": "ESTO016-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fenômenos de Transporte",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO011-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos de Desenho Técnico",
+    "creditos": 2
+},
+{
+    "codigo": "ESTU027-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos de Geologia para Engenharia",
+    "creditos": 3
+},
+{
+    "codigo": "ESZU035-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Geomorfologia",
+    "creditos": 3
+},
+{
+    "codigo": "ESTU006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Geotecnia",
+    "creditos": 4
+},
+{
+    "codigo": "ESZU028-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Geotecnia Aplicada ao Planejamento Urbano-Ambiental",
+    "creditos": 3
+},
+{
+    "codigo": "ESZU010-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Gestão Ambiental Na Indústria",
+    "creditos": 3
+},
+{
+    "codigo": "ESZU011-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Gestão Urbano-Ambiental",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU007-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Habitação e Assentamentos Humanos",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU028-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Hidráulica de Condutos Forçados",
+    "creditos": 3
+},
+{
+    "codigo": "ESTU029-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Hidráulica de Condutos Livres",
+    "creditos": 2
+},
+{
+    "codigo": "ESTU009-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Hidrologia",
+    "creditos": 4
+},
+{
+    "codigo": "ESZU029-17",
+    "categoria": "Obrigatória",
+    "disciplina": "História da Cidade e do Urbanismo",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Instrumentação e Controle",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução às Engenharias",
+    "creditos": 2
+},
+{
+    "codigo": "ESZU013-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Logística e Meio Ambiente",
+    "creditos": 2
+},
+{
+    "codigo": "ESTO006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Materiais e Suas Propriedades",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO015-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecânica dos Fluidos I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecânica dos Sólidos I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZU014-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos de Tomada de Decisão Aplicados ao Planejamento Urbano-Ambiental",
+    "creditos": 2
+},
+{
+    "codigo": "ESTO017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos Experimentais em Engenharia",
+    "creditos": 4
+},
+{
+    "codigo": "ESZU015-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos Quantitativos para Planejamento Estratégico",
+    "creditos": 2
+},
+{
+    "codigo": "ESTU010-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Microbiologia Ambiental",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Planejamento e Política Ambiental",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU011-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Planejamento Urbano e Metropolitano",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU012-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Poluição Atmosférica",
+    "creditos": 3
+},
+{
+    "codigo": "NHT1071-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Práticas de Ecologia",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO012-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Princípios de Administração",
+    "creditos": 2
+},
+{
+    "codigo": "ESTU040-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Projeto Ambiental Urbano",
+    "creditos": 4
+},
+{
+    "codigo": "ESZU016-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Questões Ambientais Globais",
+    "creditos": 2
+},
+{
+    "codigo": "ESZU037-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Química Ambiental",
+    "creditos": 2
+},
+{
+    "codigo": "ESZM033-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Reciclagem e Ambiente",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU031-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Recuperação de Áreas Degradadas",
+    "creditos": 3
+},
+{
+    "codigo": "ESZU023-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Recursos Hídricos",
+    "creditos": 3
+},
+{
+    "codigo": "ESTU039-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Regulação Ambiental e Urbanística",
+    "creditos": 2
+},
+{
+    "codigo": "ESTU032-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Representação Gráfica de Projetos Ambientais e Urbanos",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU033-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Resíduos Sólidos",
+    "creditos": 3
+},
+{
+    "codigo": "ESZU031-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Reúso de Água",
+    "creditos": 3
+},
+{
+    "codigo": "ESZU030-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Riscos No Ambiente Urbano",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU015-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Saúde Ambiental",
+    "creditos": 2
+},
+{
+    "codigo": "ESZU036-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Saúde, Determinantes Socioambientais e Equidade",
+    "creditos": 3
+},
+{
+    "codigo": "ESZU017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sensoriamento Remoto",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU034-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas de Abastecimento de Águas",
+    "creditos": 3
+},
+{
+    "codigo": "ESTU036-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas de Drenagem Urbana",
+    "creditos": 3
+},
+{
+    "codigo": "ESTU035-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas de Esgotamento Sanitário",
+    "creditos": 3
+},
+{
+    "codigo": "ESTU037-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas de Tratamento de Água",
+    "creditos": 3
+},
+{
+    "codigo": "ESZU033-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Tecnologias Alternativas de Tratamento de Água e Efluentes",
+    "creditos": 3
+},
+{
+    "codigo": "ESTU019-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria do Planejamento Urbano e Ambiental",
+    "creditos": 3
+},
+{
+    "codigo": "ESTO014-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Termodinâmica Aplicada I",
+    "creditos": 4
+},
+{
+    "codigo": "BHQ0301-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Território e Sociedade",
+    "creditos": 4
+},
+{
+    "codigo": "ESZU018-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Tópicos Especiais em Engenharia Ambiental e Urbana",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU902-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação I em Engenharia Ambiental e Urbana",
+    "creditos": 2
+},
+{
+    "codigo": "ESTU903-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação II em Engenharia Ambiental e Urbana",
+    "creditos": 2
+},
+{
+    "codigo": "ESTU904-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação III em Engenharia Ambiental e Urbana",
+    "creditos": 2
+},
+{
+    "codigo": "ESTU020-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Transferência de Massa",
+    "creditos": 4
+},
+{
+    "codigo": "ESZU019-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Transportes e Meio Ambiente",
+    "creditos": 2
+},
+{
+    "codigo": "ESTU021-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Transportes e Mobilidade Urbana",
+    "creditos": 2
+},
+{
+    "codigo": "ESZU020-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Transportes, Uso e Ocupação do Solo",
+    "creditos": 2
+},
+{
+    "codigo": "ESZU032-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Tratamento Avançado de Águas Residuárias",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU038-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Tratamento de Águas Urbanas Servidas",
+    "creditos": 3
+},
+{
+    "codigo": "ESZU021-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Unidades de Conservação da Natureza",
+    "creditos": 4
+},

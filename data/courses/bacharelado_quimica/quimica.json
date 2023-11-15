@@ -1,0 +1,360 @@
+{
+    "codigo": "NHT4001-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise Química Instrumental",
+    "creditos": 6
+},
+{
+    "codigo": "ESTU025-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Avaliação de Impactos Ambientais",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ4060-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Biocombustíveis e Biorrefinarias",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ1009-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Biologia Molecular e Biotecnologia",
+    "creditos": 3
+},
+{
+    "codigo": "NHT4002-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Bioquímica Experimental",
+    "creditos": 6
+},
+{
+    "codigo": "NHZ4004-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Desenho e Projeto em Química",
+    "creditos": 3
+},
+{
+    "codigo": "ESTG003-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Economia de Empresas",
+    "creditos": 2
+},
+{
+    "codigo": "NHT4005-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Eletroanalítica e Técnicas de Separação",
+    "creditos": 6
+},
+{
+    "codigo": "NHT4006-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Eletroquímica e Cinética Química",
+    "creditos": 6
+},
+{
+    "codigo": "ESZG013-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Empreendedorismo",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Energia, Meio Ambiente e Sociedade",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE030-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia de Petróleo e Gás",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE093-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia do Biodiesel",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE094-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia do Etanol",
+    "creditos": 4
+},
+{
+    "codigo": "ESTG006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Laboral",
+    "creditos": 4
+},
+{
+    "codigo": "NHT4007-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Espectroscopia",
+    "creditos": 6
+},
+{
+    "codigo": "NHT4049-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Estrutura da Matéria Avançada",
+    "creditos": 6
+},
+{
+    "codigo": "NHZ4068-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Fermentação Industrial",
+    "creditos": 4
+},
+{
+    "codigo": "NHT4075-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Físico-Química Experimental",
+    "creditos": 4
+},
+{
+    "codigo": "NHT4017-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Funções e Reações Orgânicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZU010-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Gestão Ambiental Na Indústria",
+    "creditos": 3
+},
+{
+    "codigo": "NHZ4059-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Indústria de Polímeros",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Biotecnologia",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ4061-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução a Troca de Calor, Massa e Movimentação de Fluidos",
+    "creditos": 4
+},
+{
+    "codigo": "NHT4023-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Ligações Químicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESTM006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Materiais Poliméricos",
+    "creditos": 4
+},
+{
+    "codigo": "NHT4024-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecanismos de Reações Orgânicas",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ4062-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Meio Ambiente e Indústria",
+    "creditos": 2
+},
+{
+    "codigo": "NHT4025-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos de Análise em Química Orgânica",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1056-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Microbiologia",
+    "creditos": 6
+},
+{
+    "codigo": "ESTU010-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Microbiologia Ambiental",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ4028-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Operações Unitárias I",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ4029-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Operações Unitárias II",
+    "creditos": 4
+},
+{
+    "codigo": "ESTG023-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Organização do Trabalho",
+    "creditos": 2
+},
+{
+    "codigo": "NHZ4063-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Polímeros Síntese, Caracterização e Processos",
+    "creditos": 6
+},
+{
+    "codigo": "NHT4033-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Práticas em Química Verde",
+    "creditos": 4
+},
+{
+    "codigo": "NHT3049-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Princípios de Termodinâmica",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ4064-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Processos Industriais Cerâmicos",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ4035-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Processos Industriais Orgânicos e Inorgânicos",
+    "creditos": 4
+},
+{
+    "codigo": "NHT4051-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Química Analítica Clássica I",
+    "creditos": 6
+},
+{
+    "codigo": "NHT4050-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Química Analítica Clássica II",
+    "creditos": 6
+},
+{
+    "codigo": "NHT4058-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Química Analítica e Bioanalítica Avançada",
+    "creditos": 6
+},
+{
+    "codigo": "NHZ4069-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Química de Alimentos",
+    "creditos": 4
+},
+{
+    "codigo": "NHT4052-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Química de Coordenação",
+    "creditos": 8
+},
+{
+    "codigo": "NHT4053-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Química dos Elementos",
+    "creditos": 8
+},
+{
+    "codigo": "NHZ4038-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Química dos Materiais",
+    "creditos": 6
+},
+{
+    "codigo": "NHT4056-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Química Inorgânica Experimental",
+    "creditos": 4
+},
+{
+    "codigo": "NHT4040-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Química Orgânica Aplicada",
+    "creditos": 4
+},
+{
+    "codigo": "NHT4041-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Química Orgânica Experimental",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE100-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Refino do Petróleo",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU033-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Resíduos Sólidos",
+    "creditos": 3
+},
+{
+    "codigo": "NHZ4042-09",
+    "categoria": "Obrigatória",
+    "disciplina": "Seminários em Química I",
+    "creditos": 2
+},
+{
+    "codigo": "ESTU037-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas de Tratamento de Água",
+    "creditos": 3
+},
+{
+    "codigo": "NHZ4065-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Tecnologia de Alimentos",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ4070-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Tecnologia de Biomateriais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZU033-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Tecnologias Alternativas de Tratamento de Água e Efluentes",
+    "creditos": 3
+},
+{
+    "codigo": "NHT4057-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Termodinâmica Química",
+    "creditos": 4
+},
+{
+    "codigo": "NHT4055-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Tópicos Avançados em Química Orgânica",
+    "creditos": 2
+},
+{
+    "codigo": "NHT4046-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Conclusão de Curso em Química",
+    "creditos": 2
+},
+{
+    "codigo": "ESTU038-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Tratamento de Águas Urbanas Servidas",
+    "creditos": 3
+},

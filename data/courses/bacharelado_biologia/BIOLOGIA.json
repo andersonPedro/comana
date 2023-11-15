@@ -1,0 +1,462 @@
+{
+    "codigo": "NHZ1074-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Astrobiologia",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1002-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Bioética",
+    "creditos": 2
+},
+{
+    "codigo": "NHZ1003-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Biofísica",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1053-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Biologia Celular",
+    "creditos": 6
+},
+{
+    "codigo": "NHZ1008-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Biologia do Desenvolvimento em Vertebrados",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ1009-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Biologia Molecular e Biotecnologia",
+    "creditos": 3
+},
+{
+    "codigo": "NHZ1076-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Biologia Reprodutiva de Plantas",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU023-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Biomas Brasileiros",
+    "creditos": 3
+},
+{
+    "codigo": "NHZ1077-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Bioquímica Clínica",
+    "creditos": 6
+},
+{
+    "codigo": "NHT4002-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Bioquímica Experimental",
+    "creditos": 6
+},
+{
+    "codigo": "NHT1013-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Bioquímica Funcional",
+    "creditos": 6
+},
+{
+    "codigo": "NHZ1078-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Biotecnologia de Plantas",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ1014-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Botânica Econômica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Caracterização de Biomateriais",
+    "creditos": 5
+},
+{
+    "codigo": "ESTM004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Ciência dos Materiais",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ1015-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Citogenética Básica",
+    "creditos": 5
+},
+{
+    "codigo": "NHZ1016-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Conservação da Biodiversidade",
+    "creditos": 4
+},
+{
+    "codigo": "MCZC004-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Desenvolvimento e Degeneração do Sistema Nervoso",
+    "creditos": 4
+},
+{
+    "codigo": "MCZC001-20",
+    "categoria": "Obrigatória",
+    "disciplina": "Doenças do Sistema Nervoso",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1072-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Ecologia Comportamental",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1073-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Ecologia Vegetal",
+    "creditos": 4
+},
+{
+    "codigo": "ESZU025-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Educação Ambiental",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ3003-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Efeitos Biológicos das Radiações",
+    "creditos": 4
+},
+{
+    "codigo": "ESTG004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Elaboração, Análise e Avaliação de Projetos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia de Tecidos",
+    "creditos": 5
+},
+{
+    "codigo": "NHZ1024-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Etnofarmacologia",
+    "creditos": 3
+},
+{
+    "codigo": "NHT1062-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Evolução",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1067-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Evolução e Diversidade de Plantas I",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1068-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Evolução e Diversidade de Plantas II",
+    "creditos": 6
+},
+{
+    "codigo": "NHZ1026-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Evolução Molecular",
+    "creditos": 3
+},
+{
+    "codigo": "NHZ1027-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Farmacologia",
+    "creditos": 6
+},
+{
+    "codigo": "ESTB023-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Física Médica I",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1069-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Fisiologia Vegetal I",
+    "creditos": 6
+},
+{
+    "codigo": "NHT1070-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Fisiologia Vegetal II",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1055-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos de Imunologia",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1061-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Genética I",
+    "creditos": 6
+},
+{
+    "codigo": "NHT1057-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Genética II",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1030-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Geologia e Paleontologia",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1054-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Histologia e Embriologia",
+    "creditos": 6
+},
+{
+    "codigo": "NHZ1031-15",
+    "categoria": "Obrigatória",
+    "disciplina": "História das Ideias Biológicas",
+    "creditos": 2
+},
+{
+    "codigo": "NHZ1090-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Imunologia Aplicada",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ3021-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Interações da Radiação com a Matéria",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB022-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Bioinformática",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Biotecnologia",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC014-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Inferência Estatística",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC002-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Neurociência",
+    "creditos": 4
+},
+{
+    "codigo": "MCZC003-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Psicolinguística e Neurociência da Linguagem",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB015-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Laboratório de Bioinformática",
+    "creditos": 4
+},
+{
+    "codigo": "NHI5015-22",
+    "categoria": "Obrigatória",
+    "disciplina": "LIBRAS",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1056-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Microbiologia",
+    "creditos": 6
+},
+{
+    "codigo": "ESTU010-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Microbiologia Ambiental",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ1079-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Modelagem Molecular de Sistemas Biológicos",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1066-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Morfofisiologia Animal Comparada",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1058-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Morfofisiologia Humana I",
+    "creditos": 6
+},
+{
+    "codigo": "NHT1059-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Morfofisiologia Humana II",
+    "creditos": 6
+},
+{
+    "codigo": "NHT1060-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Morfofisiologia Humana III",
+    "creditos": 6
+},
+{
+    "codigo": "MCTC019-20",
+    "categoria": "Obrigatória",
+    "disciplina": "Neurobiologia Molecular e Celular",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ1037-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Parasitologia",
+    "creditos": 3
+},
+{
+    "codigo": "NHT1071-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Práticas de Ecologia",
+    "creditos": 4
+},
+{
+    "codigo": "ESTB015-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Princípios de Ética em Serviços de Saúde",
+    "creditos": 2
+},
+{
+    "codigo": "ESZU016-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Questões Ambientais Globais",
+    "creditos": 2
+},
+{
+    "codigo": "ESTU039-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Regulação Ambiental e Urbanística",
+    "creditos": 2
+},
+{
+    "codigo": "NHZ1080-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Reprodução Assistida em Mamíferos",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ1042-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Seminários em Biologia I",
+    "creditos": 1
+},
+{
+    "codigo": "NHZ1043-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Seminários em Biologia II",
+    "creditos": 1
+},
+{
+    "codigo": "ESTU037-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas de Tratamento de Água",
+    "creditos": 3
+},
+{
+    "codigo": "NHT1048-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemática e Biogeografia",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ1081-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Técnicas Aplicadas a Processos Biotecnológicos",
+    "creditos": 6
+},
+{
+    "codigo": "NHZ1050-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Toxicologia",
+    "creditos": 6
+},
+{
+    "codigo": "NHT1049-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Conclusão de Curso em Biologia",
+    "creditos": 2
+},
+{
+    "codigo": "NHZ1082-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalhos de Campo, Coleta e Preservação de Organismos",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU038-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Tratamento de Águas Urbanas Servidas",
+    "creditos": 3
+},
+{
+    "codigo": "ESZU021-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Unidades de Conservação da Natureza",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ1051-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Virologia",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1063-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Zoologia de Invertebrados I",
+    "creditos": 6
+},
+{
+    "codigo": "NHT1064-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Zoologia de Invertebrados II",
+    "creditos": 6
+},
+{
+    "codigo": "NHT1065-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Zoologia de Vertebrados",
+    "creditos": 6
+},

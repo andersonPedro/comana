@@ -1,0 +1,402 @@
+{
+    "codigo": "ESZM035-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Aditivação de Polímeros",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Álgebra Linear",
+    "creditos": 6
+},
+{
+    "codigo": "ESZM032-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Biomateriais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM036-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Blendas Poliméricas",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB009-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Cálculo Numérico",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB010-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Cálculo Vetorial e Tensorial",
+    "creditos": 4
+},
+{
+    "codigo": "ESTM014-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Caracterização de Materiais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM022-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Cerâmicas Especiais e Refratárias",
+    "creditos": 4
+},
+{
+    "codigo": "ESTM004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Ciência dos Materiais",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Circuitos Elétricos e Fotônica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM034-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Design de Dispositivos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM009-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Diagramas de Fase",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Dinâmica Molecular e Monte Carlo",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM007-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Elementos Finitos Aplicados em Materiais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM038-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia de Cerâmicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM029-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia de Filmes Finos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM024-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia de Metais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM014-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia de Polímeros",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO013-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Econômica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO902-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Unificada I",
+    "creditos": 2
+},
+{
+    "codigo": "ESTO903-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Unificada II",
+    "creditos": 2
+},
+{
+    "codigo": "ESTM001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Estado Sólido",
+    "creditos": 4
+},
+{
+    "codigo": "ESTM905-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Estágio Curricular em Engenharia de Materiais",
+    "creditos": 1
+},
+{
+    "codigo": "ESTO016-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fenômenos de Transporte",
+    "creditos": 4
+},
+{
+    "codigo": "NHT4017-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Funções e Reações Orgânicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO011-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos de Desenho Técnico",
+    "creditos": 2
+},
+{
+    "codigo": "ESTO004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Instrumentação e Controle",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução às Engenharias",
+    "creditos": 2
+},
+{
+    "codigo": "ESTM017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Materiais Cerâmicos",
+    "creditos": 4
+},
+{
+    "codigo": "ESTM008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Materiais Compósitos",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Materiais e Suas Propriedades",
+    "creditos": 4
+},
+{
+    "codigo": "ESTM005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Materiais Metálicos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM030-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Materiais Nanoestruturados",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM027-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Materiais para Energia e Ambiente",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM028-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Materiais para Tecnologia da Informação",
+    "creditos": 4
+},
+{
+    "codigo": "ESTM006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Materiais Poliméricos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM021-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Matérias Primas Cerâmicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO015-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecânica dos Fluidos I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecânica dos Sólidos I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM023-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Metalurgia Física",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos Experimentais em Engenharia",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Nanociência e Nanotecnologia",
+    "creditos": 2
+},
+{
+    "codigo": "ESZM031-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Nanocompósitos",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO012-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Princípios de Administração",
+    "creditos": 2
+},
+{
+    "codigo": "ESZM039-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Processamento de Materiais Cerâmicos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM037-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Processamento de Polímeros",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM040-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Processamento e Conformação de Metais I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM041-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Processamento e Conformação de Metais II",
+    "creditos": 4
+},
+{
+    "codigo": "ESTM019-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Propriedades Elétricas, Magnéticas e Ópticas",
+    "creditos": 4
+},
+{
+    "codigo": "ESTM010-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Propriedades Mecânicas e Térmicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESTM016-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Química Inorgânica de Materiais",
+    "creditos": 6
+},
+{
+    "codigo": "ESZM033-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Reciclagem e Ambiente",
+    "creditos": 4
+},
+{
+    "codigo": "ESTM015-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Reologia",
+    "creditos": 4
+},
+{
+    "codigo": "ESTM013-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Seleção de Materiais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Seminários em Materiais Avançados",
+    "creditos": 2
+},
+{
+    "codigo": "ESZM025-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Siderurgia e Engenharia dos Aços",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM016-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Síntese de Polímeros",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM013-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Tecnologia de Elastômeros",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO014-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Termodinâmica Aplicada I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTM018-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Termodinâmica de Materiais",
+    "creditos": 4
+},
+{
+    "codigo": "ESTM009-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Termodinâmica Estatística de Materiais",
+    "creditos": 4
+},
+{
+    "codigo": "ESTM003-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Tópicos Computacionais em Materiais",
+    "creditos": 4
+},
+{
+    "codigo": "ESTM002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Tópicos Experimentais em Materiais I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZM012-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Tópicos Experimentais em Materiais II",
+    "creditos": 4
+},
+{
+    "codigo": "ESTM902-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação I em Engenharia de Materiais",
+    "creditos": 2
+},
+{
+    "codigo": "ESTM903-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação II em Engenharia de Materiais",
+    "creditos": 2
+},
+{
+    "codigo": "ESTM904-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação III em Engenharia de Materiais",
+    "creditos": 2
+},

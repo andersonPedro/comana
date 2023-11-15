@@ -1,0 +1,528 @@
+{
+    "codigo": "MCTB001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Álgebra Linear",
+    "creditos": 6
+},
+{
+    "codigo": "MCTB002-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Álgebra Linear Avançada I",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB003-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Álgebra Linear Avançada II",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB001-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise Complexa",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA003-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise de Algoritmos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB002-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise de Regressão",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB003-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise Multivariada",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise no Rn I",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise no Rn II",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise Numérica",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB005-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise Real I",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB006-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise Real II",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB007-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Anéis e Corpos",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Cálculo de Probabilidade",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB009-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Cálculo Numérico",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB010-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Cálculo Vetorial e Tensorial",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA037-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Combinatória Extremal",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Conexões e Fibrados",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ3002-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Dinâmica Não Linear e Caos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB007-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Elementos Finitos",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB011-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Equações Diferenciais Ordinárias",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB012-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Equações Diferenciais Parciais",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ3078-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Equações Diferenciais Parciais Aplicadas",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB035-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Evolução dos Conceitos Matemáticos",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB014-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Extensões Algébricas",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB036-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Filosofia da Matemática",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB008-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Formas Diferenciais",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB015-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Funções de Variável Complexa",
+    "creditos": 6
+},
+{
+    "codigo": "MCZB037-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Funções Especiais e Teoria de Representações de Grupos",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB016-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Geometria Diferencial I",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB017-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Geometria Diferencial II",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB009-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Geometria Não Euclidiana",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB010-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Grupo Fundamental e Espaço de Recobrimento",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB018-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Grupos",
+    "creditos": 4
+},
+{
+    "codigo": "MCTD010-18",
+    "categoria": "Obrigatória",
+    "disciplina": "História da Matemática",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB012-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Inferência Estatística",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB013-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Análise Estocástica em Finanças",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB014-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Análise Funcional",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB015-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Criptografia",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB016-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Estatística Bayesiana",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC014-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Inferência Estatística",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB018-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Modelagem e Processos Estocásticos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB019-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução aos Processos Pontuais",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB020-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução aos Sistemas Dinâmicos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB021-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução às Curvas Algébricas",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA015-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Linguagens Formais e Automata",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA013-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Lógicas Não Clássicas",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB019-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Matemática Discreta",
+    "creditos": 4
+},
+{
+    "codigo": "NHT3068-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecânica Clássica I",
+    "creditos": 4
+},
+{
+    "codigo": "NHT3069-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecânica Clássica II",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ3075-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecânica Clássica III",
+    "creditos": 4
+},
+{
+    "codigo": "NHT3036-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecânica Estatística",
+    "creditos": 6
+},
+{
+    "codigo": "MCZB022-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Metateoremas da Lógica Clássica",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA014-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos de Otimização",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB023-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos Numéricos em EDO’s",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos Numéricos em EDP's",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB024-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos Variacionais",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ1079-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Modelagem Molecular de Sistemas Biológicos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB025-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Módulos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB026-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Percolação",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB021-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Probabilidade",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB028-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Processos Estocásticos",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA028-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Programação Estruturada",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Programação Matemática",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA018-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Programação Orientada a Objetos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA046-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Semântica de Linguagem de Programação",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB022-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sequências e Séries",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB023-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria Aritmética dos Números",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB029-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria Aritmética dos Números II",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB030-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria Axiomática de Conjuntos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB038-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria Básica de Categorias",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB039-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria Básica de Modelos",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB020-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria da Medida e Integração",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB033-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria da Recursão e Computabilidade",
+    "creditos": 4
+},
+{
+    "codigo": "NHT3054-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria da Relatividade",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB034-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria das Distribuições",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB032-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria das Filas",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB041-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria de Conjuntos",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ3056-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria de Grupos em Física",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA027-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria dos Grafos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB031-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria dos Jogos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA048-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria Espectral de Grafos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB040-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Tópicos de Análise de Fourier",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB026-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Topologia",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB024-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Conclusão de Curso em Matemática I",
+    "creditos": 2
+},
+{
+    "codigo": "MCTB025-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Conclusão de Curso em Matemática II",
+    "creditos": 2
+},
+{
+    "codigo": "MCTB027-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Conclusão de Curso em Matemática III",
+    "creditos": 2
+},
+{
+    "codigo": "NHT3066-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Variáveis Complexas e Aplicações",
+    "creditos": 4
+},
