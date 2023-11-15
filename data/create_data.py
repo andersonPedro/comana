@@ -59,3 +59,7 @@ def create_livro():
 
 def create_aprendendo():
     return Image.open(os.path.join(os.getcwd(), 'data', 'images', 'aprendendo.png'))
+
+def create_pica_pau():
+    return Image.open(os.path.join(os.getcwd(), 'data', 'images', 'pica_pau.png'))
+
