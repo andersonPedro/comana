@@ -1,0 +1,547 @@
+[{
+    "codigo": "NHZ2001-11",
+    "categoria": "Opção Limitada",
+    "disciplina": "Antropologia Filosófica",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2002-11",
+    "categoria": "Opção Limitada",
+    "disciplina": "Ceticismo",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2122-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Ciência e Culturas Antigas",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2114-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Computabilidade e Complexidade",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2116-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Discussões Atuais em Filosofia da Ciência",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2107-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Epistemologia Analítica",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2112-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Epistemologia Feminista",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2115-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Epistemologia Naturalizada",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2127-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Epistemologias do Sul: Filosofias Ameríndias",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2110-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Epistemologias Formais",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2007-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Estética",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2008-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Estética: Perspectivas Contemporâneas",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2129-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Estruturalismo e Pós-Estruturalismo",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2009-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Ética",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2010-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Ética Contemporânea",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2137-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Ética e Conhecimento",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2012-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Fenomenologia e Filosofia Hermenêutica",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2013-11",
+    "categoria": "Opção Limitada",
+    "disciplina": "Filosofia Brasileira: História e Problemas",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2085-16",
+    "categoria": "Obrigatória",
+    "disciplina": "Filosofia da Arte",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2106-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Filosofia da Ciência",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2017-16",
+    "categoria": "Opção Limitada",
+    "disciplina": "Filosofia da Educação",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2139-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Filosofia da História",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2019-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Filosofia da Linguagem",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2021-11",
+    "categoria": "Opção Limitada",
+    "disciplina": "Filosofia da Mente",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2022-11",
+    "categoria": "Opção Limitada",
+    "disciplina": "Filosofia da Natureza, Mecanicismo e Cosmologia",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2121-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Filosofia da Tecnologia",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2023-16",
+    "categoria": "Opção Limitada",
+    "disciplina": "Filosofia do Ensino de Filosofia",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2133-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Filosofia e Teatro",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2024-11",
+    "categoria": "Opção Limitada",
+    "disciplina": "Filosofia Experimental e Mecanicismo",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2027-16",
+    "categoria": "Opção Limitada",
+    "disciplina": "Filosofia no Ensino Fundamental",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2028-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Filosofia Política",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2029-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Filosofia Política Contemporânea",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2096-16",
+    "categoria": "Opção Limitada",
+    "disciplina": "Filosofia, Ensino e Universidade",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2131-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Filosofia, Fotografia e Arte Na Era das Redes",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2132-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Filosofia, Música e Literatura",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2138-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Gênero, Raça, Classe e Sexualidade",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2033-18",
+    "categoria": "Obrigatória",
+    "disciplina": "História da Filosofia Antiga Clássica",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2032-18",
+    "categoria": "Obrigatória",
+    "disciplina": "História da Filosofia Antiga Helenística",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2034-13",
+    "categoria": "Obrigatória",
+    "disciplina": "História da Filosofia Contemporânea: o Século XIX",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2035-13",
+    "categoria": "Obrigatória",
+    "disciplina": "História da Filosofia Contemporânea: o Século XX",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2036-11",
+    "categoria": "Opção Limitada",
+    "disciplina": "História da Filosofia da Antiguidade Tardia",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2086-16",
+    "categoria": "Obrigatória",
+    "disciplina": "História da Filosofia Medieval: do Século IV ao X",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2087-16",
+    "categoria": "Obrigatória",
+    "disciplina": "História da Filosofia Medieval: do Século XI ao XIV",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2148-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "História da Filosofia Moderna: A Filosofia Crítica",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2040-13",
+    "categoria": "Obrigatória",
+    "disciplina": "História da Filosofia Moderna: o Iluminismo e seus desdobramentos",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2041-13",
+    "categoria": "Obrigatória",
+    "disciplina": "História da Filosofia Moderna: Perspectivas Racionalistas",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2142-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "História da Filosofia no Renascimento",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2117-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "História e Filosofia da Biologia",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2118-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "História e Filosofia da Economia e das Ciências Sociais",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2120-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "História e Filosofia da Física",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2119-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "História e Filosofia da Psicologia e das Ciências Cognitivas",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2039-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Idealismo Alemão",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2145-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Língua Latina I",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2146-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Língua Latina II",
+    "creditos": 4
+},
+{
+    "codigo": "NHI2049-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Lógica Básica",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2124-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Metafísica Analítica",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2126-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Metafísica Clássica",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2125-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Metametafísica e Metaontologia",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2134-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Mulher, Imagem e Sociedade",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2128-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Niilismo e Pessimismo Filosófico",
+    "creditos": 4
+},
+{
+    "codigo": "NHBF149-22 ",
+    "categoria": "Opção Limitada",
+    "disciplina": "Oficina de Pesquisa em Filosofia I",
+    "creditos": 2
+},
+{
+    "codigo": "NHBF150-22",
+    "categoria": "Opção Limitada",
+    "disciplina": "Oficina de Pesquisa em Filosofia II",
+    "creditos": 2
+},
+{
+    "codigo": "NHBF151-22",
+    "categoria": "Opção Limitada",
+    "disciplina": "Oficina de Pesquisa em Filosofia III",
+    "creditos": 2
+},
+{
+    "codigo": "NHZ2051-11",
+    "categoria": "Opção Limitada",
+    "disciplina": "Pensamento Hegeliano e seus Desdobramentos Contemporâneos",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2052-11",
+    "categoria": "Opção Limitada",
+    "disciplina": "Pensamento Kantiano e seus Desdobramentos Contemporâneos",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2053-11",
+    "categoria": "Opção Limitada",
+    "disciplina": "Pensamento Marxista e seus Desdobramentos Contemporâneos",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2054-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Pensamento Nietzscheano e seus Desdobramentos Contemporâneos",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2055-11",
+    "categoria": "Opção Limitada",
+    "disciplina": "Perspectivas Críticas da Filosofia Contemporânea",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2057-11",
+    "categoria": "Opção Limitada",
+    "disciplina": "Poder e Cultura Na Sociedade da Informação",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2058-11",
+    "categoria": "Opção Limitada",
+    "disciplina": "Pragmatismo",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2140-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Primórdios da Filosofia e Ciência Antiga",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2113-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Provas e Modelos",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2135-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Questões de Ética",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2136-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Questões de Filosofia Política",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2108-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Seminários de Leitura",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2066-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Temas de Filosofia Antiga",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2067-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Temas de Filosofia Contemporânea I",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2144-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Temas de Filosofia Contemporânea II",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2068-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Temas de Filosofia Medieval I",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2141-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Temas de Filosofia Medieval II",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2069-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Temas de Filosofia Moderna I",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2143-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Temas de Filosofia Moderna II",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2071-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Teoria Crítica",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2109-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria das Ciências Humanas",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2073-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria do Conhecimento: Empirismo e Racionalismo",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2111-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Teorias da Verdade",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2130-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Teorias das Vanguardas Artísticas",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2123-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tópicos de História da Ciência Moderna",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2065-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Tópicos de Metafísica",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2147-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tópicos de Metafísica Medieval",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2077-11",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tópicos em Teoria do Conhecimento",
+    "creditos": 4
+}
+]

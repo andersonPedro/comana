@@ -1,342 +1,416 @@
-[{
-    "codigo": "MCTB001-17",
-    "categoria": "Obrigatória",
-    "disciplina": "Álgebra Linear",
-    "creditos": 6
-},
-{
-    "codigo": "NHT3067-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Análise de Fourier e Aplicações",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ1003-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Biofísica",
-    "creditos": 4
-},
-{
-    "codigo": "MCTB009-17",
-    "categoria": "Obrigatória",
-    "disciplina": "Cálculo Numérico",
-    "creditos": 4
-},
-{
-    "codigo": "MCTB010-13",
-    "categoria": "Obrigatória",
-    "disciplina": "Cálculo Vetorial e Tensorial",
-    "creditos": 4
-},
-{
-    "codigo": "ESZU022-17",
-    "categoria": "Obrigatória",
-    "disciplina": "Ciências Atmosféricas",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3082-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Cristalografia e Difração De Raios X",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3002-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Dinâmica Não Linear e Caos",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3003-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Efeitos Biológicos das Radiações",
-    "creditos": 4
-},
-{
-    "codigo": "NHT3070-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Eletromagnetismo I",
-    "creditos": 4
-},
-{
-    "codigo": "NHT3071-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Eletromagnetismo II",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3076-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Eletromagnetismo III",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3078-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Equações Diferenciais Parciais Aplicadas",
-    "creditos": 4
-},
-{
-    "codigo": "ESTM001-17",
-    "categoria": "Obrigatória",
-    "disciplina": "Estado Sólido",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3007-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Estrutura Atômica e Molecular",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3010-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Física Computacional",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3011-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Física de Semicondutores",
-    "creditos": 4
-},
-{
-    "codigo": "NHT3012-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Física do Contínuo",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3084-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Física do Meio Ambiente",
-    "creditos": 4
-},
-{
-    "codigo": "ESTB023-17",
-    "categoria": "Obrigatória",
-    "disciplina": "Física Médica I",
-    "creditos": 4
-},
-{
-    "codigo": "NHT3064-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Física Ondulatória",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3014-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Fluidos Quânticos",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3019-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Fundamentos da Mecânica dos Fluidos",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3020-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Fundamentos da Relatividade Geral",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3021-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Interações da Radiação com a Matéria",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3023-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Introdução à Cosmologia",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3024-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Introdução à Física de Partículas Elementares",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3083-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Introdução à Física Estelar",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3026-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Introdução à Física Nuclear",
-    "creditos": 4
-},
-{
-    "codigo": "NHT3027-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Laboratório de Física I",
-    "creditos": 3
-},
-{
-    "codigo": "NHT3028-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Laboratório de Física II",
-    "creditos": 3
-},
-{
-    "codigo": "NHT3065-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Laboratório de Física III",
-    "creditos": 3
-},
-{
-    "codigo": "NHZ3080-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Laboratório de Física Médica",
-    "creditos": 3
-},
-{
-    "codigo": "NHZ3031-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Laboratório de Propriedades Físicas de Materiais",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3081-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Lasers e Óptica Moderna",
-    "creditos": 4
-},
-{
-    "codigo": "NHI5015-22",
-    "categoria": "Obrigatória",
-    "disciplina": "LIBRAS",
-    "creditos": 4
-},
-{
-    "codigo": "NHT3068-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Mecânica Clássica I",
-    "creditos": 4
-},
-{
-    "codigo": "NHT3069-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Mecânica Clássica II",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3075-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Mecânica Clássica III",
-    "creditos": 4
-},
-{
-    "codigo": "NHT3036-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Mecânica Estatística",
-    "creditos": 6
-},
-{
-    "codigo": "NHT3072-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Mecânica Quântica I",
-    "creditos": 6
-},
-{
-    "codigo": "NHT3073-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Mecânica Quântica II",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3077-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Mecânica Quântica III",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3041-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Métodos de Formação de Imagem e de Inspeção Nuclear",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3042-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Microscopia Eletrônica",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3043-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Noções de Astronomia e Cosmologia",
-    "creditos": 4
-},
-{
-    "codigo": "NHT3044-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Óptica",
-    "creditos": 4
-},
-{
-    "codigo": "NHT3049-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Princípios de Termodinâmica",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3085-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Propriedades Magnéticas e Eletrônicas",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3052-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Tecnologia do Vácuo e Criogenia",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3053-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Teoria Clássica dos Campos",
-    "creditos": 4
-},
-{
-    "codigo": "NHT3054-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Teoria da Relatividade",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3056-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Teoria de Grupos em Física",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3058-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Tópicos em Física Experimental",
-    "creditos": 4
-},
-{
-    "codigo": "NHZ3057-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Tópicos em Física Teórica",
-    "creditos": 4
-},
-{
-    "codigo": "NHT3089-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Trabalho de Conclusão de Curso em Física",
-    "creditos": 2
-},
-{
-    "codigo": "NHT3066-15",
-    "categoria": "Obrigatória",
-    "disciplina": "Variáveis Complexas e Aplicações",
-    "creditos": 4
-}]
+[
+    {
+        "codigo": "MCTB001-17",
+        "categoria": "Obrigatória",
+        "disciplina": "Álgebra Linear",
+        "creditos": 6
+    },
+    {
+        "codigo": "NHT3067-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Análise de Fourier e Aplicações",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ1003-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Biofísica",
+        "creditos": 4
+    },
+    {
+        "codigo": "MCTB009-17",
+        "categoria": "Obrigatória",
+        "disciplina": "Cálculo Numérico",
+        "creditos": 4
+    },
+    {
+        "codigo": "MCTB010-13",
+        "categoria": "Obrigatória",
+        "disciplina": "Cálculo Vetorial e Tensorial",
+        "creditos": 4
+    },
+    {
+        "codigo": "ESZU022-17",
+        "categoria": "Opção Limitada",
+        "disciplina": "Ciências Atmosféricas",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ1050-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Toxicologia",
+        "creditos": 6
+    },
+    {
+        "codigo": "NHZ3088-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Consolidação de Conceitos e Métodos de Fenômenos Eletromagnéticos",
+        "creditos": 2
+    },
+    {
+        "codigo": "NHZ3086-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Consolidação de Conceitos e Métodos de Fenômenos Mecânicos",
+        "creditos": 2
+    },
+    {
+        "codigo": "NHZ3087-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Consolidação de Conceitos e Métodos de Fenômenos Térmicos",
+        "creditos": 2
+    },
+    {
+        "codigo": "NHZ3089-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Consolidação de Conceitos e Métodos de Interações Atômicas e Moleculares",
+        "creditos": 2
+    },
+    {
+        "codigo": "NHZ3082-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Cristalografia e Difração De Raios X",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ1082-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Trabalhos de Campo, Coleta e Preservação de Organismos",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3002-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Dinâmica Não Linear e Caos",
+        "creditos": 4
+    },
+    {
+        "codigo": "ESTU038-17",
+        "categoria": "Opção Limitada",
+        "disciplina": "Tratamento de Águas Urbanas Servidas",
+        "creditos": 3
+    },
+    {
+        "codigo": "ESZU021-17",
+        "categoria": "Opção Limitada",
+        "disciplina": "Unidades de Conservação da Natureza",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ1051-13",
+        "categoria": "Opção Limitada",
+        "disciplina": "Virologia",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHT1063-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Zoologia de Invertebrados I",
+        "creditos": 6
+    },
+    {
+        "codigo": "NHT1064-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Zoologia de Invertebrados II",
+        "creditos": 6
+    },
+    {
+        "codigo": "NHT1065-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Zoologia de Vertebrados",
+        "creditos": 6
+    },
+    {
+        "codigo": "NHZ3003-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Efeitos Biológicos das Radiações",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHT3070-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Eletromagnetismo I",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHT3071-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Eletromagnetismo II",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3076-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Eletromagnetismo III",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3078-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Equações Diferenciais Parciais Aplicadas",
+        "creditos": 4
+    },
+    {
+        "codigo": "ESTM001-17",
+        "categoria": "Opção Limitada",
+        "disciplina": "Estado Sólido",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3007-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Estrutura Atômica e Molecular",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3010-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Física Computacional",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3011-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Física de Semicondutores",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHT3012-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Física do Contínuo",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3084-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Física do Meio Ambiente",
+        "creditos": 4
+    },
+    {
+        "codigo": "ESTB023-17",
+        "categoria": "Opção Limitada",
+        "disciplina": "Física Médica I",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHT3064-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Física Ondulatória",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3014-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Fluidos Quânticos",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3019-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Fundamentos da Mecânica dos Fluidos",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3020-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Fundamentos da Relatividade Geral",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3021-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Interações da Radiação com a Matéria",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3023-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Introdução à Cosmologia",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3024-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Introdução à Física de Partículas Elementares",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3083-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Introdução à Física Estelar",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3026-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Introdução à Física Nuclear",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHT3027-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Laboratório de Física I",
+        "creditos": 3
+    },
+    {
+        "codigo": "NHT3028-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Laboratório de Física II",
+        "creditos": 3
+    },
+    {
+        "codigo": "NHT3065-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Laboratório de Física III",
+        "creditos": 3
+    },
+    {
+        "codigo": "NHZ3080-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Laboratório de Física Médica",
+        "creditos": 3
+    },
+    {
+        "codigo": "NHZ3031-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Laboratório de Propriedades Físicas de Materiais",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3081-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Lasers e Óptica Moderna",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHI5015-22",
+        "categoria": "Opção Limitada",
+        "disciplina": "LIBRAS",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHT3068-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Mecânica Clássica I",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHT3069-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Mecânica Clássica II",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3075-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Mecânica Clássica III",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHT3036-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Mecânica Estatística",
+        "creditos": 6
+    },
+    {
+        "codigo": "NHT3072-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Mecânica Quântica I",
+        "creditos": 6
+    },
+    {
+        "codigo": "NHT3073-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Mecânica Quântica II",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3077-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Mecânica Quântica III",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3041-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Métodos de Formação de Imagem e de Inspeção Nuclear",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3042-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Microscopia Eletrônica",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3043-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Noções de Astronomia e Cosmologia",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHT3044-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Óptica",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHT3049-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Princípios de Termodinâmica",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3085-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Propriedades Magnéticas e Eletrônicas",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3052-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Tecnologia do Vácuo e Criogenia",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3053-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Teoria Clássica dos Campos",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHT3054-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Teoria da Relatividade",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3056-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Teoria de Grupos em Física",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3058-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Tópicos em Física Experimental",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHZ3057-15",
+        "categoria": "Opção Limitada",
+        "disciplina": "Tópicos em Física Teórica",
+        "creditos": 4
+    },
+    {
+        "codigo": "NHT3089-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Trabalho de Conclusão de Curso em Física",
+        "creditos": 2
+    },
+    {
+        "codigo": "NHT3066-15",
+        "categoria": "Obrigatória",
+        "disciplina": "Variáveis Complexas e Aplicações",
+        "creditos": 4
+    }
+]

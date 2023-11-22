@@ -1,6 +1,6 @@
 [{
     "codigo": "ESZR007-21",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "A questão nuclear nas Relações Internacionais",
     "creditos": 4
 },
@@ -24,25 +24,25 @@
 },
 {
     "codigo": "ESZE102-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Aproveitamento Energético de Resíduos",
     "creditos": 4
 },
 {
     "codigo": "ESZE097-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Armazenamento de Energia Elétrica",
     "creditos": 4
 },
 {
     "codigo": "ESZE010-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Automação de Sistemas Elétricos de Potência",
     "creditos": 3
 },
 {
     "codigo": "ESZE089-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Bombas Hidráulicas",
     "creditos": 4
 },
@@ -60,13 +60,13 @@
 },
 {
     "codigo": "ESZE019-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Centrais Termoelétricas",
     "creditos": 2
 },
 {
     "codigo": "ESTO001-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Circuitos Elétricos e Fotônica",
     "creditos": 4
 },
@@ -84,7 +84,7 @@
 },
 {
     "codigo": "ESZE086-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Cogeração",
     "creditos": 2
 },
@@ -96,43 +96,43 @@
 },
 {
     "codigo": "ESZE057-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Economia do Petróleo e do Gás Natural",
     "creditos": 4
 },
 {
     "codigo": "ESHR004-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Economia Política Internacional da Energia",
     "creditos": 4
 },
 {
     "codigo": "ESZE110-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Eletrificação Rural Com Recursos Energéticos Renováveis",
     "creditos": 4
 },
 {
     "codigo": "ESZA011-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Eletrônica de Potência I",
     "creditos": 5
 },
 {
     "codigo": "ESZA012-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Eletrônica de Potência II",
     "creditos": 5
 },
 {
     "codigo": "ESZE105-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Energia dos Oceanos",
     "creditos": 4
 },
 {
     "codigo": "ESZE104-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Energia Geotérmica",
     "creditos": 2
 },
@@ -156,13 +156,13 @@
 },
 {
     "codigo": "ESZE058-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Engenharia de Completação",
     "creditos": 4
 },
 {
     "codigo": "ESZE059-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Engenharia de Perfuração",
     "creditos": 4
 },
@@ -180,25 +180,25 @@
 },
 {
     "codigo": "ESZE060-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Engenharia de Reservatórios I",
     "creditos": 4
 },
 {
     "codigo": "ESZE061-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Engenharia de Reservatórios II",
     "creditos": 4
 },
 {
     "codigo": "ESZE093-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Engenharia do Biodiesel",
     "creditos": 4
 },
 {
     "codigo": "ESZE094-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Engenharia do Etanol",
     "creditos": 4
 },
@@ -234,19 +234,19 @@
 },
 {
     "codigo": "ESTO902-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Engenharia Unificada I",
     "creditos": 2
 },
 {
     "codigo": "ESTO903-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Engenharia Unificada II",
     "creditos": 2
 },
 {
     "codigo": "ESZE101-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Escoamento Multifásico",
     "creditos": 4
 },
@@ -257,14 +257,20 @@
     "creditos": 1
 },
 {
-    "codigo": "ESZE098-17",
+    "codigo": "ESTO016-17",
     "categoria": "Obrigatória",
+    "disciplina": "Fenômenos de Transporte",
+    "creditos": 4
+},
+{
+    "codigo": "ESZE098-17",
+    "categoria": "Opção Limitada",
     "disciplina": "Física de Reatores Nucleares",
     "creditos": 4
 },
 {
     "codigo": "NHT4017-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Funções e Reações Orgânicas",
     "creditos": 4
 },
@@ -294,49 +300,49 @@
 },
 {
     "codigo": "ESZU035-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Geomorfologia",
     "creditos": 3
 },
 {
     "codigo": "ESZR004-21",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Geopolítica do Petróleo e o Desenvolvimento brasileiro",
     "creditos": 4
 },
 {
     "codigo": "ESZE084-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Geração de Vapor",
     "creditos": 4
 },
 {
     "codigo": "ESZE052-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Geração Distribuída",
     "creditos": 2
 },
 {
     "codigo": "ESZE048-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Hidrogênio e Células a Combustível",
     "creditos": 4
 },
 {
     "codigo": "ESZE103-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Iluminação Rural Fotovoltaica",
     "creditos": 4
 },
 {
     "codigo": "ESZE063-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Impacto Ambiental e Social Na Cadeia de Produção de Petróleo",
     "creditos": 4
 },
 {
     "codigo": "ESZE109-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Impactos Econômicos e Socioambientais da Geração Fotovoltaica",
     "creditos": 2
 },
@@ -354,13 +360,13 @@
 },
 {
     "codigo": "ESTO004-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Instrumentação e Controle",
     "creditos": 4
 },
 {
     "codigo": "ESZE025-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Integração e Otimização Energética de Processos",
     "creditos": 2
 },
@@ -402,7 +408,7 @@
 },
 {
     "codigo": "ESZE085-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Máquinas Térmicas de Fluxo",
     "creditos": 4
 },
@@ -414,7 +420,7 @@
 },
 {
     "codigo": "ESZE108-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Materiais e Tecnologias de Conversão Fotovoltaica",
     "creditos": 2
 },
@@ -438,13 +444,13 @@
 },
 {
     "codigo": "ESTO017-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Métodos Experimentais em Engenharia",
     "creditos": 4
 },
 {
     "codigo": "ESZE082-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Motores de Combustão Interna",
     "creditos": 2
 },
@@ -456,31 +462,31 @@
 },
 {
     "codigo": "ESZE095-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Operações e Equipamentos Industriais I",
     "creditos": 4
 },
 {
     "codigo": "ESZE096-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Operações e Equipamentos Industriais II",
     "creditos": 4
 },
 {
     "codigo": "ESZE064-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Petrofísica",
     "creditos": 4
 },
 {
     "codigo": "ESZE080-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Planejamento da Operação de Sistemas Hidrotérmicos de Potência",
     "creditos": 2
 },
 {
     "codigo": "ESZE111-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Política Energética",
     "creditos": 4
 },
@@ -492,109 +498,109 @@
 },
 {
     "codigo": "ESZE031-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Processos Termoquímicos de Conversão Energética",
     "creditos": 2
 },
 {
     "codigo": "ESZE113-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Projeto de Geradores Elétricos para Energia Eólica",
     "creditos": 2
 },
 {
     "codigo": "ESZE112-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Projeto de Microturbinas Eólicas",
     "creditos": 2
 },
 {
     "codigo": "ESZE076-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Proteção de Sistemas Elétricos de Potência",
     "creditos": 4
 },
 {
     "codigo": "ESZE073-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Qualidade da Energia Elétrica",
     "creditos": 4
 },
 {
     "codigo": "ESZE066-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Química do Petróleo",
     "creditos": 4
 },
 {
     "codigo": "ESZE038-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Reações Nucleares",
     "creditos": 3
 },
 {
     "codigo": "ESZE077-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Redes de Distribuição de Energia Elétrica",
     "creditos": 4
 },
 {
     "codigo": "ESZE100-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Refino do Petróleo",
     "creditos": 4
 },
 {
     "codigo": "ESZE090-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Refrigeração e Condicionamento de Ar",
     "creditos": 4
 },
 {
     "codigo": "ESZE078-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Regulação e Mercado de Energia Elétrica",
     "creditos": 2
 },
 {
     "codigo": "ESTM015-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Reologia",
     "creditos": 4
 },
 {
     "codigo": "ESZE045-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Resíduos Nucleares",
     "creditos": 3
 },
 {
     "codigo": "ESZE044-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Segurança de Instalações Nucleares",
     "creditos": 3
 },
 {
     "codigo": "ESZE074-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Sistemas de Potência I",
     "creditos": 4
 },
 {
     "codigo": "ESZE009-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Sistemas de Potência II",
     "creditos": 4
 },
 {
     "codigo": "ESZE106-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Sistemas Fotovoltaicos Conectados à Rede Elétrica",
     "creditos": 4
 },
 {
     "codigo": "ESZE107-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Sistemas Fotovoltaicos Isolados",
     "creditos": 4
 },
@@ -606,25 +612,25 @@
 },
 {
     "codigo": "ESZE072-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Sistemas Termosolares",
     "creditos": 2
 },
 {
     "codigo": "ESZE006-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Subestação e Equipamentos",
     "creditos": 2
 },
 {
     "codigo": "ESZE081-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Tecnologia da Combustão",
     "creditos": 4
 },
 {
     "codigo": "ESZE099-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Termo Hidráulica de Reatores Nucleares",
     "creditos": 4
 },
@@ -642,7 +648,7 @@
 },
 {
     "codigo": "ESZE079-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Tópicos de Otimização em Sistemas Elétricos de Potência e Aplicações",
     "creditos": 2
 },
@@ -666,19 +672,19 @@
 },
 {
     "codigo": "ESZR014-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Trajetória de desenvolvimento de países exportadores de petróleo",
     "creditos": 4
 },
 {
     "codigo": "ESZE091-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Transferência de Calor e Mecânica dos Fluidos Computacional I",
     "creditos": 4
 },
 {
     "codigo": "ESZE092-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Transferência de Calor e Mecânica dos Fluidos Computacional II",
     "creditos": 4
 },
@@ -696,37 +702,38 @@
 },
 {
     "codigo": "ESZE083-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Transferência de Calor Industrial",
     "creditos": 4
 },
 {
     "codigo": "ESTU020-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Transferência de Massa",
     "creditos": 4
 },
 {
     "codigo": "ESZE065-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Transporte de Petróleo e Gás Natural",
     "creditos": 4
 },
 {
     "codigo": "ESZE087-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Turbinas Hidráulicas",
     "creditos": 4
 },
 {
     "codigo": "ESZE026-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Ventilação Industrial e Ar Comprimido",
     "creditos": 2
 },
 {
     "codigo": "ESZE088-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Ventiladores Industriais",
     "creditos": 4
-}]
+}
+]
