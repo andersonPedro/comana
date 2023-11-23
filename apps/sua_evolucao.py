@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
-from data.create_data import create_df_engenharia_iar, create_pica_pau, create_df_grade_horas, create_df_bacharelado_ciencia_tecnologia, create_df_grade_horas, create_df_bacharelado_ciencia_tecnologia, create_df_eng_gestao, create_df_eng_gestao_plano, create_df_bacharelado_biologia, create_df_bacharelado_biotecnologia, create_df_bacharelado_fisica, create_df_bacharelado_matematica, create_df_bacharelado_neuro, create_df_bacharelado_quimica, create_df_engenharia_aeroespacial, create_df_engenharia_ambiental, create_df_engenharia_energia, create_df_engenharia_materiais 
+#from data.create_data import create_df_engenharia_iar, create_pica_pau, create_df_grade_horas, create_df_bacharelado_ciencia_tecnologia, create_df_grade_horas, create_df_bacharelado_ciencia_tecnologia, create_df_eng_gestao, create_df_eng_gestao_plano, create_df_bacharelado_biologia, create_df_bacharelado_biotecnologia, create_df_bacharelado_fisica, create_df_bacharelado_matematica, create_df_bacharelado_neuro, create_df_bacharelado_quimica, create_df_engenharia_aeroespacial, create_df_engenharia_ambiental, create_df_engenharia_energia, create_df_engenharia_materiais 
+from data.create_data import *
 import base64
 
 def download_button(df_selected):
@@ -90,7 +91,7 @@ def materias(df_materias,df_materias_aprovadas,df_materias_plano=pd.DataFrame())
 def app():
     st.title('Sua evolução')
 
-    materias_ja_desenvolvidas = ["", "Engenharia de Gestão","Bacharelado de Biotecnologia", "Bacharelado de Ciências Biológicas", "Bacharelado de Física","Bacharelado de Matemática","Bacharelado de Química","Bacharelado de Neurociência","Engenharia de Ambiental e Urbana","Engenharia de Energia","Engenharia de Instrumentação Automação e Robótica","Engenharia de Materiais","Engenharia de Aeroespacial"]
+    materias_ja_desenvolvidas = ["", "Engenharia de Informação", "Bacharelado de Ciência da Computação", "Engenharia de Gestão", "Bacharelado de Biotecnologia", "Bacharelado de Ciências Biológicas", "Bacharelado de Física","Bacharelado de Matemática","Bacharelado de Química","Bacharelado de Neurociência","Engenharia de Ambiental e Urbana","Engenharia de Energia","Engenharia de Instrumentação Automação e Robótica","Engenharia de Materiais","Engenharia de Aeroespacial"]
 
     uploaded_file = st.file_uploader(label="Colete o arquivo do seu portal do aluno em formato json e suba aqui.")
     
@@ -158,7 +159,7 @@ def app():
                 "",
                 "Engenharia de Gestão",
                 "Bacharelado de Biotecnologia",
-                #"Bacharelado de Ciência da Computação"#,
+                "Bacharelado de Ciência da Computação",
                 "Bacharelado de Ciências Biológicas",
                 "Bacharelado de Física",
                 "Bacharelado de Matemática",
@@ -166,11 +167,11 @@ def app():
                 "Bacharelado de Neurociência",
                 "Engenharia de Ambiental e Urbana",
                 "Engenharia de Energia",
-                # "Engenharia de Informação",
+                "Engenharia de Informação",
                 "Engenharia de Instrumentação Automação e Robótica",
                 "Engenharia de Materiais",
                 "Engenharia de Aeroespacial",
-                # "Engenharia de Biomédica"
+                "Engenharia de Biomédica"
             ))
         
 
@@ -179,7 +180,6 @@ def app():
                 materias(create_df_eng_gestao(),df_materias_aprovadas,create_df_eng_gestao_plano())
             if option == "Bacharelado de Biotecnologia":
                 materias(create_df_bacharelado_biotecnologia(),df_materias_aprovadas)
-            
             if option == "Bacharelado de Ciências Biológicas":
                 materias(create_df_bacharelado_biologia(),df_materias_aprovadas)
             if option == "Bacharelado de Física":
@@ -200,8 +200,12 @@ def app():
                 materias(create_df_engenharia_materiais(),df_materias_aprovadas)
             if option == "Engenharia de Instrumentação Automação e Robótica":
                 materias(create_df_engenharia_iar(),df_materias_aprovadas)
-            #elif option == "Bacharelado de Ciência da Computação":
-                #materias(create_df_bacharelado_biotecnologia(),df_materias_aprovadas)
+            if option == "Bacharelado de Ciência da Computação":
+                materias(create_df_bacharelado_ciencia_comp(),df_materias_aprovadas)
+            if option == "Engenharia de Informação":
+                materias(create_df_engenharia_informacao(),df_materias_aprovadas)
+            if option == "Engenharia de Biomédica":
+                materias(create_df_engenharia_biomedica(),df_materias_aprovadas)
 
         else:
             st.write("Em desenvolvimento")
