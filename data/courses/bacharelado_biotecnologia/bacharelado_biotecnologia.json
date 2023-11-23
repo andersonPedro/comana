@@ -1,6 +1,12 @@
 [{
+    "codigo": "ESZR007-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "A questão nuclear nas Relações Internacionais",
+    "creditos": 4
+},
+{
     "codigo": "ESTU025-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Avaliação de Impactos Ambientais",
     "creditos": 4
 },
@@ -36,7 +42,7 @@
 },
 {
     "codigo": "NHZ6015-18",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Biotecnologia Ambiental e Agroindustrial",
     "creditos": 4
 },
@@ -60,31 +66,31 @@
 },
 {
     "codigo": "NHZ1014-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Botânica Econômica",
     "creditos": 4
 },
 {
     "codigo": "NHZ6016-18",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Bromatologia e Análise de Alimentos",
     "creditos": 4
 },
 {
     "codigo": "NHZ1016-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Conservação da Biodiversidade",
     "creditos": 4
 },
 {
     "codigo": "ESZP015-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Economia da Inovação Tecnológica",
     "creditos": 4
 },
 {
     "codigo": "ESZU025-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Educação Ambiental",
     "creditos": 4
 },
@@ -96,7 +102,7 @@
 },
 {
     "codigo": "ESTE034-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Engenharia de Biocombustíveis",
     "creditos": 4
 },
@@ -114,7 +120,7 @@
 },
 {
     "codigo": "NHZ1024-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Etnofarmacologia",
     "creditos": 3
 },
@@ -132,13 +138,13 @@
 },
 {
     "codigo": "NHT1055-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Fundamentos de Imunologia",
     "creditos": 4
 },
 {
     "codigo": "NHT1057-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Genética II",
     "creditos": 4
 },
@@ -162,7 +168,7 @@
 },
 {
     "codigo": "ESZB015-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Laboratório de Bioinformática",
     "creditos": 4
 },
@@ -180,7 +186,7 @@
 },
 {
     "codigo": "NHZ6017-18",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Morfofisiologia Vegetal",
     "creditos": 4
 },
@@ -204,7 +210,7 @@
 },
 {
     "codigo": "NHZ1081-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Técnicas Aplicadas a Processos Biotecnológicos",
     "creditos": 6
 },
@@ -219,4 +225,5 @@
     "categoria": "Obrigatória",
     "disciplina": "Trabalho de Conclusão de Curso de Biotecnologia",
     "creditos": 2
-}]
+}
+]

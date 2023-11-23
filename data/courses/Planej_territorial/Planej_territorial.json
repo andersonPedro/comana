@@ -1,0 +1,451 @@
+[{
+    "codigo": "ESZT001-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Análise da Produção do Espaço e Políticas Públicas Urbanas",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT011-21",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise de Dados para o Planejamento Territorial",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC018-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Análise Econômica de Projetos",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Arranjos Institucionais e Marco Regulatório do Território",
+    "creditos": 2
+},
+{
+    "codigo": "ESTU025-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Avaliação de Impactos Ambientais",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP031-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Avaliação e Monitoramento de Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT026-21",
+    "categoria": "Obrigatória",
+    "disciplina": "Biodiversidade, Geodiversidade e Paisagem",
+    "creditos": 3
+},
+{
+    "codigo": "ESZC025-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Capitalismo Contemporâneo",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU004-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Cartografia e Geoprocessamento",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Cartografia e Geoprocessamento para o Planejamento Territorial",
+    "creditos": 5
+},
+{
+    "codigo": "ESHP004-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Cidadania, Direitos e Desigualdades",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT003-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Demografia",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT025-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Desenvolvimento Econômico e Social No Brasil",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT002-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Desenvolvimento Humano e Pobreza Urbana",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC030-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Desigualdades de Raça, Gênero e Renda",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT017-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Dinâmicas Territoriais e Relações Étnico-Raciais No Brasil",
+    "creditos": 4
+},
+{
+    "codigo": "ESZU034-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Ecologia do Ambiente Urbano",
+    "creditos": 2
+},
+{
+    "codigo": "ESHT005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Economia do Território",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Economia Urbana",
+    "creditos": 4
+},
+{
+    "codigo": "ESTG004-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Elaboração, Análise e Avaliação de Projetos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT003-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Energia e Abastecimento",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR005-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Estado e Desenvolvimento Econômico no Brasil Contemporâneo",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT007-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Estudos do Meio Físico",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR007-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Geopolítica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZU028-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Geotecnia Aplicada ao Planejamento Urbano-Ambiental",
+    "creditos": 3
+},
+{
+    "codigo": "ESZU011-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Gestão Urbano-Ambiental",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Governança Pública, Democracia e Políticas No Território",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU007-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Habitação e Assentamentos Humanos",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT009-17",
+    "categoria": "Obrigatória",
+    "disciplina": "História da Cidade e do Urbanismo",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT005-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Informática Aplicada ao Planejamento Territorial",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP002-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Instituições Judiciais e Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC014-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução à Inferência Estatística",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP014-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução às Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP044-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Meio Ambiente e Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT006-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Mercado Imobiliário",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT010-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos de Planejamento",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP016-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Métodos Quantitativos para Ciências Sociais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZR006-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Migrações Internacionais",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT012-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Mobilização Produtiva dos Territórios e Desenvolvimento Local",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT022-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Modelos Econômicos e Análise das Dinâmicas Territoriais",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT014-22",
+    "categoria": "Obrigatória",
+    "disciplina": "Oficina de Planejamento de Áreas Periurbanas, Interioranas e Rurais",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT016-22",
+    "categoria": "Obrigatória",
+    "disciplina": "Oficina de Planejamento e Governança Metropolitana",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT013-22",
+    "categoria": "Obrigatória",
+    "disciplina": "Oficina de Planejamento Macro e Meso Regional",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT015-22",
+    "categoria": "Obrigatória",
+    "disciplina": "Oficina de Planejamento Urbano",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT007-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Oficina de Projeto Urbano",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT008-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Patrimônio Cultural e Paisagem",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT009-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Planejamento e Gestão de Redes Técnicas e Sistemas Territoriais",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Planejamento e Política Ambiental",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT018-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Planejamento e Política Regional",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT019-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Planejamento e Política Rural",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT011-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Política Habitacional",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT020-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Política Metropolitana",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT021-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Política Urbana",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT010-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Políticas de Infraestrutura",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP009-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Políticas Públicas de Intervenção Territorial no Brasil",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP018-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Políticas Sociais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT020-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Práticas Especiais do Planejamento Territorial",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU040-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Projeto Ambiental Urbano",
+    "creditos": 4
+},
+{
+    "codigo": "ESZR017-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Regimes de Negociação Ambiental Internacional e a Atuação Brasileira",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU039-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Regulação Ambiental e Urbanística",
+    "creditos": 2
+},
+{
+    "codigo": "ESZU030-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Riscos No Ambiente Urbano",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT012-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Saneamento Ambiental",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT013-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Segurança dos Territórios",
+    "creditos": 4
+},
+{
+    "codigo": "ESZU017-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sensoriamento Remoto",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT023-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sociologia dos Territórios",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT014-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sustentabilidade e Indicadores",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT015-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Território e Logística",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT025-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tópicos Especiais em Métodos e Técnicas para o Planejamento Territorial",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT018-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tópicos Especiais em Planejamento Territorial",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT026-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tópicos Especiais em Políticas Setoriais no Território",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT902-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Conclusão de Curso I de Planejamento Territorial",
+    "creditos": 2
+},
+{
+    "codigo": "ESHT903-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Conclusão de Curso II de Planejamento Territorial",
+    "creditos": 2
+},
+{
+    "codigo": "ESTU021-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Transportes e Mobilidade Urbana",
+    "creditos": 2
+},
+{
+    "codigo": "ESZT016-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Urbanização Brasileira",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT024-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Uso do Solo Urbano",
+    "creditos": 4
+}
+]

@@ -1,24 +1,24 @@
-{
+[{
     "codigo": "MCZA002-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Aprendizado de Máquina",
     "creditos": 4
 },
 {
     "codigo": "MCZC010-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Atenção e Estados de Consciência",
     "creditos": 4
 },
 {
     "codigo": "MCZA005-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Banco de Dados de Apoio à Tomada de Decisão",
     "creditos": 4
 },
 {
     "codigo": "MCZC002-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Bases Neurais da Motricidade",
     "creditos": 4
 },
@@ -30,7 +30,7 @@
 },
 {
     "codigo": "NHZ1003-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Biofísica",
     "creditos": 4
 },
@@ -42,19 +42,19 @@
 },
 {
     "codigo": "NHT1053-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Biologia Celular",
     "creditos": 6
 },
 {
     "codigo": "NHZ1008-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Biologia do Desenvolvimento em Vertebrados",
     "creditos": 4
 },
 {
     "codigo": "MCZA006-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Computação Evolutiva e Conexionista",
     "creditos": 4
 },
@@ -66,25 +66,25 @@
 },
 {
     "codigo": "MCZC004-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Desenvolvimento e Degeneração do Sistema Nervoso",
     "creditos": 4
 },
 {
     "codigo": "MCZC001-20",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Doenças do Sistema Nervoso",
     "creditos": 4
 },
 {
     "codigo": "MCZA007-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Empreendedorismo e Desenvolvimento de Negócios",
     "creditos": 4
 },
 {
     "codigo": "MCZC007-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Ergonomia Cognitiva",
     "creditos": 4
 },
@@ -108,49 +108,49 @@
 },
 {
     "codigo": "NHT1055-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Fundamentos de Imunologia",
     "creditos": 4
 },
 {
     "codigo": "NHT1061-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Genética I",
     "creditos": 6
 },
 {
     "codigo": "NHT1054-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Histologia e Embriologia",
     "creditos": 6
 },
 {
     "codigo": "MCTA014-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Inteligência Artificial",
     "creditos": 4
 },
 {
     "codigo": "MCZA008-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Interação Humano-Computador",
     "creditos": 4
 },
 {
     "codigo": "MCZC014-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Introdução à Bioestatística",
     "creditos": 4
 },
 {
     "codigo": "ESZB022-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Introdução à Bioinformática",
     "creditos": 4
 },
 {
     "codigo": "ESZB005-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Introdução à Biotecnologia",
     "creditos": 4
 },
@@ -168,7 +168,7 @@
 },
 {
     "codigo": "MCZB018-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Introdução à Modelagem e Processos Estocásticos",
     "creditos": 4
 },
@@ -180,55 +180,55 @@
 },
 {
     "codigo": "MCZC019-20",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Introdução à Neuroimunologia",
     "creditos": 2
 },
 {
     "codigo": "MCZC020-20",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Introdução à Neuromodulação Invasiva e Não-invasiva",
     "creditos": 2
 },
 {
     "codigo": "MCZC003-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Introdução à Psicolinguística e Neurociência da Linguagem",
     "creditos": 4
 },
 {
     "codigo": "MCZC013-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Memória e Aprendizagem",
     "creditos": 4
 },
 {
     "codigo": "MCZA015-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Mineração de Dados",
     "creditos": 4
 },
 {
     "codigo": "NHT1066-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Morfofisiologia Animal Comparada",
     "creditos": 4
 },
 {
     "codigo": "NHT1058-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Morfofisiologia Humana I",
     "creditos": 6
 },
 {
     "codigo": "NHT1059-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Morfofisiologia Humana II",
     "creditos": 6
 },
 {
     "codigo": "NHT1060-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Morfofisiologia Humana III",
     "creditos": 6
 },
@@ -240,15 +240,27 @@
 },
 {
     "codigo": "MCZC008-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Neuroarte",
     "creditos": 2
+},
+{
+    "codigo": "MCZC015-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Neuroarte Prática e Estética Experimental",
+    "creditos": 4
 },
 {
     "codigo": "MCTC019-20",
     "categoria": "Obrigatória",
     "disciplina": "Neurobiologia Molecular e Celular",
     "creditos": 4
+},
+{
+    "codigo": "MCZC016-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Neurociência da Cognição Musical",
+    "creditos": 2
 },
 {
     "codigo": "MCTC021-20",
@@ -270,19 +282,19 @@
 },
 {
     "codigo": "MCZC021-20",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Neuropsicologia",
     "creditos": 4
 },
 {
     "codigo": "MCZC017-20",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Práticas em Neurobiologia Molecular",
     "creditos": 2
 },
 {
     "codigo": "MCZA017-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Processamento de Linguagem Natural",
     "creditos": 4
 },
@@ -294,7 +306,7 @@
 },
 {
     "codigo": "MCZA018-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Processamento Digital de Imagens",
     "creditos": 4
 },
@@ -318,55 +330,56 @@
 },
 {
     "codigo": "MCZC022-20",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Psicometria",
     "creditos": 4
 },
 {
     "codigo": "MCZC018-20",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Psicopatologia",
     "creditos": 2
 },
 {
     "codigo": "MCZA044-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Robótica e Sistemas Inteligentes",
     "creditos": 4
 },
 {
     "codigo": "MCZC012-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Sensação e Percepção",
     "creditos": 4
 },
 {
     "codigo": "MCZA026-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Sistemas de Gerenciamento de Banco de Dados",
     "creditos": 4
 },
 {
     "codigo": "MCZA028-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Sistemas Multiagentes",
     "creditos": 4
 },
 {
     "codigo": "MCZC011-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Tomada de Decisões e Neuroeconomia",
     "creditos": 4
 },
 {
     "codigo": "MCZA030-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Vida Artificial na Computação",
     "creditos": 2
 },
 {
     "codigo": "ESZA019-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Visão Computacional",
     "creditos": 4
-},
+}
+]

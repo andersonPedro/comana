@@ -1,422 +1,439 @@
-[
-    {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Cálculo Numérico",
-        "codigo": "MCTB009-17"
-    },
-    {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Engenharia Econômica",
-        "codigo": "ESTO013-17"
-    },
-    {
-        "creditos": 6,
-        "categoria": "Obrigatória",
-        "disciplina": "Álgebra Linear",
-        "codigo": "MCTB001-17"
-    },
-    {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Cálculo Vetorial e Tensorial",
-        "codigo": "MCTB010-13"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Materiais e Suas Propriedades",
-        "codigo": "ESTO006-17"
-     },
-     {
-        "creditos": 2,
-        "categoria": "Obrigatória",
-        "disciplina": "Fundamentos de Desenho Técnico",
-        "codigo": "ESTO011-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Termodinâmica Aplicada I",
-        "codigo": "ESTO014-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Mecânica dos Sólidos I",
-        "codigo": "ESTO008-17"
-     }, 
-     {
-        "creditos": 2,
-        "categoria": "Obrigatória",
-        "disciplina": "Introdução às Engenharias",
-        "codigo": "ESTO005-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Eletromagnetismo Aplicado",
-        "codigo": "ESTA018-17"
-    },
-    {
-        "creditos": 2,
-        "categoria": "Obrigatória",
-        "disciplina": "Projeto Assistido por Computador",
-        "codigo": "ESTA019-17"
-    },
-    {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Métodos Experimentais em Engenharia",
-        "codigo": "ESTO017-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Mecânica dos Sólidos I",
-        "codigo": "ESTO008-17"
-     },
-     {
-        "creditos": 2,
-        "categoria": "Obrigatória",
-        "disciplina": "Modelagem e Controle",
-        "codigo": "ESTA020-17"
-    },
-    {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Transf. em Sinais e Sistemas Lineares",
-        "codigo": "ESTI003-17"
-    },
-    {
-        "creditos": 2,
-        "categoria": "Obrigatória",
-        "disciplina": "Princípios de Administração",
-        "codigo": "ESTO012-17"
-     },
-     {
-        "creditos": 5,
-        "categoria": "Obrigatória",
-        "disciplina": "Sistemas de Controle I",
-        "codigo": "ESTA003-17"
-     },
-     {
-        "creditos": 5,
-        "categoria": "Obrigatória",
-        "disciplina": "Eletrônica Analógica Aplicada",
-        "codigo": "ESTA007-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Processamento Digital de Sinais",
-        "codigo": "ESTI006-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Sistemas CAD/CAM",
-        "codigo": "ESTA014-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Sensores e Transdutores",
-        "codigo": "ESTA010-17"
-     },
-     {
-        "creditos": 6,
-        "categoria": "Opção Limitada",
-        "disciplina": "Eletrônica Digital",
-        "codigo": "ESTI002-17"
-    },
-    {
-        "creditos": 5,
-        "categoria": "Obrigatória",
-        "disciplina": "Sistemas de Controle II",
-        "codigo": "ESTA008-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Máquinas Elétricas",
-        "codigo": "ESTA016-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Fundamentos de Robótica",
-        "codigo": "ESTA013-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Sistemas Microprocessado",
-        "codigo": "ESTA013-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Teoria de Acionam. Elétricos",
-        "codigo": "ESTA022-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Intr. aos Processos de Fabricação",
-        "codigo": "ESTA023-17"
-     },
-     {
-        "creditos": 2,
-        "categoria": "Obrigatória",
-        "disciplina": "Laboratório de Máquinas Elétricas",
-        "codigo": "ESTA017-17"
-     },
-     {
-        "creditos": 3,
-        "categoria": "Obrigatória",
-        "disciplina": "Introdução ao Controle Discreto",
-        "codigo": "ESTA021-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Automação de Sist. Industriais",
-        "codigo": "ESTA011-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Obrigatória",
-        "disciplina": "Fotônica",
-        "codigo": "ESTA006-17"
-     },
-     {
-        "creditos": 2,
-        "categoria": "Opção Limitada",
-        "disciplina": "Engenharia Unificada I",
-        "codigo": "ESTO902-17"
-     },
-     {
-        "creditos": 2,
-        "categoria": "Opção Limitada",
-        "disciplina": "Engenharia Unificada II",
-        "codigo": "ESTO903-17"
-     },
-     {
-        "creditos": 2,
-        "categoria": "Obrigatória",
-        "disciplina": "Trabalho de Graduação I em Engenharia IAR",
-        "codigo": "ESTA902-17"
-     },
-     {
-        "creditos": 2,
-        "categoria": "Obrigatória",
-        "disciplina": "Trabalho de Graduação II em Engenharia IAR",
-        "codigo": "ESTA903-17"
-     },
-     {
-        "creditos": 2,
-        "categoria": "Obrigatória",
-        "disciplina": "Trabalho de Graduação III em Engenharia IAR",
-        "codigo": "ESTA904-17"
-     },
-     {
-        "creditos": 14,
-        "categoria": "Obrigatória",
-        "disciplina": "Estágio Curricular em Engenharia IAR",
-        "codigo": "ESTA905-17"
-     },
-     {
-        "creditos": 5,
-        "categoria": "Opção Limitada",
-        "disciplina": "Introdução ao Controle Moderno",
-        "codigo": "ESZA023-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Controle Robusto Multivariável ",
-        "codigo": "ESZA002-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Controle Não-Linear",
-        "codigo": "ESZA003-17"
-     },
-     {
-        "creditos": 3,
-        "categoria": "Opção Limitada",
-        "disciplina": "Projeto de Controle Discreto",
-        "codigo": "ESZA024-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Processadores Digitais em Controle e Automação ",
-        "codigo": "ESZA005-17"
-     },
-     {
-        "creditos": 3,
-        "categoria": "Opção Limitada",
-        "disciplina": "Teoria de Controle Ótimo",
-        "codigo": "ESZA006-17"
-     },
-     {
-        "creditos": 3,
-        "categoria": "Opção Limitada",
-        "disciplina": "Confiabilidade de Componentes e Sistemas ",
-        "codigo": "ESZA007-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Circuitos Hidráulicos e Pneumáticos",
-        "codigo": "ESZA008-17"
-     },
-     {
-        "creditos": 3,
-        "categoria": "Opção Limitada",
-        "disciplina": "Redes de Barramento de Campo",
-        "codigo": "ESZA009-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Informática Industrial",
-        "codigo": "ESZA013-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Servo-Sistema para Robôs e Acionamento para Sistemas Mecatrônicos ",
-        "codigo": "ESZA010-17"
-     },
-     {
-        "creditos": 5,
-        "categoria": "Opção Limitada",
-        "disciplina": "Eletrônica de Potência I ",
-        "codigo": "ESZA011-17"
-     },
-     {
-        "creditos": 5,
-        "categoria": "Opção Limitada",
-        "disciplina": "Eletrônica de Potência II",
-        "codigo": "ESZA012-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Instrumentação e Metrologia Óptica",
-        "codigo": "ESZA013-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Projeto de Microdispositivos para Instrumentação",
-        "codigo": "ESZA014-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Supervisão e Monitoramento de Processos Energéticos",
-        "codigo": "ESZA015-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Optoeletrônica",
-        "codigo": "ESZA016-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Lógica Programável",
-        "codigo": "ESZA017-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Engenharia Óptica e Imagens",
-        "codigo": "ESZA018-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Instalações Elétricas I",
-        "codigo": "ESZA019-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Fundamentos de Conversão de Energia Elétrica",
-        "codigo": "ESZA015-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Instalações Elétricas II ",
-        "codigo": "ESZA020-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Projeto de Filtros Digitais",
-        "codigo": "ESZA016-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Aplicações de Microcontroladores",
-        "codigo": "ESZA025-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Visão Computacional",
-        "codigo": "ESZA019-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Robôs Móveis Autônomos ",
-        "codigo": "ESZA020-17"
-     },
-     {
-        "creditos": 3,
-        "categoria": "Opção Limitada",
-        "disciplina": "Controle Avançado de Robôs",
-        "codigo": "ESZA021-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Inteligência Artificial em Robótica",
-        "codigo": "ESZA022-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Fenômenos de Transporte",
-        "codigo": "ESTO016-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Instrumentação e Controle",
-        "codigo": "ESTO004-17"
-     },
-     {
-        "creditos": 4,
-        "categoria": "Opção Limitada",
-        "disciplina": "Circuitos Elétricos e Fotônica",
-        "codigo": "ESTO001-17"
-     }
-     
-] 
-     
-
-
-
-
+[{
+    "codigo": "MCTB001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Álgebra Linear",
+    "creditos": 6
+},
+{
+    "codigo": "ESTA005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise de Sistemas Dinâmicos Lineares",
+    "creditos": 3
+},
+{
+    "codigo": "ESZI025-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Aplicações de Microcontroladores",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA011-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Automação de Sistemas Industriais",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB009-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Cálculo Numérico",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB010-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Cálculo Vetorial e Tensorial",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO001-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Circuitos Elétricos e Fotônica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Circuitos Elétricos I",
+    "creditos": 5
+},
+{
+    "codigo": "ESTA004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Circuitos Elétricos II",
+    "creditos": 5
+},
+{
+    "codigo": "ESZA008-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Circuitos Hidráulicos e Pneumáticos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZA007-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Confiabilidade de Componentes e Sistemas",
+    "creditos": 3
+},
+{
+    "codigo": "ESZA021-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Controle Avançado de Robôs",
+    "creditos": 3
+},
+{
+    "codigo": "ESZA003-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Controle Não-Linear",
+    "creditos": 4
+},
+{
+    "codigo": "ESZA002-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Controle Robusto Multivariável",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Dispositivos Eletrônicos",
+    "creditos": 5
+},
+{
+    "codigo": "ESTA018-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Eletromagnetismo Aplicado",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA007-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Eletrônica Analógica Aplicada",
+    "creditos": 5
+},
+{
+    "codigo": "ESZA011-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Eletrônica de Potência I",
+    "creditos": 5
+},
+{
+    "codigo": "ESZA012-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Eletrônica de Potência II",
+    "creditos": 5
+},
+{
+    "codigo": "ESTI002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Eletrônica Digital",
+    "creditos": 6
+},
+{
+    "codigo": "ESTO013-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Econômica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZA018-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Engenharia Óptica e Imagens",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO902-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Unificada I",
+    "creditos": 2
+},
+{
+    "codigo": "ESTO903-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Unificada II",
+    "creditos": 2
+},
+{
+    "codigo": "ESTA905-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Estágio Curricular em Engenharia de Instrumentação, Automação e Robótica",
+    "creditos": 1
+},
+{
+    "codigo": "ESTO016-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Fenômenos de Transporte",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fotônica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE015-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Fundamentos de Conversão de Energia Elétrica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO011-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos de Desenho Técnico",
+    "creditos": 2
+},
+{
+    "codigo": "ESTA013-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos de Robótica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI013-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Informática Industrial",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE019-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Instalações Elétricas I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTE020-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Instalações Elétricas II",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO004-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Instrumentação e Controle",
+    "creditos": 4
+},
+{
+    "codigo": "ESZA013-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Instrumentação e Metrologia Óptica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZA022-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Inteligência Artificial em Robótica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA021-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução ao Controle Discreto",
+    "creditos": 3
+},
+{
+    "codigo": "ESZA023-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução ao Controle Moderno",
+    "creditos": 5
+},
+{
+    "codigo": "ESTA023-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução aos Processos de Fabricação",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução às Engenharias",
+    "creditos": 2
+},
+{
+    "codigo": "ESTA017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Laboratório de Máquinas Elétricas",
+    "creditos": 2
+},
+{
+    "codigo": "ESZA017-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Lógica Programável",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA016-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Máquinas Elétricas",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Materiais e Suas Propriedades",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO015-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecânica dos Fluidos I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecânica dos Sólidos I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos Experimentais em Engenharia",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA020-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Modelagem e Controle",
+    "creditos": 2
+},
+{
+    "codigo": "ESZA016-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Optoeletrônica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO012-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Princípios de Administração",
+    "creditos": 2
+},
+{
+    "codigo": "ESZA005-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Processadores Digitais em Controle e Automação",
+    "creditos": 4
+},
+{
+    "codigo": "ESTI006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Processamento Digital de Sinais",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA019-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Projeto Assistido por Computador",
+    "creditos": 2
+},
+{
+    "codigo": "ESZA024-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Projeto de Controle Discreto",
+    "creditos": 3
+},
+{
+    "codigo": "ESZI016-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Projeto de Filtros Digitais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZA014-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Projeto de Microdispositivos para Instrumentação",
+    "creditos": 4
+},
+{
+    "codigo": "ESZA009-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Redes de Barramento de Campo",
+    "creditos": 3
+},
+{
+    "codigo": "ESZA020-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Robôs Móveis Autônomos",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA010-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sensores e Transdutores",
+    "creditos": 4
+},
+{
+    "codigo": "ESZA010-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Servo-Sistema para Robôs e Acionamento para Sistemas Mecatrônicos",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA014-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas CAD/CAM",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA003-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas de Controle I",
+    "creditos": 5
+},
+{
+    "codigo": "ESTA008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas de Controle II",
+    "creditos": 5
+},
+{
+    "codigo": "ESTI013-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas Microprocessados",
+    "creditos": 4
+},
+{
+    "codigo": "ESZA015-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Supervisão e Monitoramento de Processos Energéticos",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA022-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria de Acionamentos Elétricos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZA006-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Teoria de Controle Ótimo",
+    "creditos": 3
+},
+{
+    "codigo": "ESTO014-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Termodinâmica Aplicada I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA902-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação I em Engenharia de Instrumentação, Automação e Robótica",
+    "creditos": 2
+},
+{
+    "codigo": "ESTA903-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação II em Engenharia de Instrumentação, Automação e Robótica",
+    "creditos": 2
+},
+{
+    "codigo": "ESTA904-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação III em Engenharia de Instrumentação, Automação e Robótica",
+    "creditos": 2
+},
+{
+    "codigo": "ESTI003-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Transformadas em Sinais e Sistemas Lineares",
+    "creditos": 4
+},
+{
+    "codigo": "ESZA019-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Visão Computacional",
+    "creditos": 4
+}
+]
