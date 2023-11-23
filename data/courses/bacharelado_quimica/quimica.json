@@ -1,4 +1,4 @@
-{
+[{
     "codigo": "NHT4001-15",
     "categoria": "Obrigatória",
     "disciplina": "Análise Química Instrumental",
@@ -6,19 +6,19 @@
 },
 {
     "codigo": "ESTU025-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Avaliação de Impactos Ambientais",
     "creditos": 4
 },
 {
     "codigo": "NHZ4060-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Biocombustíveis e Biorrefinarias",
     "creditos": 4
 },
 {
     "codigo": "NHZ1009-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Biologia Molecular e Biotecnologia",
     "creditos": 3
 },
@@ -30,13 +30,13 @@
 },
 {
     "codigo": "NHZ4004-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Desenho e Projeto em Química",
     "creditos": 3
 },
 {
     "codigo": "ESTG003-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Economia de Empresas",
     "creditos": 2
 },
@@ -54,37 +54,37 @@
 },
 {
     "codigo": "ESZG013-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Empreendedorismo",
     "creditos": 4
 },
 {
     "codigo": "ESTE004-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Energia, Meio Ambiente e Sociedade",
     "creditos": 4
 },
 {
     "codigo": "ESTE030-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Engenharia de Petróleo e Gás",
     "creditos": 4
 },
 {
     "codigo": "ESZE093-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Engenharia do Biodiesel",
     "creditos": 4
 },
 {
     "codigo": "ESZE094-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Engenharia do Etanol",
     "creditos": 4
 },
 {
     "codigo": "ESTG006-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Engenharia Laboral",
     "creditos": 4
 },
@@ -102,7 +102,7 @@
 },
 {
     "codigo": "NHZ4068-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Fermentação Industrial",
     "creditos": 4
 },
@@ -120,25 +120,25 @@
 },
 {
     "codigo": "ESZU010-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Gestão Ambiental Na Indústria",
     "creditos": 3
 },
 {
     "codigo": "NHZ4059-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Indústria de Polímeros",
     "creditos": 4
 },
 {
     "codigo": "ESZB005-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Introdução à Biotecnologia",
     "creditos": 4
 },
 {
     "codigo": "NHZ4061-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Introdução a Troca de Calor, Massa e Movimentação de Fluidos",
     "creditos": 4
 },
@@ -150,7 +150,7 @@
 },
 {
     "codigo": "ESTM006-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Materiais Poliméricos",
     "creditos": 4
 },
@@ -162,7 +162,7 @@
 },
 {
     "codigo": "NHZ4062-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Meio Ambiente e Indústria",
     "creditos": 2
 },
@@ -174,37 +174,37 @@
 },
 {
     "codigo": "NHT1056-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Microbiologia",
     "creditos": 6
 },
 {
     "codigo": "ESTU010-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Microbiologia Ambiental",
     "creditos": 4
 },
 {
     "codigo": "NHZ4028-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Operações Unitárias I",
     "creditos": 4
 },
 {
     "codigo": "NHZ4029-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Operações Unitárias II",
     "creditos": 4
 },
 {
     "codigo": "ESTG023-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Organização do Trabalho",
     "creditos": 2
 },
 {
     "codigo": "NHZ4063-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Polímeros Síntese, Caracterização e Processos",
     "creditos": 6
 },
@@ -222,13 +222,13 @@
 },
 {
     "codigo": "NHZ4064-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Processos Industriais Cerâmicos",
     "creditos": 4
 },
 {
     "codigo": "NHZ4035-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Processos Industriais Orgânicos e Inorgânicos",
     "creditos": 4
 },
@@ -252,7 +252,7 @@
 },
 {
     "codigo": "NHZ4069-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Química de Alimentos",
     "creditos": 4
 },
@@ -270,9 +270,15 @@
 },
 {
     "codigo": "NHZ4038-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Química dos Materiais",
     "creditos": 6
+},
+{
+    "codigo": "NHZ4066-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Química Inorgânica Avançada",
+    "creditos": 4
 },
 {
     "codigo": "NHT4056-15",
@@ -294,45 +300,51 @@
 },
 {
     "codigo": "ESZE100-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Refino do Petróleo",
     "creditos": 4
 },
 {
     "codigo": "ESTU033-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Resíduos Sólidos",
     "creditos": 3
 },
 {
     "codigo": "NHZ4042-09",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Seminários em Química I",
     "creditos": 2
 },
 {
     "codigo": "ESTU037-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Sistemas de Tratamento de Água",
     "creditos": 3
 },
 {
     "codigo": "NHZ4065-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Tecnologia de Alimentos",
     "creditos": 4
 },
 {
     "codigo": "NHZ4070-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Tecnologia de Biomateriais",
     "creditos": 4
 },
 {
     "codigo": "ESZU033-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Tecnologias Alternativas de Tratamento de Água e Efluentes",
     "creditos": 3
+},
+{
+    "codigo": "NHZ4067-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria de Grupos: Moléculas e Sólidos",
+    "creditos": 2
 },
 {
     "codigo": "NHT4057-15",
@@ -354,7 +366,8 @@
 },
 {
     "codigo": "ESTU038-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Tratamento de Águas Urbanas Servidas",
     "creditos": 3
-},
+}
+]

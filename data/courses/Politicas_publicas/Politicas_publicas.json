@@ -1,0 +1,541 @@
+[{
+    "codigo": "ESZP041-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Administração Pública e Reforma do Estado em Perspectiva Comparada",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT011-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Análise de Dados para o Planejamento Territorial",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP045-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise Social da Família e Implementação de Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT001-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Arranjos Institucionais e Marco Regulatório do Território",
+    "creditos": 2
+},
+{
+    "codigo": "ESZP011-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Arte, Ciência, Tecnologia e Política",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP035-14",
+    "categoria": "Obrigatória",
+    "disciplina": "Atores e Instituições no Regime Militar: 1964-1985",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP031-14",
+    "categoria": "Obrigatória",
+    "disciplina": "Avaliação e Monitoramento de Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP004-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Cidadania, Direitos e Desigualdades",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP012-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Ciência, Saúde, Educação e a Formação da Nacionalidade",
+    "creditos": 4
+},
+{
+    "codigo": "ESZG017-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Clima e Cultura Organizacional",
+    "creditos": 2
+},
+{
+    "codigo": "ESHP005-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Conflitos Sociais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC002-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Conhecimento na Economia: Abordagens e Interfaces com as Atividades de CT&I",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP022-14",
+    "categoria": "Obrigatória",
+    "disciplina": "Cultura Política",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC003-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Desenvolvimento Socioeconômico",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP001-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Desigualdades Regionais e Formação Socioespacial do Brasil",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP013-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Dinâmicas Socioespaciais do ABC Paulista",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP014-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Diversidade Cultural, Conhecimento Local e Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP015-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Economia da Inovação Tecnológica",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC034-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Economia do Meio Ambiente",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC003-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Economia do Setor Público",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP021-21",
+    "categoria": "Obrigatória",
+    "disciplina": "Economia Política do Conhecimento no Sistema Mundial",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR003-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Economia Política Internacional da Segurança Alimentar",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP046-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Economia Solidária, Associativismo e Cooperativismo",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP018-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Ensino Superior no Brasil: Trajetórias e Modelos Institucionais",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR005-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Estado e Desenvolvimento Econômico no Brasil Contemporâneo",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP007-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Federalismo e Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Finanças Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP023-14",
+    "categoria": "Obrigatória",
+    "disciplina": "Formação Histórica do Brasil Contemporâneo",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR007-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Geopolítica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP022-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Gestão de Projetos Culturais",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Governança Pública, Democracia e Políticas No Território",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP009-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Governo, Burocracia e Administração Pública",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR024-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "História da Política Externa Brasileira",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP042-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Indicadores de Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP023-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Inovação e Desenvolvimento Agroindustrial",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP043-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Inovação nos Serviços Públicos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP002-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Instituições Judiciais e Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP025-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Prospecção Tecnológica",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP012-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução ao Direito Administrativo",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP013-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução ao Direito Constitucional",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP014-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução às Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP044-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Meio Ambiente e Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP026-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Memória, Identidades Sociais e Cidadania nas Sociedades Complexas Contemporâneas",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP024-14",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos de Pesquisa em Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT010-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos de Planejamento",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP027-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos e Técnicas Aplicadas às Políticas Públicas Ambientais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP028-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos e Técnicas Aplicadas às Políticas Públicas Urbanas",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP016-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos Quantitativos para Ciências Sociais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZG020-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Modelos de Comunicação Nas Organizações",
+    "creditos": 2
+},
+{
+    "codigo": "ESZP004-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Modelos e Práticas Colaborativas em CT&I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT022-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Modelos Econômicos e Análise das Dinâmicas Territoriais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP029-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Movimentos Sindicais, Sociais e Culturais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC013-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Mudança Tecnológica e Dinâmica Capitalista na Economia Contemporânea",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP025-14",
+    "categoria": "Obrigatória",
+    "disciplina": "Observatório de Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESTG023-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Organização do Trabalho",
+    "creditos": 2
+},
+{
+    "codigo": "ESHP026-14",
+    "categoria": "Obrigatória",
+    "disciplina": "Participação, Movimentos Sociais e Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP006-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Pensamento Latino-Americano e Políticas de CT&I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP030-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Perspectiva de Análise do Estado e das Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP040-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Perspectivas Analíticas sobre Burocracia",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT017-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Planejamento e Política Ambiental",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP030-14",
+    "categoria": "Obrigatória",
+    "disciplina": "Planejamento Orçamentário",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU011-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Planejamento Urbano e Metropolitano",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP027-14",
+    "categoria": "Obrigatória",
+    "disciplina": "Poder Local",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR025-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Política Externa Brasileira Contemporânea",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT020-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Política Metropolitana",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT021-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Política Urbana",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP007-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Políticas Culturais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP039-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Políticas de Educação",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT010-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Políticas de Infraestrutura",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP038-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Políticas de Saúde",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP034-14",
+    "categoria": "Obrigatória",
+    "disciplina": "Políticas Públicas de Esporte e Lazer",
+    "creditos": 2
+},
+{
+    "codigo": "ESZP008-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Políticas Públicas de Gênero, Etnia e Geração",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP009-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Políticas Públicas de Intervenção Territorial no Brasil",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP028-14",
+    "categoria": "Obrigatória",
+    "disciplina": "Políticas Públicas para Sociedade da Informação",
+    "creditos": 4
+},
+{
+    "codigo": "ESZR016-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Políticas Públicas Sul-Americanas",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP018-14",
+    "categoria": "Obrigatória",
+    "disciplina": "Políticas Sociais",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR028-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Regime Internacional dos Direitos Humanos",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP019-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Regimes e Formas de Governo",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP010-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Regulação e Agências Reguladoras no Contexto Brasileiro",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP031-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tecnologias Sociais",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP020-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Temas Contemporâneos",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR002-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Temas de Direito Internacional Público",
+    "creditos": 4
+},
+{
+    "codigo": "ESTU019-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Teoria do Planejamento Urbano e Ambiental",
+    "creditos": 3
+},
+{
+    "codigo": "ESHP029-14",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria e Gestão de Organizações Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR022-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Teorias Clássicas das Relações Internacionais",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR023-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Teorias Contemporâneas das Relações Internacionais",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP902-14",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Conclusão de Curso de Políticas Públicas I",
+    "creditos": 3
+},
+{
+    "codigo": "ESHP903-14",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Conclusão de Curso de Políticas Públicas II",
+    "creditos": 3
+},
+{
+    "codigo": "ESTU021-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Transportes e Mobilidade Urbana",
+    "creditos": 2
+},
+{
+    "codigo": "ESZP037-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Violência e Segurança Pública",
+    "creditos": 4
+}
+]

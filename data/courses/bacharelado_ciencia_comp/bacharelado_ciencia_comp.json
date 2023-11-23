@@ -1,0 +1,607 @@
+[{
+    "codigo": "MCTB001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Álgebra Linear",
+    "creditos": 6
+},
+{
+    "codigo": "MCTA001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Algoritmos e Estruturas de Dados I",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Algoritmos e Estruturas de Dados II",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA035-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Algoritmos Probabilísticos",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA003-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise de Algoritmos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA036-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Análise de Algoritmos II",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA001-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Análise de Projetos",
+    "creditos": 2
+},
+{
+    "codigo": "MCTB007-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Anéis e Corpos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA002-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Aprendizado de Máquina",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Arquitetura de Computadores",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA003-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Arquitetura de Computadores de Alto Desempenho",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA004-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Avaliação de Desempenho de Redes",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA037-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Banco de Dados",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA005-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Banco de Dados de Apoio à Tomada de Decisão",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB009-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Cálculo Numérico",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Circuitos Digitais",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA037-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Combinatória Extremal",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA007-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Compiladores",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA006-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Computação Evolutiva e Conexionista",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Computação Gráfica",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA009-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Computadores, Ética e Sociedade",
+    "creditos": 2
+},
+{
+    "codigo": "MCZA053-22",
+    "categoria": "Opção Limitada",
+    "disciplina": "Desenvolvimento Guiado por Tipos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZG013-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Empreendedorismo",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA007-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Empreendedorismo e Desenvolvimento de Negócios",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA033-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia de Software",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA051-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Estágio Supervisionado em Computação",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI030-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Gerenciamento e Interoperabilidade de Redes",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA016-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Gestão de Projetos de Software",
+    "creditos": 4
+},
+{
+    "codigo": "ESZG019-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Gestão Estratégica e Organizacional",
+    "creditos": 2
+},
+{
+    "codigo": "MCTB018-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Grupos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB012-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Inferência Estatística",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI013-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Informática Industrial",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA014-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Inteligência Artificial",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA008-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Interação Humano-Computador",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB022-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução à Bioinformática",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB015-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução à Criptografia",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB018-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução à Modelagem e Processos Estocásticos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA032-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução à Programação de Jogos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI034-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Jogos Digitais: Aspectos Técnicos e Aplicações",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA010-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Laboratório de Engenharia de Software",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA011-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Laboratório de Redes",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA012-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Laboratório de Sistemas Operacionais",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA015-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Linguagens Formais e Automata",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA013-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Lógicas Não Clássicas",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB019-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Matemática Discreta",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA014-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Métodos de Otimização",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA015-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Mineração de Dados",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC021-20",
+    "categoria": "Opção Limitada",
+    "disciplina": "Neurociência Teórica e Computacional",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA016-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Paradigmas de Programação",
+    "creditos": 4
+},
+{
+    "codigo": "ESTG013-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Pesquisa Operacional",
+    "creditos": 6
+},
+{
+    "codigo": "ESZI022-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Planejamento de Redes de Informação",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA038-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Prática Avançada de Programação A",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA039-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Prática Avançada de Programação B",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA040-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Prática Avançada de Programação C",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA041-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Processamento de Imagens Utilizando GPU",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA017-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Processamento de Linguagem Natural",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC022-15",
+    "categoria": "Opção Limitada",
+    "disciplina": "Processamento de Sinais Neurais",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA018-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Processamento Digital de Imagens",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA042-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Processo e Desenvolvimento de Softwares Educacionais",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA033-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Programação Avançada para Dispositivos Móveis",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI033-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Programação de Dispositivos Móveis",
+    "creditos": 2
+},
+{
+    "codigo": "MCTA028-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Programação Estruturada",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Programação Matemática",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA018-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Programação Orientada a Objetos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA019-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Programação para Web",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA020-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Programação Paralela",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA034-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Programação Segura",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA054-22",
+    "categoria": "Opção Limitada",
+    "disciplina": "Projeto Avançado em Sistemas de Computação",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA029-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Projeto de Graduação em Computação I",
+    "creditos": 8
+},
+{
+    "codigo": "MCTA030-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Projeto de Graduação em Computação II",
+    "creditos": 8
+},
+{
+    "codigo": "MCTA031-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Projeto de Graduação em Computação III",
+    "creditos": 8
+},
+{
+    "codigo": "MCZA021-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Projeto de Redes",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA022-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Projeto Interdisciplinar",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA023-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Redes Convergentes",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA022-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Redes de Computadores",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA024-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Redes sem Fio",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI029-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Redes WAN de Banda Larga",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA044-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Robótica e Sistemas Inteligentes",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA045-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Robótica Educacional",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA023-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Segurança de Dados",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA025-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Segurança em Redes",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA046-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Semântica de Linguagem de Programação",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA026-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sistemas de Gerenciamento de Banco de Dados",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA027-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sistemas de Informação",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA024-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas Digitais",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA025-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas Distribuídos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI014-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sistemas Inteligentes",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA028-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sistemas Multiagentes",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA029-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sistemas Multimídia",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA047-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sistemas Multi-Robôs Sociais",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA026-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas Operacionais",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA050-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Técnicas Avançadas de Programação",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ5019-22",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tecnologias da Informação e Comunicação na Educação",
+    "creditos": 3
+},
+{
+    "codigo": "MCZB033-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Teoria da Recursão e Computabilidade",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA027-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria dos Grafos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA048-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Teoria Espectral de Grafos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA049-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tópicos Emergentes em Banco de Dados",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA030-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Vida Artificial na Computação",
+    "creditos": 2
+},
+{
+    "codigo": "ESZA019-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Visão Computacional",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA052-22",
+    "categoria": "Opção Limitada",
+    "disciplina": "Vizualização de Dados e Informações",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA031-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Web Semântica",
+    "creditos": 4
+}
+]

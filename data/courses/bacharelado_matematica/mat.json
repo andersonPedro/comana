@@ -1,4 +1,4 @@
-{
+[{
     "codigo": "MCTB001-17",
     "categoria": "Obrigatória",
     "disciplina": "Álgebra Linear",
@@ -18,25 +18,25 @@
 },
 {
     "codigo": "MCZB001-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Análise Complexa",
     "creditos": 4
 },
 {
     "codigo": "MCTA003-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Análise de Algoritmos",
     "creditos": 4
 },
 {
     "codigo": "MCZB002-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Análise de Regressão",
     "creditos": 4
 },
 {
     "codigo": "MCZB003-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Análise Multivariada",
     "creditos": 4
 },
@@ -48,13 +48,13 @@
 },
 {
     "codigo": "MCZB004-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Análise no Rn II",
     "creditos": 4
 },
 {
     "codigo": "MCZB005-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Análise Numérica",
     "creditos": 4
 },
@@ -96,25 +96,25 @@
 },
 {
     "codigo": "MCZA037-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Combinatória Extremal",
     "creditos": 4
 },
 {
     "codigo": "MCZB006-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Conexões e Fibrados",
     "creditos": 4
 },
 {
     "codigo": "NHZ3002-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Dinâmica Não Linear e Caos",
     "creditos": 4
 },
 {
     "codigo": "MCZB007-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Elementos Finitos",
     "creditos": 4
 },
@@ -132,13 +132,13 @@
 },
 {
     "codigo": "NHZ3078-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Equações Diferenciais Parciais Aplicadas",
     "creditos": 4
 },
 {
     "codigo": "MCZB035-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Evolução dos Conceitos Matemáticos",
     "creditos": 4
 },
@@ -150,13 +150,13 @@
 },
 {
     "codigo": "MCZB036-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Filosofia da Matemática",
     "creditos": 4
 },
 {
     "codigo": "MCZB008-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Formas Diferenciais",
     "creditos": 4
 },
@@ -168,7 +168,7 @@
 },
 {
     "codigo": "MCZB037-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Funções Especiais e Teoria de Representações de Grupos",
     "creditos": 4
 },
@@ -186,13 +186,13 @@
 },
 {
     "codigo": "MCZB009-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Geometria Não Euclidiana",
     "creditos": 4
 },
 {
     "codigo": "MCZB010-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Grupo Fundamental e Espaço de Recobrimento",
     "creditos": 4
 },
@@ -204,79 +204,79 @@
 },
 {
     "codigo": "MCTD010-18",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "História da Matemática",
     "creditos": 4
 },
 {
     "codigo": "MCZB012-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Inferência Estatística",
     "creditos": 4
 },
 {
     "codigo": "MCZB013-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Introdução à Análise Estocástica em Finanças",
     "creditos": 4
 },
 {
     "codigo": "MCZB014-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Introdução à Análise Funcional",
     "creditos": 4
 },
 {
     "codigo": "MCZB015-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Introdução à Criptografia",
     "creditos": 4
 },
 {
     "codigo": "MCZB016-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Introdução à Estatística Bayesiana",
     "creditos": 4
 },
 {
     "codigo": "MCTC014-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Introdução à Inferência Estatística",
     "creditos": 4
 },
 {
     "codigo": "MCZB018-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Introdução à Modelagem e Processos Estocásticos",
     "creditos": 4
 },
 {
     "codigo": "MCZB019-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Introdução aos Processos Pontuais",
     "creditos": 4
 },
 {
     "codigo": "MCZB020-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Introdução aos Sistemas Dinâmicos",
     "creditos": 4
 },
 {
     "codigo": "MCZB021-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Introdução às Curvas Algébricas",
     "creditos": 4
 },
 {
     "codigo": "MCTA015-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Linguagens Formais e Automata",
     "creditos": 4
 },
 {
     "codigo": "MCZA013-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Lógicas Não Clássicas",
     "creditos": 4
 },
@@ -288,73 +288,73 @@
 },
 {
     "codigo": "NHT3068-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Mecânica Clássica I",
     "creditos": 4
 },
 {
     "codigo": "NHT3069-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Mecânica Clássica II",
     "creditos": 4
 },
 {
     "codigo": "NHZ3075-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Mecânica Clássica III",
     "creditos": 4
 },
 {
     "codigo": "NHT3036-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Mecânica Estatística",
     "creditos": 6
 },
 {
     "codigo": "MCZB022-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Metateoremas da Lógica Clássica",
     "creditos": 4
 },
 {
     "codigo": "MCZA014-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Métodos de Otimização",
     "creditos": 4
 },
 {
     "codigo": "MCZB023-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Métodos Numéricos em EDO’s",
     "creditos": 4
 },
 {
     "codigo": "MCZB017-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Métodos Numéricos em EDP's",
     "creditos": 4
 },
 {
     "codigo": "MCZB024-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Métodos Variacionais",
     "creditos": 4
 },
 {
     "codigo": "NHZ1079-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Modelagem Molecular de Sistemas Biológicos",
     "creditos": 4
 },
 {
     "codigo": "MCZB025-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Módulos",
     "creditos": 4
 },
 {
     "codigo": "MCZB026-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Percolação",
     "creditos": 4
 },
@@ -366,13 +366,13 @@
 },
 {
     "codigo": "MCZB028-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Processos Estocásticos",
     "creditos": 4
 },
 {
     "codigo": "MCTA028-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Programação Estruturada",
     "creditos": 4
 },
@@ -384,13 +384,13 @@
 },
 {
     "codigo": "MCTA018-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Programação Orientada a Objetos",
     "creditos": 4
 },
 {
     "codigo": "MCZA046-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Semântica de Linguagem de Programação",
     "creditos": 4
 },
@@ -408,25 +408,25 @@
 },
 {
     "codigo": "MCZB029-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Teoria Aritmética dos Números II",
     "creditos": 4
 },
 {
     "codigo": "MCZB030-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Teoria Axiomática de Conjuntos",
     "creditos": 4
 },
 {
     "codigo": "MCZB038-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Teoria Básica de Categorias",
     "creditos": 4
 },
 {
     "codigo": "MCZB039-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Teoria Básica de Modelos",
     "creditos": 4
 },
@@ -438,61 +438,61 @@
 },
 {
     "codigo": "MCZB033-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Teoria da Recursão e Computabilidade",
     "creditos": 4
 },
 {
     "codigo": "NHT3054-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Teoria da Relatividade",
     "creditos": 4
 },
 {
     "codigo": "MCZB034-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Teoria das Distribuições",
     "creditos": 4
 },
 {
     "codigo": "MCZB032-13",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Teoria das Filas",
     "creditos": 4
 },
 {
     "codigo": "MCZB041-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Teoria de Conjuntos",
     "creditos": 4
 },
 {
     "codigo": "NHZ3056-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Teoria de Grupos em Física",
     "creditos": 4
 },
 {
     "codigo": "MCTA027-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Teoria dos Grafos",
     "creditos": 4
 },
 {
     "codigo": "MCZB031-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Teoria dos Jogos",
     "creditos": 4
 },
 {
     "codigo": "MCZA048-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Teoria Espectral de Grafos",
     "creditos": 4
 },
 {
     "codigo": "MCZB040-17",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Tópicos de Análise de Fourier",
     "creditos": 4
 },
@@ -522,7 +522,8 @@
 },
 {
     "codigo": "NHT3066-15",
-    "categoria": "Obrigatória",
+    "categoria": "Opção Limitada",
     "disciplina": "Variáveis Complexas e Aplicações",
     "creditos": 4
-},
+}
+]

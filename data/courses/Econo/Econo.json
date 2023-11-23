@@ -1,0 +1,871 @@
+[{
+    "codigo": "MCTB001-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Álgebra Linear",
+    "creditos": 6
+},
+{
+    "codigo": "MCTA001-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Algoritmos e Estruturas de Dados I",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT011-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Análise de Dados para o Planejamento Territorial",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC001-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Análise de Séries Temporais - Tópicos Especiais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC018-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Análise Econômica de Projetos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB003-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Análise Multivariada",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB005-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Análise Real I",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR018-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Atores Não Estatais e as Relações Internacionais",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP031-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Avaliação e Monitoramento de Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA037-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Banco de Dados",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA005-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Banco de Dados de Apoio à Tomada de Decisão",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB009-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Cálculo Numérico",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC025-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Capitalismo Contemporâneo",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR019-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "China nas Relações Internacionais",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP004-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Cidadania, Direitos e Desigualdades",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC002-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Conhecimento na Economia: Abordagens e Interfaces com as Atividades de CT&I",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Contabilidade Básica",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP022-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Cultura Política",
+    "creditos": 4
+},
+{
+    "codigo": "ESTG001-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Custos",
+    "creditos": 6
+},
+{
+    "codigo": "ESHT003-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Demografia",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT025-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Desenvolvimento Econômico e Social No Brasil",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT002-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Desenvolvimento Humano e Pobreza Urbana",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC003-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Desenvolvimento Socioeconômico",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC030-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Desigualdades de Raça, Gênero e Renda",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP001-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Desigualdades Regionais e Formação Socioespacial do Brasil",
+    "creditos": 4
+},
+{
+    "codigo": "ESZR005-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Dinâmica dos Investimentos Produtivos Internacionais",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC035-21",
+    "categoria": "Obrigatória",
+    "disciplina": "Econometria I",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC036-21",
+    "categoria": "Obrigatória",
+    "disciplina": "Econometria II",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC037-21",
+    "categoria": "Obrigatória",
+    "disciplina": "Econometria III",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC033-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Economia Brasileira Contemporânea",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC007-21",
+    "categoria": "Obrigatória",
+    "disciplina": "Economia Brasileira I",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC008-21",
+    "categoria": "Obrigatória",
+    "disciplina": "Economia Brasileira II",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC034-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Economia Comportamental",
+    "creditos": 4
+},
+{
+    "codigo": "ESTG003-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Economia de Empresas",
+    "creditos": 2
+},
+{
+    "codigo": "ESZC035-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Economia Dinâmica em Tempo Contínuo",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC036-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Economia Dinâmica em Tempo Discreto",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC034-21",
+    "categoria": "Obrigatória",
+    "disciplina": "Economia do Meio Ambiente",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC003-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Economia do Setor Público",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT005-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Economia do Território",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC004-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Economia do Trabalho",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC020-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Economia Industrial",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC012-21",
+    "categoria": "Obrigatória",
+    "disciplina": "Economia Institucional",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC027-21",
+    "categoria": "Obrigatória",
+    "disciplina": "Economia Matemática",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC028-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Economia Política",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP021-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Economia Política do Conhecimento no Sistema Mundial",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR004-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Economia Política Internacional da Energia",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR003-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Economia Política Internacional da Segurança Alimentar",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT006-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Economia Urbana",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC019-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Elaboração e Análise de Cenários Econômicos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZG013-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Empreendedorismo",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO013-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Econômica",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR005-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Estado e Desenvolvimento Econômico no Brasil Contemporâneo",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2010-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Ética Contemporânea",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2028-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Filosofia Política",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC016-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Finanças Corporativas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC031-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Finanças I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC032-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Finanças II",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC017-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Finanças Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC018-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Formação Econômica do Brasil",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR006-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Formação Histórica da América Latina",
+    "creditos": 4
+},
+{
+    "codigo": "BCN0402-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Funções de uma Variável",
+    "creditos": 4
+},
+{
+    "codigo": "BCN0407-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Funções de Várias Variáveis",
+    "creditos": 4
+},
+{
+    "codigo": "BCN0404-15",
+    "categoria": "Opção Limitada",
+    "disciplina": "Geometria Analítica",
+    "creditos": 3
+},
+{
+    "codigo": "ESHR007-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Geopolítica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZR004-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Geopolítica do Petróleo e o Desenvolvimento brasileiro",
+    "creditos": 4
+},
+{
+    "codigo": "ESZG041-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Gestão da Inovação",
+    "creditos": 4
+},
+{
+    "codigo": "ESZG019-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Gestão Estratégica e Organizacional",
+    "creditos": 2
+},
+{
+    "codigo": "ESHP009-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Governo, Burocracia e Administração Pública",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT009-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "História da Cidade e do Urbanismo",
+    "creditos": 4
+},
+{
+    "codigo": "NHH2035-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "História da Filosofia Contemporânea: o Século XX",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC019-17",
+    "categoria": "Obrigatória",
+    "disciplina": "História do Pensamento Econômico",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR026-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "História do Terceiro Mundo",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC020-17",
+    "categoria": "Obrigatória",
+    "disciplina": "História Econômica Geral",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP042-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Indicadores de Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT005-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Informática Aplicada ao Planejamento Territorial",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC006-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Instituições, Mercado e Poder",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR008-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Integração Regional - Teorias e Experiências",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB013-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução à Análise Estocástica em Finanças",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB016-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução à Estatística Bayesiana",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC014-13",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução à Inferência Estatística",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB018-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução à Modelagem e Processos Estocásticos",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP013-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução ao Direito Constitucional",
+    "creditos": 4
+},
+{
+    "codigo": "BCN0405-15",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução às Equações Diferenciais Ordinárias",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP014-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução às Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "NHI5015-22",
+    "categoria": "Opção Limitada",
+    "disciplina": "LIBRAS",
+    "creditos": 4
+},
+{
+    "codigo": "NHI2049-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Lógica Básica",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC022-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Macroeconomia I",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC032-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Macroeconomia II",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC024-19",
+    "categoria": "Obrigatória",
+    "disciplina": "Macroeconomia III",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC031-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Macroeconomia Pós-Keynesiana",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB019-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Matemática Discreta",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT010-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Métodos de Planejamento",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC029-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Métodos Empíricos para Avaliação de Políticas Públicas",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB023-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Métodos Numéricos em EDO’s",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC037-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Microeconomia do Desenvolvimento",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC025-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Microeconomia I",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC026-21",
+    "categoria": "Obrigatória",
+    "disciplina": "Microeconomia II",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC029-21",
+    "categoria": "Obrigatória",
+    "disciplina": "Microeconomia III",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC027-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Microeconomia Sistêmica Ambiental",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC038-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Microeconomia: problemas avançados e técnicas de resolução",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT012-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Mobilização Produtiva dos Territórios e Desenvolvimento Local",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC030-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Modelagem Econômica no Século XXI",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP004-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Modelos e Práticas Colaborativas em CT&I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZT022-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Modelos Econômicos e Análise das Dinâmicas Territoriais",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC907-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Monografia I - Técnicas de Pesquisa em Economia",
+    "creditos": 5
+},
+{
+    "codigo": "ESHC908-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Monografia II em Ciências Econômicas",
+    "creditos": 8
+},
+{
+    "codigo": "ESHC909-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Monografia III em Ciências Econômicas",
+    "creditos": 9
+},
+{
+    "codigo": "ESZC013-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Mudança Tecnológica e Dinâmica Capitalista na Economia Contemporânea",
+    "creditos": 4
+},
+{
+    "codigo": "ESTG023-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Organização do Trabalho",
+    "creditos": 2
+},
+{
+    "codigo": "ESZP006-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Pensamento Latino-Americano e Políticas de CT&I",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2053-11",
+    "categoria": "Opção Limitada",
+    "disciplina": "Pensamento Marxista e seus Desdobramentos Contemporâneos",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT018-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Planejamento e Política Regional",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR025-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Política Externa Brasileira Contemporânea",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT020-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Política Metropolitana",
+    "creditos": 4
+},
+{
+    "codigo": "ESHT021-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Política Urbana",
+    "creditos": 4
+},
+{
+    "codigo": "ESZP009-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Políticas Públicas de Intervenção Territorial no Brasil",
+    "creditos": 4
+},
+{
+    "codigo": "ESHP018-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Políticas Sociais",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO012-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Princípios de Administração",
+    "creditos": 2
+},
+{
+    "codigo": "BCM0505-15",
+    "categoria": "Opção Limitada",
+    "disciplina": "Processamento da Informação",
+    "creditos": 5
+},
+{
+    "codigo": "MCZB028-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Processos Estocásticos",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA028-15",
+    "categoria": "Opção Limitada",
+    "disciplina": "Programação Estruturada",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA017-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Programação Matemática",
+    "creditos": 4
+},
+{
+    "codigo": "ESTG025-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Propriedade Intelectual",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC011-15",
+    "categoria": "Opção Limitada",
+    "disciplina": "Psicologia Cognitiva",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC039-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Questões Metodológicas em Economia",
+    "creditos": 4
+},
+{
+    "codigo": "ESZR019-14",
+    "categoria": "Opção Limitada",
+    "disciplina": "Regimes de Negociação Financeira Internacional e a Atuação Brasileira",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC013-21",
+    "categoria": "Obrigatória",
+    "disciplina": "Relações Comerciais e de Investimento Internacionais",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR014-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Relações Internacionais Contemporâneas",
+    "creditos": 4
+},
+{
+    "codigo": "ESHC040-21",
+    "categoria": "Obrigatória",
+    "disciplina": "Relações monetárias e financeiras internacionais",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB022-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sequências e Séries",
+    "creditos": 4
+},
+{
+    "codigo": "ESHR016-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sistema Financeiro Internacional",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA026-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sistemas de Gerenciamento de Banco de Dados",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA027-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sistemas de Informação",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ2109-18",
+    "categoria": "Opção Limitada",
+    "disciplina": "Teoria das Ciências Humanas",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB031-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Teoria dos Jogos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZC011-15",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tomada de Decisões e Neuroeconomia",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC022-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tópicos Avançados em Desenvolvimento Socioeconômico",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC026-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tópicos Avançados em Economia e Planejamento Territorial",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC023-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tópicos Avançados em Economia Institucional",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC039-21",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tópicos Avançados em Finanças",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC024-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tópicos Avançados em História Econômica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC017-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tópicos Avançados em Macroeconomia",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC021-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tópicos Avançados em Microeconomia",
+    "creditos": 4
+},
+{
+    "codigo": "ESZC033-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tópicos Especiais em Economia Financeira",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB026-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Topologia",
+    "creditos": 4
+}
+]

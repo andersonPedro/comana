@@ -1,0 +1,583 @@
+[{
+    "codigo": "MCTB001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Álgebra Linear",
+    "creditos": 6
+},
+{
+    "codigo": "ESTB029-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Análise e Controle de Sistemas Mecânicos",
+    "creditos": 4
+},
+{
+    "codigo": "ESTB002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Bases Biológicas para Engenharia I",
+    "creditos": 5
+},
+{
+    "codigo": "ESTB004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Bases Biológicas para Engenharia II",
+    "creditos": 5
+},
+{
+    "codigo": "ESTB019-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Bioestatística",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ1003-15",
+    "categoria": "Opção Limitada",
+    "disciplina": "Biofísica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB032-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Bioimpedância Aplicada",
+    "creditos": 2
+},
+{
+    "codigo": "NHT1053-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Biologia Celular",
+    "creditos": 6
+},
+{
+    "codigo": "ESTB007-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Biomecânica I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTB027-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Biomecânica II",
+    "creditos": 4
+},
+{
+    "codigo": "ESTB013-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Biossegurança",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB009-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Cálculo Numérico",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB010-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Cálculo Vetorial e Tensorial",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB024-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Caracterização Biológica de Dispositivos Médicos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB002-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Caracterização de Biomateriais",
+    "creditos": 5
+},
+{
+    "codigo": "ESTM004-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Ciência dos Materiais",
+    "creditos": 4
+},
+{
+    "codigo": "ESTB005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Ciência dos Materiais Biocompatíveis",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA006-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Circuitos Digitais",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO001-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Circuitos Elétricos e Fotônica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Circuitos Elétricos I",
+    "creditos": 5
+},
+{
+    "codigo": "ESTB018-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Computação Científica Aplicada a Problemas Biológicos",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA001-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Dispositivos Eletrônicos",
+    "creditos": 5
+},
+{
+    "codigo": "MCZC001-20",
+    "categoria": "Opção Limitada",
+    "disciplina": "Doenças do Sistema Nervoso",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA018-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Eletromagnetismo Aplicado",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA007-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Eletrônica Analógica Aplicada",
+    "creditos": 5
+},
+{
+    "codigo": "ESTI002-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Eletrônica Digital",
+    "creditos": 6
+},
+{
+    "codigo": "ESZB027-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Engenharia de Reabilitação e Biofeedback",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB006-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Engenharia de Tecidos",
+    "creditos": 5
+},
+{
+    "codigo": "ESTO013-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Econômica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO902-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Unificada I",
+    "creditos": 2
+},
+{
+    "codigo": "ESTO903-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Unificada II",
+    "creditos": 2
+},
+{
+    "codigo": "ESTB028-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Equipamentos Médico-Hospitalares",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB013-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Ergonomia",
+    "creditos": 4
+},
+{
+    "codigo": "MCZC007-15",
+    "categoria": "Opção Limitada",
+    "disciplina": "Ergonomia Cognitiva",
+    "creditos": 4
+},
+{
+    "codigo": "ESTB905-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Estágio Curricular em Engenharia Biomédica",
+    "creditos": 1
+},
+{
+    "codigo": "ESTO016-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fenômenos de Transporte",
+    "creditos": 4
+},
+{
+    "codigo": "ESTB023-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Física Médica I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTB030-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Física Médica II",
+    "creditos": 2
+},
+{
+    "codigo": "ESTO011-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos de Desenho Técnico",
+    "creditos": 2
+},
+{
+    "codigo": "ESTB022-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos de Eletrônica Analógica e Digital",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB029-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Gestão de Tecnologia Hospitalar I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB030-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Gestão de Tecnologia Hospitalar II",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1054-15",
+    "categoria": "Opção Limitada",
+    "disciplina": "Histologia e Embriologia",
+    "creditos": 6
+},
+{
+    "codigo": "ESZB031-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Instalações Hospitalares",
+    "creditos": 4
+},
+{
+    "codigo": "ESTB025-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Instrumentação Biomédica I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB025-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Instrumentação Biomédica II",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO004-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Instrumentação e Controle",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB007-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução à Biofotônica e Óptica Biomédica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB022-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução à Bioinformática",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB035-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução à Biomecânica do Contínuo",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB005-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução à Biotecnologia",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB021-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução à Engenharia Biomédica",
+    "creditos": 2
+},
+{
+    "codigo": "ESZB036-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução à Mecânica Biofluídica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB014-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução à Robótica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução às Engenharias",
+    "creditos": 2
+},
+{
+    "codigo": "ESZB015-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Laboratório de Bioinformática",
+    "creditos": 4
+},
+{
+    "codigo": "NHZ3080-15",
+    "categoria": "Opção Limitada",
+    "disciplina": "Laboratório de Física Médica",
+    "creditos": 3
+},
+{
+    "codigo": "ESTB010-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Legislação Relacionada à Saúde",
+    "creditos": 2
+},
+{
+    "codigo": "ESTO006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Materiais e Suas Propriedades",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO015-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Mecânica dos Fluidos I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecânica dos Sólidos I",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB028-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Métodos de Elementos Finitos Aplicados a Sistemas Biomédicos",
+    "creditos": 5
+},
+{
+    "codigo": "ESTO017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos Experimentais em Engenharia",
+    "creditos": 4
+},
+{
+    "codigo": "ESTB031-18",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos Matemáticos Aplicados a Sistemas Biomédicos",
+    "creditos": 6
+},
+{
+    "codigo": "ESTB020-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Modelagem de Sistemas Dinâmicos I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTB024-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Modelagem de Sistemas Dinâmicos II",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB038-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Modelagem e Simulação do Movimento Humano",
+    "creditos": 4
+},
+{
+    "codigo": "NHT1058-15",
+    "categoria": "Opção Limitada",
+    "disciplina": "Morfofisiologia Humana I",
+    "creditos": 6
+},
+{
+    "codigo": "NHT1059-15",
+    "categoria": "Opção Limitada",
+    "disciplina": "Morfofisiologia Humana II",
+    "creditos": 6
+},
+{
+    "codigo": "NHT1060-15",
+    "categoria": "Opção Limitada",
+    "disciplina": "Morfofisiologia Humana III",
+    "creditos": 6
+},
+{
+    "codigo": "MCTC021-20",
+    "categoria": "Opção Limitada",
+    "disciplina": "Neurociência Teórica e Computacional",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO012-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Princípios de Administração",
+    "creditos": 2
+},
+{
+    "codigo": "ESTB015-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Princípios de Ética em Serviços de Saúde",
+    "creditos": 2
+},
+{
+    "codigo": "ESTB009-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Princípios de Imagens Médicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB010-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Processamento de Imagens Médicas",
+    "creditos": 4
+},
+{
+    "codigo": "MCTC022-15",
+    "categoria": "Opção Limitada",
+    "disciplina": "Processamento de Sinais Neurais",
+    "creditos": 4
+},
+{
+    "codigo": "ESTI006-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Processamento Digital de Sinais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB004-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Processamento e Análise de Falhas em Biomateriais",
+    "creditos": 5
+},
+{
+    "codigo": "ESZB003-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Processamento e Análise de Sinais Biomédicos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB037-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Projeto e Análise de Próteses e Órteses",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB033-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Projeto e Desenvolvimento de Interfaces Cérebro-Máquina",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB017-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Projeto e Desenvolvimento de Sistemas para Análise de Dados Médicos",
+    "creditos": 5
+},
+{
+    "codigo": "ESTM019-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Propriedades Elétricas, Magnéticas e Ópticas",
+    "creditos": 4
+},
+{
+    "codigo": "ESTM010-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Propriedades Mecânicas e Térmicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB011-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Qualidade de Imagens Médicas",
+    "creditos": 4
+},
+{
+    "codigo": "ESTB021-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sensores Biomédicos",
+    "creditos": 2
+},
+{
+    "codigo": "ESZB026-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sistemas Embarcados para Engenharia Biomédica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTI013-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sistemas Microprocessados",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB009-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Técnicas Modernas em Fotodiagnóstico",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB008-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Técnicas Modernas em Fototerapia",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB016-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Telemedicina e Sistemas de Apoio a Decisão",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO014-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Termodinâmica Aplicada I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTB902-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação I em Engenharia Biomédica",
+    "creditos": 2
+},
+{
+    "codigo": "ESTB903-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação II em Engenharia Biomédica",
+    "creditos": 2
+},
+{
+    "codigo": "ESTB904-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação III em Engenharia Biomédica",
+    "creditos": 2
+},
+{
+    "codigo": "ESTI003-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Transformadas em Sinais e Sistemas Lineares",
+    "creditos": 4
+},
+{
+    "codigo": "ESZB034-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Ultrassom Aplicado à Medicina",
+    "creditos": 4
+}
+]

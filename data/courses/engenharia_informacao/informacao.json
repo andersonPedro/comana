@@ -1,0 +1,571 @@
+[{
+    "codigo": "MCTB001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Álgebra Linear",
+    "creditos": 6
+},
+{
+    "codigo": "MCTA001-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Algoritmos e Estruturas de Dados I",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA002-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Algoritmos e Estruturas de Dados II",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI025-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Aplicações de Microcontroladores",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI037-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Aplicações em Voz, Áudio e Acústica",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA004-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Arquitetura de Computadores",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA037-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Banco de Dados",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB009-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Cálculo Numérico",
+    "creditos": 4
+},
+{
+    "codigo": "MCTB010-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Cálculo Vetorial e Tensorial",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO001-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Circuitos Elétricos e Fotônica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Circuitos Elétricos I",
+    "creditos": 5
+},
+{
+    "codigo": "ESTA004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Circuitos Elétricos II",
+    "creditos": 5
+},
+{
+    "codigo": "ESTI019-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Codificação de Sinais Multimídia",
+    "creditos": 4
+},
+{
+    "codigo": "ESTI007-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Comunicação Digital",
+    "creditos": 4
+},
+{
+    "codigo": "ESTI015-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Comunicações Móveis",
+    "creditos": 4
+},
+{
+    "codigo": "ESTI010-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Comunicações Ópticas",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA001-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Dispositivos Eletrônicos",
+    "creditos": 5
+},
+{
+    "codigo": "ESTA007-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Eletrônica Analógica Aplicada",
+    "creditos": 5
+},
+{
+    "codigo": "ESTI002-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Eletrônica Digital",
+    "creditos": 6
+},
+{
+    "codigo": "ESZI026-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Engenharia de Sistemas de Comunicação e Missão Crítica",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA033-15",
+    "categoria": "Opção Limitada",
+    "disciplina": "Engenharia de Software",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO013-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Econômica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO902-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Unificada I",
+    "creditos": 2
+},
+{
+    "codigo": "ESTO903-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Engenharia Unificada II",
+    "creditos": 2
+},
+{
+    "codigo": "ESTI905-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Estágio Curricular em Engenharia de Informação",
+    "creditos": 1
+},
+{
+    "codigo": "ESTO016-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fenômenos de Transporte",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI002-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Filtragem Adaptativa",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA006-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Fotônica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI044-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Fundamentos da Computação Semântica",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO011-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos de Desenho Técnico",
+    "creditos": 2
+},
+{
+    "codigo": "ESTI017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos de Eletromagnetismo Aplicado",
+    "creditos": 4
+},
+{
+    "codigo": "ESTI016-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Fundamentos de Fotônica",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI017-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Fundamentos de Processamento Gráfico",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI030-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Gerenciamento e Interoperabilidade de Redes",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI027-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Informação e Sociedade",
+    "creditos": 2
+},
+{
+    "codigo": "ESZI013-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Informática Industrial",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO004-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Instrumentação e Controle",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI042-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Instrumentação em RF e Micro-Ondas",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA014-15",
+    "categoria": "Opção Limitada",
+    "disciplina": "Inteligência Artificial",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI045-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução à Linguística Computacional",
+    "creditos": 4
+},
+{
+    "codigo": "MCZB018-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução à Modelagem e Processos Estocásticos",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA032-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução à Programação de Jogos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI035-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Introdução ao Processamento de Sinais de Voz e Áudio",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Introdução às Engenharias",
+    "creditos": 2
+},
+{
+    "codigo": "ESZI034-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Jogos Digitais: Aspectos Técnicos e Aplicações",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA011-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Laboratório de Redes",
+    "creditos": 4
+},
+{
+    "codigo": "ESZA017-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Lógica Programável",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Materiais e Suas Propriedades",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO015-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Mecânica dos Fluidos I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Mecânica dos Sólidos I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO017-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Métodos Experimentais em Engenharia",
+    "creditos": 4
+},
+{
+    "codigo": "ESTI018-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Ondas Eletromagnéticas Aplicadas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI022-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Planejamento de Redes de Informação",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO012-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Princípios de Administração",
+    "creditos": 2
+},
+{
+    "codigo": "ESTI004-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Princípios de Comunicação",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI003-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Processamento de Informação em Línguas Naturais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI032-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Processamento de Vídeo",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA018-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Processamento Digital de Imagens",
+    "creditos": 4
+},
+{
+    "codigo": "ESTI006-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Processamento Digital de Sinais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI043-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Programação Baseada em Componentes para Jogos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI033-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Programação de Dispositivos Móveis",
+    "creditos": 2
+},
+{
+    "codigo": "ESZI041-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Programação de Software Embarcado",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA028-15",
+    "categoria": "Obrigatória",
+    "disciplina": "Programação Estruturada",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA018-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Programação Orientada a Objetos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI036-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Projeto de Alta Frequência",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI016-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Projeto de Filtros Digitais",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA021-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Projeto de Redes",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI023-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Projeto de Sistemas de Comunicação",
+    "creditos": 3
+},
+{
+    "codigo": "ESZI038-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Projeto de Sistemas Multimídia",
+    "creditos": 3
+},
+{
+    "codigo": "ESZI039-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Propagação e Antenas",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA023-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Redes Convergentes",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA022-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Redes de Computadores",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA024-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Redes sem Fio",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI029-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Redes WAN de Banda Larga",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI031-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Segurança de Redes",
+    "creditos": 4
+},
+{
+    "codigo": "MCZA025-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Segurança em Redes",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI010-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Simulação de Sistemas de Comunicação",
+    "creditos": 4
+},
+{
+    "codigo": "ESTI005-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sinais Aleatórios",
+    "creditos": 4
+},
+{
+    "codigo": "ESTA003-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas de Controle I",
+    "creditos": 5
+},
+{
+    "codigo": "ESTA008-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sistemas de Controle II",
+    "creditos": 5
+},
+{
+    "codigo": "ESZI019-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sistemas de Micro-Ondas",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA025-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sistemas Distribuídos",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI014-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sistemas Inteligentes",
+    "creditos": 4
+},
+{
+    "codigo": "ESTI013-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Sistemas Microprocessados",
+    "creditos": 4
+},
+{
+    "codigo": "MCTA026-13",
+    "categoria": "Opção Limitada",
+    "disciplina": "Sistemas Operacionais",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI018-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Tecnologia de Redes Ópticas",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI040-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Telefonia Fixa e VoIP",
+    "creditos": 4
+},
+{
+    "codigo": "ESTI008-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria da Informação e Códigos",
+    "creditos": 4
+},
+{
+    "codigo": "ESTI020-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Teoria de Filas e Análise de Desempenho",
+    "creditos": 4
+},
+{
+    "codigo": "ESTO014-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "Termodinâmica Aplicada I",
+    "creditos": 4
+},
+{
+    "codigo": "ESTI902-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação I em Engenharia de Informação",
+    "creditos": 2
+},
+{
+    "codigo": "ESTI903-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação II em Engenharia de Informação",
+    "creditos": 2
+},
+{
+    "codigo": "ESTI904-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Trabalho de Graduação III em Engenharia de Informação",
+    "creditos": 2
+},
+{
+    "codigo": "ESTI003-17",
+    "categoria": "Obrigatória",
+    "disciplina": "Transformadas em Sinais e Sistemas Lineares",
+    "creditos": 4
+},
+{
+    "codigo": "ESZI028-17",
+    "categoria": "Opção Limitada",
+    "disciplina": "TV Digital",
+    "creditos": 4
+}
+]

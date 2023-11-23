@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-from data.create_data import create_df_bacharelado_biologia, create_df_bacharelado_biotecnologia, create_df_bacharelado_fisica, create_df_bacharelado_matematica, create_df_bacharelado_neuro, create_df_bacharelado_quimica, create_df_engenharia_aeroespacial, create_df_engenharia_ambiental, create_df_engenharia_energia, create_df_engenharia_materiais, create_df_grade_horas, create_df_bacharelado_ciencia_tecnologia, create_df_eng_gestao, create_df_eng_gestao_plano
+from data.create_data import create_df_engenharia_iar, create_df_bacharelado_biologia, create_df_bacharelado_biotecnologia, create_df_bacharelado_fisica, create_df_bacharelado_matematica, create_df_bacharelado_neuro, create_df_bacharelado_quimica, create_df_engenharia_aeroespacial, create_df_engenharia_ambiental, create_df_engenharia_energia, create_df_engenharia_materiais, create_df_grade_horas, create_df_bacharelado_ciencia_tecnologia, create_df_eng_gestao, create_df_eng_gestao_plano
 
 def funcao_util(df):
     st.write(df)
@@ -23,7 +23,7 @@ def app():
         "Engenharia de Ambiental e Urbana",
         "Engenharia de Energia",
         # "Engenharia de Informação",
-        # "Engenharia de Instrumentação Automação e Robótica",
+        "Engenharia de Instrumentação Automação e Robótica",
         "Engenharia de Materiais",
         "Engenharia de Aeroespacial"#,
         # "Engenharia de Biomédica"
@@ -64,7 +64,7 @@ def app():
     elif option == "Engenharia de Informação":
         pass
     elif option == "Engenharia de Instrumentação Automação e Robótica":
-        pass
+        funcao_util(create_df_engenharia_iar())
     elif option == "Engenharia de Materiais":
         funcao_util(create_df_engenharia_materiais())
         pass
