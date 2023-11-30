@@ -87,6 +87,8 @@ def materias(df_materias,df_materias_aprovadas,df_materias_plano=pd.DataFrame())
 
         download_button(df_selected)
 
+def faltantes(df_bacharelado, df_materias_aprovadas):
+    df_materias_faltantes = df_bacharelado[~df_bacharelado['codigo'].isin(df_materias_aprovadas['codigo'])].copy()
 
 def app():
     st.title('Sua evolução')
@@ -179,7 +181,7 @@ def app():
             if option == "Engenharia de Gestão":
                 materias(create_df_eng_gestao(),df_materias_aprovadas,create_df_eng_gestao_plano())
             if option == "Bacharelado de Biotecnologia":
-                materias(create_df_bacharelado_biotecnologia(),df_materias_aprovadas)
+                materias(create_df_bacharelado_biotecnologia(),df_materias_aprovadas,faltantes(create_df_bacharelado_biotecnologia(), df_materias_aprovadas):)
             if option == "Bacharelado de Ciências Biológicas":
                 materias(create_df_bacharelado_biologia(),df_materias_aprovadas)
             if option == "Bacharelado de Física":
