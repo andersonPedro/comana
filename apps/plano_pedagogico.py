@@ -2,6 +2,52 @@ import pandas as pd
 import streamlit as st
 from data.create_data import create_df_lic_matematica, create_df_lic_fisica, create_df_lic_em_quimica, create_df_lic_em_filosofia, create_df_lic_biologia, create_df_lch, create_df_bach_filosofia, create_df_Planej_territorial, create_df_LCNE, create_df_BCH, create_df_Econo, create_df_Politicas_publicas, create_df_Relacoes_internacionais, create_df_engenharia_biomedica, create_df_engenharia_iar, create_df_bacharelado_biologia, create_df_bacharelado_biotecnologia, create_df_bacharelado_fisica, create_df_bacharelado_matematica, create_df_bacharelado_neuro, create_df_bacharelado_quimica, create_df_engenharia_aeroespacial, create_df_engenharia_ambiental, create_df_engenharia_energia, create_df_engenharia_informacao, create_df_engenharia_materiais, create_df_bacharelado_ciencia_tecnologia, create_df_eng_gestao, create_df_bacharelado_ciencia_comp
 import numpy as np
+import base64
+def download_button(df_selected):
+    # Show a download button
+    if not df_selected.empty:
+        csv = df_selected.to_csv(index=False)
+        b64 = base64.b64encode(csv.encode()).decode()
+        # href = f'<a href="data:file/csv;base64,{b64}" download="selected_rows.csv">Download das linhas selecionadas</a>'
+        # st.markdown(href, unsafe_allow_html=True)
+        # Estilos do botão
+                # Função para aplicar estilos por meio de JavaScript
+        def set_css_style():
+            style = """
+                .botao-bonito {
+                    display: inline-block;
+                    padding: 10px 20px;
+                    background-color: #FFFFFF; /* Cor de fundo */
+                    color: #000000; /* Cor do texto */
+                    text-decoration: none; /* Remover sublinhado padrão do link */
+                    font-size: 16px;
+                    border-radius: 5px;
+                    border: none;
+                    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                    transition: background-color 0.3s, transform 0.2s;
+                }
+
+                .botao-bonito:hover {
+                    background-color: #d3d3d3; /* Cor de fundo alterada */
+                    transform: translateY(-2px); /* Efeito de levantamento */
+                    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+                }
+
+                .botao-bonito:active {
+                    background-color: #a9a9a9; /* Cor de fundo alterada novamente */
+                    transform: translateY(0); /* Reset do efeito de levantamento */
+                    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+                }
+            """
+            return f"<style>{style}</style>"
+
+        # Aplicar os estilos através de JavaScript
+        st.markdown(set_css_style(), unsafe_allow_html=True)
+
+        # Criar o botão utilizando a classe CSS personalizada
+        href = f'<a href="data:file/csv;base64,{b64}" download="selected_rows.csv" class="botao-bonito">Download das linhas selecionadas</a>'
+        st.markdown(href, unsafe_allow_html=True)
+
 
 def plano_pedagogico_1_materia(option):
 
@@ -200,4 +246,7 @@ def app():
                 st.write("Obs.: Isso não inclui as Opções limitadas e livres.")
                 st.write("Detalhes:")
                 st.write(df.sort_values(by='categoria', ascending=True))
+
+                download_button(df)
+                
 
